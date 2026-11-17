@@ -17,7 +17,7 @@ Die TwitchTracker-Zahlen stammen aus der Vorschau der Suche. Die Seite selbst is
 | Streamer | Bezahltes Clipper-Programm gefunden? | Erlaubnis angefragt am | Antwort |
 |---|---|---|---|
 | coachlim | nein (17.11.2026) | | |
-| Mert Abi | nein (17.11.2026) | | |
+| Mert Abi (Twitch: mertabimula) | nein (17.11.2026) | laut Nutzer erlaubt | Screenshot fehlt |
 | Eligella | nein (17.11.2026) | | |
 | gTasty | noch nicht gesucht | | |
 | nooreax | noch nicht gesucht | | |

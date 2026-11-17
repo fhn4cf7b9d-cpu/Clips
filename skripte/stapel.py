@@ -5,7 +5,7 @@ Aufruf: stapel.py auftrag.json
 auftrag.json ist eine Liste wie:
   [{"nr": "09", "vorlage": "kamera-rechts", "hook1": "...", "hook2": "...",
     "start": 0, "dauer": 30, "hook_sek": 3}]
-Quelle: gta6/quelle/<nr>-coachlim.mp4 und .words.json. Ausgabe: gta6/clips/<nr>-roh.mp4 und <nr>-fertig.mp4.
+Quelle: gta6/quelle/<nr>-<streamer>.mp4 ("streamer", Standard coachlim) und .words.json. Ausgabe: gta6/clips/<nr>-roh.mp4 und <nr>-fertig.mp4.
 Fertige Clips werden uebersprungen. Eigene Ausschnitte: "cam", "inhalt", "oben_h" statt "vorlage".
 """
 import json, os, subprocess, sys
@@ -34,7 +34,8 @@ def main():
         v.update({k: a[k] for k in ("cam", "inhalt", "oben_h", "vollbild") if k in a})
         if not v.get("cam") and not v.get("vollbild"):
             print(f"{nr}: keine Vorlage und kein Ausschnitt, uebersprungen"); continue
-        quelle = os.path.join(Q, f"{nr}-coachlim.mp4")
+        name = a.get("streamer", "coachlim")
+        quelle = os.path.join(Q, f"{nr}-{name}.mp4")
         roh = os.path.join(C, f"{nr}-roh.mp4")
         fertig = os.path.join(C, f"{nr}-fertig.mp4")
         if os.path.exists(fertig):
@@ -47,7 +48,7 @@ def main():
                             "--hook1", a.get("hook1", ""), "--hook2", a.get("hook2", ""),
                             "--hook-sek", str(a.get("hook_sek", 3)), "--aus", roh], check=True)
         subprocess.run([sys.executable, os.path.join(HIER, "fertig_machen.py"), roh,
-                        os.path.join(Q, f"{nr}-coachlim.words.json"), fertig,
+                        os.path.join(Q, f"{nr}-{name}.words.json"), fertig,
                         "--start", str(a.get("start", 0))], check=True)
 
 
