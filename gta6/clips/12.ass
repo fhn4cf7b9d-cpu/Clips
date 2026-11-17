@@ -1,0 +1,88 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Wort,DejaVu Sans,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,7,2,2,60,60,480,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.10,Wort,,0,0,0,,{\c&H00FFFF&}Hier{\c&HFFFFFF&} außerhalb
+Dialogue: 0,0:00:00.10,0:00:00.62,Wort,,0,0,0,,Hier {\c&H00FFFF&}außerhalb{\c&HFFFFFF&}
+Dialogue: 0,0:00:00.62,0:00:00.74,Wort,,0,0,0,,{\c&H00FFFF&}der{\c&HFFFFFF&} Schule habe
+Dialogue: 0,0:00:00.74,0:00:01.00,Wort,,0,0,0,,der {\c&H00FFFF&}Schule{\c&HFFFFFF&} habe
+Dialogue: 0,0:00:01.00,0:00:01.20,Wort,,0,0,0,,der Schule {\c&H00FFFF&}habe{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.20,0:00:01.34,Wort,,0,0,0,,{\c&H00FFFF&}ich{\c&HFFFFFF&} das Gefühl,
+Dialogue: 0,0:00:01.34,0:00:01.46,Wort,,0,0,0,,ich {\c&H00FFFF&}das{\c&HFFFFFF&} Gefühl,
+Dialogue: 0,0:00:01.46,0:00:01.82,Wort,,0,0,0,,ich das {\c&H00FFFF&}Gefühl,{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.82,0:00:01.88,Wort,,0,0,0,,{\c&H00FFFF&}die{\c&HFFFFFF&} Planung in
+Dialogue: 0,0:00:01.88,0:00:02.20,Wort,,0,0,0,,die {\c&H00FFFF&}Planung{\c&HFFFFFF&} in
+Dialogue: 0,0:00:02.20,0:00:02.28,Wort,,0,0,0,,die Planung {\c&H00FFFF&}in{\c&HFFFFFF&}
+Dialogue: 0,0:00:02.28,0:00:02.52,Wort,,0,0,0,,{\c&H00FFFF&}Hammock{\c&HFFFFFF&} läuft.
+Dialogue: 0,0:00:02.52,0:00:02.76,Wort,,0,0,0,,Hammock {\c&H00FFFF&}läuft.{\c&HFFFFFF&}
+Dialogue: 0,0:00:02.76,0:00:02.84,Wort,,0,0,0,,{\c&H00FFFF&}Da{\c&HFFFFFF&} sind
+Dialogue: 0,0:00:02.84,0:00:02.96,Wort,,0,0,0,,Da {\c&H00FFFF&}sind{\c&HFFFFFF&}
+Dialogue: 0,0:00:02.96,0:00:03.74,Wort,,0,0,0,,{\c&H00FFFF&}Stärketränke{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.74,0:00:03.80,Wort,,0,0,0,,{\c&H00FFFF&}und{\c&HFFFFFF&} alles.
+Dialogue: 0,0:00:03.80,0:00:04.16,Wort,,0,0,0,,und {\c&H00FFFF&}alles.{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.16,0:00:04.26,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} habe
+Dialogue: 0,0:00:04.26,0:00:04.36,Wort,,0,0,0,,Ich {\c&H00FFFF&}habe{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.36,0:00:04.58,Wort,,0,0,0,,{\c&H00FFFF&}richtig{\c&HFFFFFF&} Angst
+Dialogue: 0,0:00:04.58,0:00:04.88,Wort,,0,0,0,,richtig {\c&H00FFFF&}Angst{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.88,0:00:05.29,Wort,,0,0,0,,{\c&H00FFFF&}gerade.{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.38,0:00:05.76,Wort,,0,0,0,,{\c&H00FFFF&}Okay,{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.76,0:00:06.06,Wort,,0,0,0,,{\c&H00FFFF&}raus{\c&HFFFFFF&} hier,
+Dialogue: 0,0:00:06.06,0:00:06.36,Wort,,0,0,0,,raus {\c&H00FFFF&}hier,{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.36,0:00:06.75,Wort,,0,0,0,,{\c&H00FFFF&}Leute.{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.78,0:00:07.06,Wort,,0,0,0,,{\c&H00FFFF&}Kann{\c&HFFFFFF&} ich die
+Dialogue: 0,0:00:07.06,0:00:07.16,Wort,,0,0,0,,Kann {\c&H00FFFF&}ich{\c&HFFFFFF&} die
+Dialogue: 0,0:00:07.16,0:00:07.48,Wort,,0,0,0,,Kann ich {\c&H00FFFF&}die{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.48,0:00:07.67,Wort,,0,0,0,,{\c&H00FFFF&}Tische?{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.98,0:00:08.02,Wort,,0,0,0,,{\c&H00FFFF&}Was{\c&HFFFFFF&} wollen wir
+Dialogue: 0,0:00:08.02,0:00:08.08,Wort,,0,0,0,,Was {\c&H00FFFF&}wollen{\c&HFFFFFF&} wir
+Dialogue: 0,0:00:08.08,0:00:08.12,Wort,,0,0,0,,Was wollen {\c&H00FFFF&}wir{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.12,0:00:08.24,Wort,,0,0,0,,{\c&H00FFFF&}machen?{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.24,0:00:08.46,Wort,,0,0,0,,{\c&H00FFFF&}Alle{\c&HFFFFFF&} mal raus
+Dialogue: 0,0:00:08.46,0:00:08.48,Wort,,0,0,0,,Alle {\c&H00FFFF&}mal{\c&HFFFFFF&} raus
+Dialogue: 0,0:00:08.48,0:00:08.78,Wort,,0,0,0,,Alle mal {\c&H00FFFF&}raus{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.78,0:00:09.11,Wort,,0,0,0,,{\c&H00FFFF&}hier.{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.20,0:00:09.60,Wort,,0,0,0,,{\c&H00FFFF&}Das{\c&HFFFFFF&} ist
+Dialogue: 0,0:00:09.60,0:00:10.42,Wort,,0,0,0,,Das {\c&H00FFFF&}ist{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.42,0:00:11.41,Wort,,0,0,0,,{\c&H00FFFF&}Quatsch.{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.46,0:00:12.86,Wort,,0,0,0,,{\c&H00FFFF&}Nehmt{\c&HFFFFFF&} mal die
+Dialogue: 0,0:00:12.86,0:00:12.88,Wort,,0,0,0,,Nehmt {\c&H00FFFF&}mal{\c&HFFFFFF&} die
+Dialogue: 0,0:00:12.88,0:00:12.98,Wort,,0,0,0,,Nehmt mal {\c&H00FFFF&}die{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.98,0:00:13.28,Wort,,0,0,0,,{\c&H00FFFF&}Schwerte{\c&HFFFFFF&} in die
+Dialogue: 0,0:00:13.28,0:00:13.38,Wort,,0,0,0,,Schwerte {\c&H00FFFF&}in{\c&HFFFFFF&} die
+Dialogue: 0,0:00:13.38,0:00:13.40,Wort,,0,0,0,,Schwerte in {\c&H00FFFF&}die{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.40,0:00:13.79,Wort,,0,0,0,,{\c&H00FFFF&}Hand.{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.72,0:00:15.12,Wort,,0,0,0,,{\c&H00FFFF&}Achso,{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.12,0:00:15.42,Wort,,0,0,0,,{\c&H00FFFF&}wir{\c&HFFFFFF&} sind seine
+Dialogue: 0,0:00:15.42,0:00:15.58,Wort,,0,0,0,,wir {\c&H00FFFF&}sind{\c&HFFFFFF&} seine
+Dialogue: 0,0:00:15.58,0:00:15.74,Wort,,0,0,0,,wir sind {\c&H00FFFF&}seine{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.74,0:00:16.08,Wort,,0,0,0,,{\c&H00FFFF&}Armee{\c&HFFFFFF&} einfach
+Dialogue: 0,0:00:16.08,0:00:16.28,Wort,,0,0,0,,Armee {\c&H00FFFF&}einfach{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.28,0:00:16.56,Wort,,0,0,0,,{\c&H00FFFF&}am{\c&HFFFFFF&} Necke.
+Dialogue: 0,0:00:16.56,0:00:16.92,Wort,,0,0,0,,am {\c&H00FFFF&}Necke.{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.92,0:00:17.12,Wort,,0,0,0,,{\c&H00FFFF&}Herr{\c&HFFFFFF&} Lehrer,
+Dialogue: 0,0:00:17.12,0:00:17.45,Wort,,0,0,0,,Herr {\c&H00FFFF&}Lehrer,{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.46,0:00:17.54,Wort,,0,0,0,,{\c&H00FFFF&}Sie{\c&HFFFFFF&} sind so
+Dialogue: 0,0:00:17.54,0:00:17.74,Wort,,0,0,0,,Sie {\c&H00FFFF&}sind{\c&HFFFFFF&} so
+Dialogue: 0,0:00:17.74,0:00:17.86,Wort,,0,0,0,,Sie sind {\c&H00FFFF&}so{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.86,0:00:18.24,Wort,,0,0,0,,{\c&H00FFFF&}männlich.{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.24,0:00:18.56,Wort,,0,0,0,,{\c&H00FFFF&}Führen{\c&HFFFFFF&} Sie uns
+Dialogue: 0,0:00:18.56,0:00:18.68,Wort,,0,0,0,,Führen {\c&H00FFFF&}Sie{\c&HFFFFFF&} uns
+Dialogue: 0,0:00:18.68,0:00:18.84,Wort,,0,0,0,,Führen Sie {\c&H00FFFF&}uns{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.84,0:00:19.21,Wort,,0,0,0,,{\c&H00FFFF&}an.{\c&HFFFFFF&}
+Dialogue: 0,0:00:19.32,0:00:19.72,Wort,,0,0,0,,{\c&H00FFFF&}Führen{\c&HFFFFFF&} Sie uns,
+Dialogue: 0,0:00:19.72,0:00:20.26,Wort,,0,0,0,,Führen {\c&H00FFFF&}Sie{\c&HFFFFFF&} uns,
+Dialogue: 0,0:00:20.26,0:00:20.65,Wort,,0,0,0,,Führen Sie {\c&H00FFFF&}uns,{\c&HFFFFFF&}
+Dialogue: 0,0:00:20.76,0:00:20.94,Wort,,0,0,0,,{\c&H00FFFF&}Herr{\c&HFFFFFF&} Lehrer.
+Dialogue: 0,0:00:20.94,0:00:21.60,Wort,,0,0,0,,Herr {\c&H00FFFF&}Lehrer.{\c&HFFFFFF&}
+Dialogue: 0,0:00:21.60,0:00:21.94,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} mag das
+Dialogue: 0,0:00:21.94,0:00:22.14,Wort,,0,0,0,,Ich {\c&H00FFFF&}mag{\c&HFFFFFF&} das
+Dialogue: 0,0:00:22.14,0:00:22.36,Wort,,0,0,0,,Ich mag {\c&H00FFFF&}das{\c&HFFFFFF&}
+Dialogue: 0,0:00:22.36,0:00:22.81,Wort,,0,0,0,,{\c&H00FFFF&}nicht.{\c&HFFFFFF&}

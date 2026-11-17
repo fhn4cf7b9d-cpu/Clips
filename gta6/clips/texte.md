@@ -15,6 +15,18 @@ Erlaubnis: laut Nutzer vorhanden, Screenshot fehlt noch (`gta6/erlaubnisse/`).
 
 Nr 05 („fully locked in“) ausgelassen: nur Spielerklärung, keine Pointe.
 
+| Nr | Datei | Länge | Quelle | Aufrufe auf Twitch (17.11.2026, letzte 30 Tage) |
+|---|---|---|---|---|
+| 09 | 09-fertig.mp4 | 57 s | https://www.twitch.tv/coachlim/clip/VastColdbloodedPorpoisePRChase-nBoQ8RLoh0TST4yh | 5.290 |
+| 10 | 10-fertig.mp4 | 30 s | https://www.twitch.tv/coachlim/clip/DeadStormyPigeonCharlieBitMe-yDThfQxx9QypgOjv | 1.842 |
+| 11 | 11-fertig.mp4 | 30 s | https://www.twitch.tv/coachlim/clip/ConcernedAcceptableTeaDatSheffy--kog56rUjSdiZI1a | 1.297 |
+| 12 | 12-fertig.mp4 | 46 s | https://www.twitch.tv/coachlim/clip/VastRoughBasenjiHeyGuys-AduXZTPTsApF6JFG | 1.242 |
+| 14 | 14-fertig.mp4 | 22 s | https://www.twitch.tv/coachlim/clip/SarcasticFunCheesecakeOMGScoots-CbAhP9vSWhsfAyn7 | 1.116 |
+| 16 | 16-fertig.mp4 | 46 s | https://www.twitch.tv/coachlim/clip/WrongInexpensiveMushroomTakeNRG-bkCZTrvPkG2JeBzT | 648 |
+
+Ausgelassen: 13 (gleicher Moment wie 11), 15 (gleicher Moment wie 10), 17 (Geschichte über eine echte Person im Stripclub), 18 (Transkript zu unklar).
+Hinweis 11: Im Clip läuft ein Song. TikTok kann den Ton bei fremder Musik stummschalten.
+
 ## TikTok-Captions
 
 **01:** Kleiner Jumpscare von der Seite und alle sind raus 😂 Stream: twitch.tv/coachlim @CoachLim #coachlim #jumpscare #twitchclips #horrorgame
@@ -30,6 +42,18 @@ Nr 05 („fully locked in“) ausgelassen: nur Spielerklärung, keine Pointe.
 **07:** Coach in CS2 komplett fassungslos 😳 Stream: twitch.tv/coachlim @CoachLim #coachlim #cs2 #twitchclips #deutschestreamer
 
 **08:** Margit liegt endlich 🏆 Jetzt will Coach 500 Euro 😂 Stream: twitch.tv/coachlim @CoachLim #coachlim #eldenring #margit #twitchclips
+
+**09:** Mert, was hast du gemacht?! 😭 Stream: twitch.tv/coachlim @CoachLim @Mert Abi #coachlim #mertabi #minecraft #twitchclips
+
+**10:** Das ist mein Team, Leute! 🔥 Stream: twitch.tv/coachlim @CoachLim #coachlim #subathon #twitchclips #deutschestreamer
+
+**11:** Wenn dieser Song läuft 😂 Stream: twitch.tv/coachlim @CoachLim #coachlim #subathon #twitchclips #deutschestreamer
+
+**12:** „Herr Lehrer, Sie sind so männlich“ 😂 Stream: twitch.tv/coachlim @CoachLim #coachlim #minecraft #twitchclips #deutschestreamer
+
+**14:** Coach und die Lava, eine Liebesgeschichte 🔥 Stream: twitch.tv/coachlim @CoachLim #coachlim #minecraft #twitchclips #gaming
+
+**16:** Der Entschuldigungs-Smaragd 💎 Stream: twitch.tv/coachlim @CoachLim @Mert Abi #coachlim #mertabi #minecraft #twitchclips
 
 ## Regel-Check (kurz)
 

@@ -57,6 +57,7 @@ def main():
     p.add_argument("--hook-sek", type=float, default=0)
     p.add_argument("--aus", required=True)
     p.add_argument("--oben-h", type=int, default=640, help="Hoehe des oberen Teils (Standard 640)")
+    p.add_argument("--vollbild", help="Nur ein Ausschnitt B:H:X:Y aus --quelle, auf 1080x1920 gefuellt (Handkamera, IRL)")
     a = p.parse_args()
     global OBEN_H, UNTEN_H
     OBEN_H = max(320, min(1600, a.oben_h)) // 2 * 2
@@ -67,7 +68,11 @@ def main():
     if os.path.exists(a.aus):
         sys.exit(f"{a.aus} gibt es schon. Ich überschreibe nichts.")
 
-    if a.quelle and a.cam and a.inhalt:
+    if a.quelle and a.vollbild:
+        eingaben = ["-ss", a.start, "-t", str(a.dauer), "-i", a.quelle]
+        filt = [f"[0:v]crop={a.vollbild}[v0]", fuellen("v0", "st", B, H)]
+        OBEN_H = 650  # Hooks im oberen Drittel
+    elif a.quelle and a.cam and a.inhalt:
         eingaben = ["-ss", a.start, "-t", str(a.dauer), "-i", a.quelle]
         filt = [f"[0:v]split=2[c0][i0]",
                 f"[c0]crop={a.cam}[c1]", fuellen("c1", "cam", B, OBEN_H),
@@ -79,7 +84,8 @@ def main():
     else:
         sys.exit("Entweder --quelle mit --cam und --inhalt, oder --oben und --unten angeben.")
 
-    filt.append("[cam][inh]vstack=inputs=2[st]")
+    if not a.vollbild:
+        filt.append("[cam][inh]vstack=inputs=2[st]")
     letzte = "st"
     tmp = tempfile.mkdtemp(prefix="hook_")
     font = schrift()

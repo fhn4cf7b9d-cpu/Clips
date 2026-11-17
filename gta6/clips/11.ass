@@ -1,0 +1,60 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Wort,DejaVu Sans,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,7,2,2,60,60,480,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.09,0:00:03.55,Wort,,0,0,0,,{\c&H00FFFF&}Digga,{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.55,0:00:03.63,Wort,,0,0,0,,{\c&H00FFFF&}und{\c&HFFFFFF&} das war
+Dialogue: 0,0:00:03.63,0:00:03.65,Wort,,0,0,0,,und {\c&H00FFFF&}das{\c&HFFFFFF&} war
+Dialogue: 0,0:00:03.65,0:00:03.79,Wort,,0,0,0,,und das {\c&H00FFFF&}war{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.79,0:00:03.79,Wort,,0,0,0,,{\c&H00FFFF&}nicht{\c&HFFFFFF&} mal
+Dialogue: 0,0:00:03.79,0:00:03.89,Wort,,0,0,0,,nicht {\c&H00FFFF&}mal{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.89,0:00:04.35,Wort,,0,0,0,,{\c&H00FFFF&}Finale,{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.35,0:00:04.58,Wort,,0,0,0,,{\c&H00FFFF&}ja?{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.63,0:00:04.85,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} bin drunk,
+Dialogue: 0,0:00:04.85,0:00:05.05,Wort,,0,0,0,,Ich {\c&H00FFFF&}bin{\c&HFFFFFF&} drunk,
+Dialogue: 0,0:00:05.05,0:00:05.45,Wort,,0,0,0,,Ich bin {\c&H00FFFF&}drunk,{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.45,0:00:05.71,Wort,,0,0,0,,{\c&H00FFFF&}alles{\c&HFFFFFF&} dreht
+Dialogue: 0,0:00:05.71,0:00:06.13,Wort,,0,0,0,,alles {\c&H00FFFF&}dreht{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.13,0:00:06.25,Wort,,0,0,0,,{\c&H00FFFF&}sich,{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.25,0:00:06.47,Wort,,0,0,0,,{\c&H00FFFF&}jeder{\c&HFFFFFF&} redet,
+Dialogue: 0,0:00:06.47,0:00:07.03,Wort,,0,0,0,,jeder {\c&H00FFFF&}redet,{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.03,0:00:07.21,Wort,,0,0,0,,{\c&H00FFFF&}ich{\c&HFFFFFF&} versteh
+Dialogue: 0,0:00:07.21,0:00:07.61,Wort,,0,0,0,,ich {\c&H00FFFF&}versteh{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.61,0:00:08.07,Wort,,0,0,0,,{\c&H00FFFF&}nix.{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.07,0:00:08.51,Wort,,0,0,0,,{\c&H00FFFF&}Zwei{\c&HFFFFFF&} Liter
+Dialogue: 0,0:00:08.51,0:00:08.83,Wort,,0,0,0,,Zwei {\c&H00FFFF&}Liter{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.83,0:00:09.31,Wort,,0,0,0,,{\c&H00FFFF&}Schnaps,{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.31,0:00:09.55,Wort,,0,0,0,,{\c&H00FFFF&}meine{\c&HFFFFFF&} Leber ist
+Dialogue: 0,0:00:09.55,0:00:10.11,Wort,,0,0,0,,meine {\c&H00FFFF&}Leber{\c&HFFFFFF&} ist
+Dialogue: 0,0:00:10.11,0:00:10.29,Wort,,0,0,0,,meine Leber {\c&H00FFFF&}ist{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.29,0:00:11.16,Wort,,0,0,0,,{\c&H00FFFF&}beschädigt.{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.41,0:00:11.87,Wort,,0,0,0,,{\c&H00FFFF&}Langsam,{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.87,0:00:12.52,Wort,,0,0,0,,{\c&H00FFFF&}bezäglich,{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.55,0:00:12.79,Wort,,0,0,0,,{\c&H00FFFF&}ich{\c&HFFFFFF&} glaub,
+Dialogue: 0,0:00:12.79,0:00:13.07,Wort,,0,0,0,,ich {\c&H00FFFF&}glaub,{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.07,0:00:13.23,Wort,,0,0,0,,{\c&H00FFFF&}ich{\c&HFFFFFF&} brauch ne
+Dialogue: 0,0:00:13.23,0:00:13.39,Wort,,0,0,0,,ich {\c&H00FFFF&}brauch{\c&HFFFFFF&} ne
+Dialogue: 0,0:00:13.39,0:00:13.53,Wort,,0,0,0,,ich brauch {\c&H00FFFF&}ne{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.53,0:00:14.37,Wort,,0,0,0,,{\c&H00FFFF&}Therapie.{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.37,0:00:14.81,Wort,,0,0,0,,{\c&H00FFFF&}Erstmal{\c&HFFFFFF&} an die
+Dialogue: 0,0:00:14.81,0:00:14.93,Wort,,0,0,0,,Erstmal {\c&H00FFFF&}an{\c&HFFFFFF&} die
+Dialogue: 0,0:00:14.93,0:00:15.13,Wort,,0,0,0,,Erstmal an {\c&H00FFFF&}die{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.13,0:00:15.73,Wort,,0,0,0,,{\c&H00FFFF&}Bord{\c&HFFFFFF&} Therapie
+Dialogue: 0,0:00:15.73,0:00:16.25,Wort,,0,0,0,,Bord {\c&H00FFFF&}Therapie{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.25,0:00:16.27,Wort,,0,0,0,,{\c&H00FFFF&}und{\c&HFFFFFF&} bitte was
+Dialogue: 0,0:00:16.27,0:00:16.59,Wort,,0,0,0,,und {\c&H00FFFF&}bitte{\c&HFFFFFF&} was
+Dialogue: 0,0:00:16.59,0:00:16.85,Wort,,0,0,0,,und bitte {\c&H00FFFF&}was{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.85,0:00:17.07,Wort,,0,0,0,,{\c&H00FFFF&}zum{\c&HFFFFFF&} Tiefen.
+Dialogue: 0,0:00:17.07,0:00:17.56,Wort,,0,0,0,,zum {\c&H00FFFF&}Tiefen.{\c&HFFFFFF&}
+Dialogue: 0,0:00:19.94,0:00:20.38,Wort,,0,0,0,,{\c&H00FFFF&}20{\c&HFFFFFF&} Grad und
+Dialogue: 0,0:00:20.38,0:00:20.82,Wort,,0,0,0,,20 {\c&H00FFFF&}Grad{\c&HFFFFFF&} und
+Dialogue: 0,0:00:20.82,0:00:21.12,Wort,,0,0,0,,20 Grad {\c&H00FFFF&}und{\c&HFFFFFF&}
+Dialogue: 0,0:00:21.12,0:00:22.17,Wort,,0,0,0,,{\c&H00FFFF&}Schwarzlack!{\c&HFFFFFF&}

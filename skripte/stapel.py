@@ -31,8 +31,8 @@ def main():
     for a in auftraege:
         nr = a["nr"]
         v = dict(VORLAGEN.get(a.get("vorlage", ""), {}))
-        v.update({k: a[k] for k in ("cam", "inhalt", "oben_h") if k in a})
-        if not v.get("cam"):
+        v.update({k: a[k] for k in ("cam", "inhalt", "oben_h", "vollbild") if k in a})
+        if not v.get("cam") and not v.get("vollbild"):
             print(f"{nr}: keine Vorlage und kein Ausschnitt, uebersprungen"); continue
         quelle = os.path.join(Q, f"{nr}-coachlim.mp4")
         roh = os.path.join(C, f"{nr}-roh.mp4")
@@ -40,8 +40,9 @@ def main():
         if os.path.exists(fertig):
             print(f"{nr}: schon fertig"); continue
         if not os.path.exists(roh):
-            subprocess.run([sys.executable, os.path.join(HIER, "reaktions_layout.py"), "--quelle", quelle,
-                            "--cam", v["cam"], "--inhalt", v["inhalt"], "--oben-h", str(v["oben_h"]),
+            ausschnitt = (["--vollbild", v["vollbild"]] if v.get("vollbild") else
+                          ["--cam", v["cam"], "--inhalt", v["inhalt"], "--oben-h", str(v.get("oben_h", 640))])
+            subprocess.run([sys.executable, os.path.join(HIER, "reaktions_layout.py"), "--quelle", quelle, *ausschnitt,
                             "--start", str(a.get("start", 0)), "--dauer", str(a["dauer"]),
                             "--hook1", a.get("hook1", ""), "--hook2", a.get("hook2", ""),
                             "--hook-sek", str(a.get("hook_sek", 3)), "--aus", roh], check=True)

@@ -1,0 +1,47 @@
+[
+ {
+  "nr": "09",
+  "cam": "556:312:0:0",
+  "inhalt": "908:1080:560:0",
+  "dauer": 56.5,
+  "hook1": "„Mert, was hast du gemacht?“",
+  "hook2": "Mert dreht komplett durch"
+ },
+ {
+  "nr": "10",
+  "vollbild": "608:1080:656:0",
+  "dauer": 30,
+  "hook1": "„Das ist mein Team, Leute!“",
+  "hook2": "Coach komplett eskaliert"
+ },
+ {
+  "nr": "11",
+  "vollbild": "529:940:695:0",
+  "dauer": 29.7,
+  "hook1": "Wenn dieser Song läuft:",
+  "hook2": "Coach komplett eskaliert"
+ },
+ {
+  "nr": "12",
+  "dauer": 45.5,
+  "hook1": "„Herr Lehrer, Sie sind so männlich“",
+  "hook2": "Die Minecraft-Klasse zieht in den Krieg",
+  "vollbild": "529:940:640:0"
+ },
+ {
+  "nr": "14",
+  "cam": "567:320:1353:0",
+  "inhalt": "908:1080:410:0",
+  "dauer": 22,
+  "hook1": "„Digga! Digga! Digga!“",
+  "hook2": "Coach landet in der Lava"
+ },
+ {
+  "nr": "16",
+  "cam": "556:312:0:0",
+  "inhalt": "908:1080:560:0",
+  "dauer": 46,
+  "hook1": "„Hier, als Entschuldigungs-Smaragd“",
+  "hook2": "Mert lässt Tim nicht in Ruhe"
+ }
+]

@@ -1,0 +1,45 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Wort,DejaVu Sans,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,7,2,2,60,60,480,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.65,Wort,,0,0,0,,{\c&H00FFFF&}Nein.{\c&HFFFFFF&}
+Dialogue: 0,0:00:00.96,0:00:01.61,Wort,,0,0,0,,{\c&H00FFFF&}Ui.{\c&HFFFFFF&}
+Dialogue: 0,0:00:02.96,0:00:03.46,Wort,,0,0,0,,{\c&H00FFFF&}Ui,{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.46,0:00:04.07,Wort,,0,0,0,,{\c&H00FFFF&}wurde...{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.68,0:00:05.18,Wort,,0,0,0,,{\c&H00FFFF&}Was{\c&HFFFFFF&} machst du?
+Dialogue: 0,0:00:05.18,0:00:05.46,Wort,,0,0,0,,Was {\c&H00FFFF&}machst{\c&HFFFFFF&} du?
+Dialogue: 0,0:00:05.46,0:00:05.71,Wort,,0,0,0,,Was machst {\c&H00FFFF&}du?{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.86,0:00:07.51,Wort,,0,0,0,,{\c&H00FFFF&}Merth?{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.89,0:00:13.41,Wort,,0,0,0,,{\c&H00FFFF&}Merth,{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.41,0:00:13.49,Wort,,0,0,0,,{\c&H00FFFF&}was{\c&HFFFFFF&} passiert
+Dialogue: 0,0:00:13.49,0:00:13.75,Wort,,0,0,0,,was {\c&H00FFFF&}passiert{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.75,0:00:14.10,Wort,,0,0,0,,{\c&H00FFFF&}hier?{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.43,0:00:16.08,Wort,,0,0,0,,{\c&H00FFFF&}Merth?{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.89,0:00:17.54,Wort,,0,0,0,,{\c&H00FFFF&}Merth?{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.63,0:00:18.09,Wort,,0,0,0,,{\c&H00FFFF&}Was{\c&HFFFFFF&} passiert
+Dialogue: 0,0:00:18.09,0:00:18.55,Wort,,0,0,0,,Was {\c&H00FFFF&}passiert{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.55,0:00:18.88,Wort,,0,0,0,,{\c&H00FFFF&}hier?{\c&HFFFFFF&}
+Dialogue: 0,0:00:19.39,0:00:20.04,Wort,,0,0,0,,{\c&H00FFFF&}Merth?{\c&HFFFFFF&}
+Dialogue: 0,0:00:20.21,0:00:20.86,Wort,,0,0,0,,{\c&H00FFFF&}Was{\c&HFFFFFF&}
+Dialogue: 0,0:00:24.49,0:00:24.81,Wort,,0,0,0,,{\c&H00FFFF&}passiert{\c&HFFFFFF&} hier,
+Dialogue: 0,0:00:24.81,0:00:25.11,Wort,,0,0,0,,passiert {\c&H00FFFF&}hier,{\c&HFFFFFF&}
+Dialogue: 0,0:00:25.11,0:00:25.52,Wort,,0,0,0,,{\c&H00FFFF&}Merth?{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.03,0:00:26.55,Wort,,0,0,0,,{\c&H00FFFF&}Merth?{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.55,0:00:26.86,Wort,,0,0,0,,{\c&H00FFFF&}Was{\c&HFFFFFF&}
+Dialogue: 0,0:00:29.75,0:00:29.93,Wort,,0,0,0,,{\c&H00FFFF&}machst{\c&HFFFFFF&} du?
+Dialogue: 0,0:00:29.93,0:00:30.30,Wort,,0,0,0,,machst {\c&H00FFFF&}du?{\c&HFFFFFF&}
+Dialogue: 0,0:00:32.05,0:00:32.70,Wort,,0,0,0,,{\c&H00FFFF&}Merth?{\c&HFFFFFF&}
+Dialogue: 0,0:00:34.39,0:00:35.04,Wort,,0,0,0,,{\c&H00FFFF&}Schilderbruder!{\c&HFFFFFF&}
+Dialogue: 0,0:00:41.34,0:00:41.84,Wort,,0,0,0,,{\c&H00FFFF&}Merth,{\c&HFFFFFF&}
+Dialogue: 0,0:00:41.84,0:00:42.17,Wort,,0,0,0,,{\c&H00FFFF&}was{\c&HFFFFFF&}
+Dialogue: 0,0:00:45.86,0:00:46.10,Wort,,0,0,0,,{\c&H00FFFF&}hast{\c&HFFFFFF&} du
+Dialogue: 0,0:00:46.10,0:00:46.24,Wort,,0,0,0,,hast {\c&H00FFFF&}du{\c&HFFFFFF&}
+Dialogue: 0,0:00:46.24,0:00:46.67,Wort,,0,0,0,,{\c&H00FFFF&}gemacht?{\c&HFFFFFF&}
