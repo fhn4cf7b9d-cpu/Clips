@@ -1,0 +1,18 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Wort,DejaVu Sans,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,7,2,2,60,60,480,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.78,0:00:01.26,Wort,,0,0,0,,{\c&H00FFFF&}Warum{\c&HFFFFFF&} ist hier
+Dialogue: 0,0:00:01.26,0:00:01.40,Wort,,0,0,0,,Warum {\c&H00FFFF&}ist{\c&HFFFFFF&} hier
+Dialogue: 0,0:00:01.40,0:00:01.48,Wort,,0,0,0,,Warum ist {\c&H00FFFF&}hier{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.48,0:00:01.56,Wort,,0,0,0,,{\c&H00FFFF&}so{\c&HFFFFFF&} viel Musik?
+Dialogue: 0,0:00:01.56,0:00:01.66,Wort,,0,0,0,,so {\c&H00FFFF&}viel{\c&HFFFFFF&} Musik?
+Dialogue: 0,0:00:01.66,0:00:01.99,Wort,,0,0,0,,so viel {\c&H00FFFF&}Musik?{\c&HFFFFFF&}

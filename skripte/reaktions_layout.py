@@ -56,7 +56,11 @@ def main():
     p.add_argument("--hook1", default=""); p.add_argument("--hook2", default="")
     p.add_argument("--hook-sek", type=float, default=0)
     p.add_argument("--aus", required=True)
+    p.add_argument("--oben-h", type=int, default=640, help="Hoehe des oberen Teils (Standard 640)")
     a = p.parse_args()
+    global OBEN_H, UNTEN_H
+    OBEN_H = max(320, min(1600, a.oben_h)) // 2 * 2
+    UNTEN_H = H - OBEN_H
 
     if not 5 <= a.dauer <= 180:
         sys.exit("Dauer bitte zwischen 5 und 180 Sekunden.")

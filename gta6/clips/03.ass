@@ -1,0 +1,50 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Wort,DejaVu Sans,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,7,2,2,60,60,480,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.56,Wort,,0,0,0,,{\c&H00FFFF&}Wallah,{\c&HFFFFFF&}
+Dialogue: 0,0:00:00.56,0:00:00.72,Wort,,0,0,0,,{\c&H00FFFF&}genau{\c&HFFFFFF&} deswegen,
+Dialogue: 0,0:00:00.72,0:00:01.12,Wort,,0,0,0,,genau {\c&H00FFFF&}deswegen,{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.12,0:00:01.24,Wort,,0,0,0,,{\c&H00FFFF&}weil{\c&HFFFFFF&} der zu
+Dialogue: 0,0:00:01.24,0:00:01.34,Wort,,0,0,0,,weil {\c&H00FFFF&}der{\c&HFFFFFF&} zu
+Dialogue: 0,0:00:01.34,0:00:01.46,Wort,,0,0,0,,weil der {\c&H00FFFF&}zu{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.46,0:00:01.64,Wort,,0,0,0,,{\c&H00FFFF&}lange{\c&HFFFFFF&} braucht,
+Dialogue: 0,0:00:01.64,0:00:01.96,Wort,,0,0,0,,lange {\c&H00FFFF&}braucht,{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.96,0:00:02.08,Wort,,0,0,0,,{\c&H00FFFF&}der{\c&HFFFFFF&} N*ttensohn.
+Dialogue: 0,0:00:02.08,0:00:02.60,Wort,,0,0,0,,der {\c&H00FFFF&}N*ttensohn.{\c&HFFFFFF&}
+Dialogue: 0,0:00:02.60,0:00:02.74,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} kann mich
+Dialogue: 0,0:00:02.74,0:00:02.88,Wort,,0,0,0,,Ich {\c&H00FFFF&}kann{\c&HFFFFFF&} mich
+Dialogue: 0,0:00:02.88,0:00:03.02,Wort,,0,0,0,,Ich kann {\c&H00FFFF&}mich{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.02,0:00:03.12,Wort,,0,0,0,,{\c&H00FFFF&}nicht{\c&HFFFFFF&} mehr dran
+Dialogue: 0,0:00:03.12,0:00:03.26,Wort,,0,0,0,,nicht {\c&H00FFFF&}mehr{\c&HFFFFFF&} dran
+Dialogue: 0,0:00:03.26,0:00:03.36,Wort,,0,0,0,,nicht mehr {\c&H00FFFF&}dran{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.36,0:00:03.78,Wort,,0,0,0,,{\c&H00FFFF&}gewöhnen{\c&HFFFFFF&} an
+Dialogue: 0,0:00:03.78,0:00:03.90,Wort,,0,0,0,,gewöhnen {\c&H00FFFF&}an{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.90,0:00:04.04,Wort,,0,0,0,,{\c&H00FFFF&}seine{\c&HFFFFFF&} H*rensohn
+Dialogue: 0,0:00:04.04,0:00:04.62,Wort,,0,0,0,,seine {\c&H00FFFF&}H*rensohn{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.62,0:00:04.98,Wort,,0,0,0,,{\c&H00FFFF&}Schläge,{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.98,0:00:05.06,Wort,,0,0,0,,{\c&H00FFFF&}du{\c&HFFFFFF&} H*rensohn.
+Dialogue: 0,0:00:05.06,0:00:06.09,Wort,,0,0,0,,du {\c&H00FFFF&}H*rensohn.{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.42,0:00:06.70,Wort,,0,0,0,,{\c&H00FFFF&}Puta,{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.70,0:00:06.88,Wort,,0,0,0,,{\c&H00FFFF&}Chief{\c&HFFFFFF&} Shannon,
+Dialogue: 0,0:00:06.88,0:00:07.26,Wort,,0,0,0,,Chief {\c&H00FFFF&}Shannon,{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.26,0:00:07.54,Wort,,0,0,0,,{\c&H00FFFF&}du{\c&HFFFFFF&} H*rensohn,
+Dialogue: 0,0:00:07.54,0:00:08.18,Wort,,0,0,0,,du {\c&H00FFFF&}H*rensohn,{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.18,0:00:08.39,Wort,,0,0,0,,{\c&H00FFFF&}du.{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.12,0:00:09.42,Wort,,0,0,0,,{\c&H00FFFF&}H*rensohn,{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.42,0:00:09.56,Wort,,0,0,0,,{\c&H00FFFF&}schau{\c&HFFFFFF&} dir mich
+Dialogue: 0,0:00:09.56,0:00:09.60,Wort,,0,0,0,,schau {\c&H00FFFF&}dir{\c&HFFFFFF&} mich
+Dialogue: 0,0:00:09.60,0:00:09.72,Wort,,0,0,0,,schau dir {\c&H00FFFF&}mich{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.72,0:00:09.86,Wort,,0,0,0,,{\c&H00FFFF&}zwei{\c&HFFFFFF&} Minuten
+Dialogue: 0,0:00:09.86,0:00:10.08,Wort,,0,0,0,,zwei {\c&H00FFFF&}Minuten{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.08,0:00:10.47,Wort,,0,0,0,,{\c&H00FFFF&}an.{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.18,0:00:11.46,Wort,,0,0,0,,{\c&H00FFFF&}B*stard,{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.46,0:00:11.71,Wort,,0,0,0,,{\c&H00FFFF&}du.{\c&HFFFFFF&}
