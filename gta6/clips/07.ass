@@ -1,0 +1,62 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Wort,DejaVu Sans,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,7,2,2,60,60,480,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.48,0:00:00.76,Wort,,0,0,0,,{\c&H00FFFF&}Bist{\c&HFFFFFF&} du?
+Dialogue: 0,0:00:00.76,0:00:00.90,Wort,,0,0,0,,Bist {\c&H00FFFF&}du?{\c&HFFFFFF&}
+Dialogue: 0,0:00:00.90,0:00:01.06,Wort,,0,0,0,,{\c&H00FFFF&}Ah,{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.06,0:00:01.35,Wort,,0,0,0,,{\c&H00FFFF&}Long.{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.18,0:00:03.46,Wort,,0,0,0,,{\c&H00FFFF&}Verrückter{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.46,0:00:03.85,Wort,,0,0,0,,{\c&H00FFFF&}Smoke.{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.72,0:00:05.00,Wort,,0,0,0,,{\c&H00FFFF&}Er{\c&HFFFFFF&} ist in
+Dialogue: 0,0:00:05.00,0:00:05.14,Wort,,0,0,0,,Er {\c&H00FFFF&}ist{\c&HFFFFFF&} in
+Dialogue: 0,0:00:05.14,0:00:05.20,Wort,,0,0,0,,Er ist {\c&H00FFFF&}in{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.20,0:00:05.20,Wort,,0,0,0,,{\c&H00FFFF&}der{\c&HFFFFFF&} Mitte,
+Dialogue: 0,0:00:05.20,0:00:05.52,Wort,,0,0,0,,der {\c&H00FFFF&}Mitte,{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.52,0:00:05.78,Wort,,0,0,0,,{\c&H00FFFF&}wo{\c&HFFFFFF&} er erwartet
+Dialogue: 0,0:00:05.78,0:00:05.80,Wort,,0,0,0,,wo {\c&H00FFFF&}er{\c&HFFFFFF&} erwartet
+Dialogue: 0,0:00:05.80,0:00:06.24,Wort,,0,0,0,,wo er {\c&H00FFFF&}erwartet{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.24,0:00:06.44,Wort,,0,0,0,,{\c&H00FFFF&}wird,{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.44,0:00:06.62,Wort,,0,0,0,,{\c&H00FFFF&}dass{\c&HFFFFFF&} der
+Dialogue: 0,0:00:06.62,0:00:06.70,Wort,,0,0,0,,dass {\c&H00FFFF&}der{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.70,0:00:07.02,Wort,,0,0,0,,{\c&H00FFFF&}auslässt.{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.02,0:00:07.28,Wort,,0,0,0,,{\c&H00FFFF&}Long,{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.28,0:00:07.50,Wort,,0,0,0,,{\c&H00FFFF&}Long,{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.50,0:00:07.74,Wort,,0,0,0,,{\c&H00FFFF&}Long,{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.74,0:00:07.88,Wort,,0,0,0,,{\c&H00FFFF&}Long,{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.88,0:00:07.96,Wort,,0,0,0,,{\c&H00FFFF&}es{\c&HFFFFFF&} kracht,
+Dialogue: 0,0:00:07.96,0:00:08.26,Wort,,0,0,0,,es {\c&H00FFFF&}kracht,{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.26,0:00:08.32,Wort,,0,0,0,,{\c&H00FFFF&}es{\c&HFFFFFF&} kracht.
+Dialogue: 0,0:00:08.32,0:00:08.73,Wort,,0,0,0,,es {\c&H00FFFF&}kracht.{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.36,0:00:12.74,Wort,,0,0,0,,{\c&H00FFFF&}Hä?{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.74,0:00:12.82,Wort,,0,0,0,,{\c&H00FFFF&}Was{\c&HFFFFFF&} geht bei
+Dialogue: 0,0:00:12.82,0:00:12.94,Wort,,0,0,0,,Was {\c&H00FFFF&}geht{\c&HFFFFFF&} bei
+Dialogue: 0,0:00:12.94,0:00:13.00,Wort,,0,0,0,,Was geht {\c&H00FFFF&}bei{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.00,0:00:13.25,Wort,,0,0,0,,{\c&H00FFFF&}ihm?{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.56,0:00:13.99,Wort,,0,0,0,,{\c&H00FFFF&}Hä?{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.44,0:00:14.72,Wort,,0,0,0,,{\c&H00FFFF&}Oh{\c&HFFFFFF&} mein Gott!
+Dialogue: 0,0:00:14.72,0:00:14.84,Wort,,0,0,0,,Oh {\c&H00FFFF&}mein{\c&HFFFFFF&} Gott!
+Dialogue: 0,0:00:14.84,0:00:15.41,Wort,,0,0,0,,Oh mein {\c&H00FFFF&}Gott!{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.42,0:00:15.70,Wort,,0,0,0,,{\c&H00FFFF&}Hör{\c&HFFFFFF&} auf meinen
+Dialogue: 0,0:00:15.70,0:00:15.92,Wort,,0,0,0,,Hör {\c&H00FFFF&}auf{\c&HFFFFFF&} meinen
+Dialogue: 0,0:00:15.92,0:00:16.24,Wort,,0,0,0,,Hör auf {\c&H00FFFF&}meinen{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.24,0:00:16.72,Wort,,0,0,0,,{\c&H00FFFF&}Schmuck{\c&HFFFFFF&} hinein!
+Dialogue: 0,0:00:16.72,0:00:17.18,Wort,,0,0,0,,Schmuck {\c&H00FFFF&}hinein!{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.18,0:00:17.28,Wort,,0,0,0,,{\c&H00FFFF&}Schau{\c&HFFFFFF&} auf meine
+Dialogue: 0,0:00:17.28,0:00:17.28,Wort,,0,0,0,,Schau {\c&H00FFFF&}auf{\c&HFFFFFF&} meine
+Dialogue: 0,0:00:17.28,0:00:17.36,Wort,,0,0,0,,Schau auf {\c&H00FFFF&}meine{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.36,0:00:17.74,Wort,,0,0,0,,{\c&H00FFFF&}Mutter,{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.74,0:00:17.84,Wort,,0,0,0,,{\c&H00FFFF&}das{\c&HFFFFFF&} ist
+Dialogue: 0,0:00:17.84,0:00:17.88,Wort,,0,0,0,,das {\c&H00FFFF&}ist{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.88,0:00:18.44,Wort,,0,0,0,,{\c&H00FFFF&}geisteskrank,{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.44,0:00:18.68,Wort,,0,0,0,,{\c&H00FFFF&}schau{\c&HFFFFFF&} auf Gott.
+Dialogue: 0,0:00:18.68,0:00:18.72,Wort,,0,0,0,,schau {\c&H00FFFF&}auf{\c&HFFFFFF&} Gott.
+Dialogue: 0,0:00:18.72,0:00:19.01,Wort,,0,0,0,,schau auf {\c&H00FFFF&}Gott.{\c&HFFFFFF&}

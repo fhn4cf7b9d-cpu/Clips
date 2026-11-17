@@ -10,7 +10,12 @@ import argparse, json, re
 ZENSUR = {  # Wortstamm -> Ersatz (Gross/Klein egal)
     "hurensohn": "H*rensohn", "nuttensohn": "N*ttensohn", "bastard": "B*stard",
     "fick": "F*ck", "fotze": "F*tze", "wichser": "W*chser", "missgeburt": "M*ssgeburt",
+    "nutte": "N*tte", "hure": "H*re", "puta": "P*ta",
 }
+
+
+def ist_schimpfwort(w):
+    return any(stamm in w.lower() for stamm in ZENSUR)
 
 
 def zensiere(w):
@@ -47,6 +52,10 @@ def main():
     a = p.parse_args()
     ws = [dict(w, s=w["s"] - a.start, e=w["e"] - a.start) for w in json.load(open(a.json, encoding="utf-8"))
           if w["s"] >= a.start and w["e"] <= a.ende and w["w"].strip()]
+    # Whisper-Halluzinationen: 3+ Woerter mit identischer Startzeit sind nicht gesprochen
+    from collections import Counter
+    gleich = Counter(round(w["s"], 2) for w in ws)
+    ws = [w for w in ws if gleich[round(w["s"], 2)] < 3]
     for w in ws:
         w["w"] = w["w"].lstrip("-").strip()
         if a.zensur == "ja":

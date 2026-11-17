@@ -1,0 +1,140 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Wort,DejaVu Sans,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,7,2,2,60,60,480,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.42,Wort,,0,0,0,,{\c&H00FFFF&}Easy{\c&HFFFFFF&} retake.
+Dialogue: 0,0:00:00.42,0:00:01.04,Wort,,0,0,0,,Easy {\c&H00FFFF&}retake.{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.04,0:00:01.48,Wort,,0,0,0,,{\c&H00FFFF&}Einer{\c&HFFFFFF&} backside
+Dialogue: 0,0:00:01.48,0:00:01.72,Wort,,0,0,0,,Einer {\c&H00FFFF&}backside{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.72,0:00:02.18,Wort,,0,0,0,,{\c&H00FFFF&}dockt.{\c&HFFFFFF&}
+Dialogue: 0,0:00:02.18,0:00:02.60,Wort,,0,0,0,,{\c&H00FFFF&}Lass{\c&HFFFFFF&} raus
+Dialogue: 0,0:00:02.60,0:00:02.78,Wort,,0,0,0,,Lass {\c&H00FFFF&}raus{\c&HFFFFFF&}
+Dialogue: 0,0:00:02.78,0:00:03.06,Wort,,0,0,0,,{\c&H00FFFF&}jetzt.{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.06,0:00:03.16,Wort,,0,0,0,,{\c&H00FFFF&}Lass{\c&HFFFFFF&} raus man
+Dialogue: 0,0:00:03.16,0:00:03.30,Wort,,0,0,0,,Lass {\c&H00FFFF&}raus{\c&HFFFFFF&} man
+Dialogue: 0,0:00:03.30,0:00:03.48,Wort,,0,0,0,,Lass raus {\c&H00FFFF&}man{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.48,0:00:03.56,Wort,,0,0,0,,{\c&H00FFFF&}so{\c&HFFFFFF&} langsam.
+Dialogue: 0,0:00:03.56,0:00:03.83,Wort,,0,0,0,,so {\c&H00FFFF&}langsam.{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.90,0:00:04.12,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} hab keine
+Dialogue: 0,0:00:04.12,0:00:04.20,Wort,,0,0,0,,Ich {\c&H00FFFF&}hab{\c&HFFFFFF&} keine
+Dialogue: 0,0:00:04.20,0:00:04.34,Wort,,0,0,0,,Ich hab {\c&H00FFFF&}keine{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.34,0:00:04.54,Wort,,0,0,0,,{\c&H00FFFF&}Flash{\c&HFFFFFF&} raus.
+Dialogue: 0,0:00:04.54,0:00:04.78,Wort,,0,0,0,,Flash {\c&H00FFFF&}raus.{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.78,0:00:04.92,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} bin raus
+Dialogue: 0,0:00:04.92,0:00:05.02,Wort,,0,0,0,,Ich {\c&H00FFFF&}bin{\c&HFFFFFF&} raus
+Dialogue: 0,0:00:05.02,0:00:05.34,Wort,,0,0,0,,Ich bin {\c&H00FFFF&}raus{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.34,0:00:05.54,Wort,,0,0,0,,{\c&H00FFFF&}der{\c&HFFFFFF&} Reason!
+Dialogue: 0,0:00:05.54,0:00:05.97,Wort,,0,0,0,,der {\c&H00FFFF&}Reason!{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.58,0:00:06.82,Wort,,0,0,0,,{\c&H00FFFF&}Ja{\c&HFFFFFF&} kill doch
+Dialogue: 0,0:00:06.82,0:00:07.06,Wort,,0,0,0,,Ja {\c&H00FFFF&}kill{\c&HFFFFFF&} doch
+Dialogue: 0,0:00:07.06,0:00:07.34,Wort,,0,0,0,,Ja kill {\c&H00FFFF&}doch{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.34,0:00:07.64,Wort,,0,0,0,,{\c&H00FFFF&}deine{\c&HFFFFFF&} Eier!
+Dialogue: 0,0:00:07.64,0:00:08.14,Wort,,0,0,0,,deine {\c&H00FFFF&}Eier!{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.14,0:00:08.52,Wort,,0,0,0,,{\c&H00FFFF&}Du{\c&HFFFFFF&} Schwachsinn!
+Dialogue: 0,0:00:08.52,0:00:09.95,Wort,,0,0,0,,Du {\c&H00FFFF&}Schwachsinn!{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.90,0:00:14.14,Wort,,0,0,0,,{\c&H00FFFF&}Die{\c&HFFFFFF&} defused.
+Dialogue: 0,0:00:14.14,0:00:14.51,Wort,,0,0,0,,Die {\c&H00FFFF&}defused.{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.98,0:00:15.42,Wort,,0,0,0,,{\c&H00FFFF&}Die{\c&HFFFFFF&} defused.
+Dialogue: 0,0:00:15.42,0:00:15.91,Wort,,0,0,0,,Die {\c&H00FFFF&}defused.{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.02,0:00:16.61,Wort,,0,0,0,,{\c&H00FFFF&}Link,{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.88,0:00:17.04,Wort,,0,0,0,,{\c&H00FFFF&}link,{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.04,0:00:17.30,Wort,,0,0,0,,{\c&H00FFFF&}zähl{\c&HFFFFFF&} den Ding.
+Dialogue: 0,0:00:17.30,0:00:17.38,Wort,,0,0,0,,zähl {\c&H00FFFF&}den{\c&HFFFFFF&} Ding.
+Dialogue: 0,0:00:17.38,0:00:17.53,Wort,,0,0,0,,zähl den {\c&H00FFFF&}Ding.{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.12,0:00:18.56,Wort,,0,0,0,,{\c&H00FFFF&}Ah{\c&HFFFFFF&} ne.
+Dialogue: 0,0:00:18.56,0:00:18.96,Wort,,0,0,0,,Ah {\c&H00FFFF&}ne.{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.96,0:00:19.28,Wort,,0,0,0,,{\c&H00FFFF&}Oh{\c&HFFFFFF&} mein Gott.
+Dialogue: 0,0:00:19.28,0:00:19.50,Wort,,0,0,0,,Oh {\c&H00FFFF&}mein{\c&HFFFFFF&} Gott.
+Dialogue: 0,0:00:19.50,0:00:19.85,Wort,,0,0,0,,Oh mein {\c&H00FFFF&}Gott.{\c&HFFFFFF&}
+Dialogue: 0,0:00:20.88,0:00:21.32,Wort,,0,0,0,,{\c&H00FFFF&}Ey{\c&HFFFFFF&} Coach.
+Dialogue: 0,0:00:21.32,0:00:21.72,Wort,,0,0,0,,Ey {\c&H00FFFF&}Coach.{\c&HFFFFFF&}
+Dialogue: 0,0:00:21.72,0:00:22.10,Wort,,0,0,0,,{\c&H00FFFF&}Aber{\c&HFFFFFF&} warum war
+Dialogue: 0,0:00:22.10,0:00:23.02,Wort,,0,0,0,,Aber {\c&H00FFFF&}warum{\c&HFFFFFF&} war
+Dialogue: 0,0:00:23.02,0:00:23.30,Wort,,0,0,0,,Aber warum {\c&H00FFFF&}war{\c&HFFFFFF&}
+Dialogue: 0,0:00:23.30,0:00:23.36,Wort,,0,0,0,,{\c&H00FFFF&}denn{\c&HFFFFFF&} jetzt
+Dialogue: 0,0:00:23.36,0:00:23.58,Wort,,0,0,0,,denn {\c&H00FFFF&}jetzt{\c&HFFFFFF&}
+Dialogue: 0,0:00:23.58,0:00:23.82,Wort,,0,0,0,,{\c&H00FFFF&}keine{\c&HFFFFFF&} Trap da?
+Dialogue: 0,0:00:23.82,0:00:24.24,Wort,,0,0,0,,keine {\c&H00FFFF&}Trap{\c&HFFFFFF&} da?
+Dialogue: 0,0:00:24.24,0:00:24.52,Wort,,0,0,0,,keine Trap {\c&H00FFFF&}da?{\c&HFFFFFF&}
+Dialogue: 0,0:00:24.52,0:00:24.72,Wort,,0,0,0,,{\c&H00FFFF&}Du{\c&HFFFFFF&} läufst
+Dialogue: 0,0:00:24.72,0:00:24.92,Wort,,0,0,0,,Du {\c&H00FFFF&}läufst{\c&HFFFFFF&}
+Dialogue: 0,0:00:24.92,0:00:25.02,Wort,,0,0,0,,{\c&H00FFFF&}einfach{\c&HFFFFFF&} aus.
+Dialogue: 0,0:00:25.02,0:00:25.50,Wort,,0,0,0,,einfach {\c&H00FFFF&}aus.{\c&HFFFFFF&}
+Dialogue: 0,0:00:25.50,0:00:25.66,Wort,,0,0,0,,{\c&H00FFFF&}Du{\c&HFFFFFF&} hast ja
+Dialogue: 0,0:00:25.66,0:00:25.68,Wort,,0,0,0,,Du {\c&H00FFFF&}hast{\c&HFFFFFF&} ja
+Dialogue: 0,0:00:25.68,0:00:25.86,Wort,,0,0,0,,Du hast {\c&H00FFFF&}ja{\c&HFFFFFF&}
+Dialogue: 0,0:00:25.86,0:00:25.98,Wort,,0,0,0,,{\c&H00FFFF&}keine{\c&HFFFFFF&} Trap oder
+Dialogue: 0,0:00:25.98,0:00:26.38,Wort,,0,0,0,,keine {\c&H00FFFF&}Trap{\c&HFFFFFF&} oder
+Dialogue: 0,0:00:26.38,0:00:26.56,Wort,,0,0,0,,keine Trap {\c&H00FFFF&}oder{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.56,0:00:26.90,Wort,,0,0,0,,{\c&H00FFFF&}Wall{\c&HFFFFFF&} da meine
+Dialogue: 0,0:00:26.90,0:00:27.14,Wort,,0,0,0,,Wall {\c&H00FFFF&}da{\c&HFFFFFF&} meine
+Dialogue: 0,0:00:27.14,0:00:27.36,Wort,,0,0,0,,Wall da {\c&H00FFFF&}meine{\c&HFFFFFF&}
+Dialogue: 0,0:00:27.36,0:00:27.85,Wort,,0,0,0,,{\c&H00FFFF&}besten.{\c&HFFFFFF&}
+Dialogue: 0,0:00:27.92,0:00:27.96,Wort,,0,0,0,,{\c&H00FFFF&}Ja,{\c&HFFFFFF&}
+Dialogue: 0,0:00:27.96,0:00:28.06,Wort,,0,0,0,,{\c&H00FFFF&}ja,{\c&HFFFFFF&}
+Dialogue: 0,0:00:28.06,0:00:28.34,Wort,,0,0,0,,{\c&H00FFFF&}ja.{\c&HFFFFFF&}
+Dialogue: 0,0:00:28.34,0:00:28.72,Wort,,0,0,0,,{\c&H00FFFF&}Aber{\c&HFFFFFF&} B ist
+Dialogue: 0,0:00:28.72,0:00:28.90,Wort,,0,0,0,,Aber {\c&H00FFFF&}B{\c&HFFFFFF&} ist
+Dialogue: 0,0:00:28.90,0:00:29.36,Wort,,0,0,0,,Aber B {\c&H00FFFF&}ist{\c&HFFFFFF&}
+Dialogue: 0,0:00:29.36,0:00:29.66,Wort,,0,0,0,,{\c&H00FFFF&}doch{\c&HFFFFFF&} ein ganz
+Dialogue: 0,0:00:29.66,0:00:29.76,Wort,,0,0,0,,doch {\c&H00FFFF&}ein{\c&HFFFFFF&} ganz
+Dialogue: 0,0:00:29.76,0:00:30.02,Wort,,0,0,0,,doch ein {\c&H00FFFF&}ganz{\c&HFFFFFF&}
+Dialogue: 0,0:00:30.02,0:00:30.48,Wort,,0,0,0,,{\c&H00FFFF&}easy{\c&HFFFFFF&} Ding.
+Dialogue: 0,0:00:30.48,0:00:30.74,Wort,,0,0,0,,easy {\c&H00FFFF&}Ding.{\c&HFFFFFF&}
+Dialogue: 0,0:00:30.74,0:00:30.94,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} Penner
+Dialogue: 0,0:00:30.94,0:00:31.30,Wort,,0,0,0,,Ich {\c&H00FFFF&}Penner{\c&HFFFFFF&}
+Dialogue: 0,0:00:31.30,0:00:31.63,Wort,,0,0,0,,{\c&H00FFFF&}Internet,{\c&HFFFFFF&}
+Dialogue: 0,0:00:31.80,0:00:31.88,Wort,,0,0,0,,{\c&H00FFFF&}du{\c&HFFFFFF&} Schreiner.
+Dialogue: 0,0:00:31.88,0:00:32.51,Wort,,0,0,0,,du {\c&H00FFFF&}Schreiner.{\c&HFFFFFF&}
+Dialogue: 0,0:00:32.58,0:00:32.78,Wort,,0,0,0,,{\c&H00FFFF&}Ja,{\c&HFFFFFF&}
+Dialogue: 0,0:00:32.78,0:00:32.78,Wort,,0,0,0,,{\c&H00FFFF&}aber{\c&HFFFFFF&} schon.
+Dialogue: 0,0:00:32.78,0:00:32.93,Wort,,0,0,0,,aber {\c&H00FFFF&}schon.{\c&HFFFFFF&}
+Dialogue: 0,0:00:34.50,0:00:35.02,Wort,,0,0,0,,{\c&H00FFFF&}Aber{\c&HFFFFFF&} lass
+Dialogue: 0,0:00:35.02,0:00:35.54,Wort,,0,0,0,,Aber {\c&H00FFFF&}lass{\c&HFFFFFF&}
+Dialogue: 0,0:00:35.54,0:00:37.22,Wort,,0,0,0,,{\c&H00FFFF&}einfach{\c&HFFFFFF&} mit
+Dialogue: 0,0:00:37.22,0:00:37.26,Wort,,0,0,0,,einfach {\c&H00FFFF&}mit{\c&HFFFFFF&}
+Dialogue: 0,0:00:37.26,0:00:37.26,Wort,,0,0,0,,{\c&H00FFFF&}deinem{\c&HFFFFFF&} Penner
+Dialogue: 0,0:00:37.26,0:00:37.58,Wort,,0,0,0,,deinem {\c&H00FFFF&}Penner{\c&HFFFFFF&}
+Dialogue: 0,0:00:37.58,0:00:37.62,Wort,,0,0,0,,{\c&H00FFFF&}Center.{\c&HFFFFFF&}
+Dialogue: 0,0:00:37.62,0:00:37.80,Wort,,0,0,0,,{\c&H00FFFF&}Aber{\c&HFFFFFF&} lass
+Dialogue: 0,0:00:37.80,0:00:38.18,Wort,,0,0,0,,Aber {\c&H00FFFF&}lass{\c&HFFFFFF&}
+Dialogue: 0,0:00:38.18,0:00:38.58,Wort,,0,0,0,,{\c&H00FFFF&}einfach{\c&HFFFFFF&} mit
+Dialogue: 0,0:00:38.58,0:00:39.24,Wort,,0,0,0,,einfach {\c&H00FFFF&}mit{\c&HFFFFFF&}
+Dialogue: 0,0:00:39.24,0:00:39.76,Wort,,0,0,0,,{\c&H00FFFF&}deinem{\c&HFFFFFF&} Penner
+Dialogue: 0,0:00:39.76,0:00:40.04,Wort,,0,0,0,,deinem {\c&H00FFFF&}Penner{\c&HFFFFFF&}
+Dialogue: 0,0:00:40.04,0:00:40.35,Wort,,0,0,0,,{\c&H00FFFF&}Center.{\c&HFFFFFF&}
+Dialogue: 0,0:00:40.52,0:00:41.10,Wort,,0,0,0,,{\c&H00FFFF&}Aber{\c&HFFFFFF&} nicht
+Dialogue: 0,0:00:41.10,0:00:41.52,Wort,,0,0,0,,Aber {\c&H00FFFF&}nicht{\c&HFFFFFF&}
+Dialogue: 0,0:00:41.52,0:00:42.14,Wort,,0,0,0,,{\c&H00FFFF&}schwierig{\c&HFFFFFF&} sein.
+Dialogue: 0,0:00:42.14,0:00:42.58,Wort,,0,0,0,,schwierig {\c&H00FFFF&}sein.{\c&HFFFFFF&}
+Dialogue: 0,0:00:42.58,0:00:42.80,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} bin
+Dialogue: 0,0:00:42.80,0:00:42.80,Wort,,0,0,0,,Ich {\c&H00FFFF&}bin{\c&HFFFFFF&}
+Dialogue: 0,0:00:42.80,0:00:43.28,Wort,,0,0,0,,{\c&H00FFFF&}ekelhaft.{\c&HFFFFFF&}
+Dialogue: 0,0:00:43.28,0:00:43.44,Wort,,0,0,0,,{\c&H00FFFF&}Du{\c&HFFFFFF&} widerst mich
+Dialogue: 0,0:00:43.44,0:00:43.80,Wort,,0,0,0,,Du {\c&H00FFFF&}widerst{\c&HFFFFFF&} mich
+Dialogue: 0,0:00:43.80,0:00:43.94,Wort,,0,0,0,,Du widerst {\c&H00FFFF&}mich{\c&HFFFFFF&}
+Dialogue: 0,0:00:43.94,0:00:44.37,Wort,,0,0,0,,{\c&H00FFFF&}an.{\c&HFFFFFF&}
+Dialogue: 0,0:00:45.66,0:00:46.18,Wort,,0,0,0,,{\c&H00FFFF&}Bruder,{\c&HFFFFFF&}
+Dialogue: 0,0:00:46.18,0:00:46.32,Wort,,0,0,0,,{\c&H00FFFF&}wir{\c&HFFFFFF&} haben
+Dialogue: 0,0:00:46.32,0:00:46.52,Wort,,0,0,0,,wir {\c&H00FFFF&}haben{\c&HFFFFFF&}
+Dialogue: 0,0:00:46.52,0:00:46.84,Wort,,0,0,0,,{\c&H00FFFF&}wirklich{\c&HFFFFFF&} die
+Dialogue: 0,0:00:46.84,0:00:47.10,Wort,,0,0,0,,wirklich {\c&H00FFFF&}die{\c&HFFFFFF&}
+Dialogue: 0,0:00:47.10,0:00:47.40,Wort,,0,0,0,,{\c&H00FFFF&}Runde{\c&HFFFFFF&} verloren,
+Dialogue: 0,0:00:47.40,0:00:47.84,Wort,,0,0,0,,Runde {\c&H00FFFF&}verloren,{\c&HFFFFFF&}
+Dialogue: 0,0:00:47.84,0:00:48.10,Wort,,0,0,0,,{\c&H00FFFF&}weil{\c&HFFFFFF&} ihr es
+Dialogue: 0,0:00:48.10,0:00:48.22,Wort,,0,0,0,,weil {\c&H00FFFF&}ihr{\c&HFFFFFF&} es
+Dialogue: 0,0:00:48.22,0:00:48.36,Wort,,0,0,0,,weil ihr {\c&H00FFFF&}es{\c&HFFFFFF&}
+Dialogue: 0,0:00:48.36,0:00:48.56,Wort,,0,0,0,,{\c&H00FFFF&}nicht{\c&HFFFFFF&}
+Dialogue: 0,0:00:48.56,0:00:49.12,Wort,,0,0,0,,{\c&H00FFFF&}hinbekommen{\c&HFFFFFF&}
+Dialogue: 0,0:00:49.12,0:00:49.51,Wort,,0,0,0,,{\c&H00FFFF&}habt.{\c&HFFFFFF&}
+Dialogue: 0,0:00:49.58,0:00:50.12,Wort,,0,0,0,,{\c&H00FFFF&}Bruder,{\c&HFFFFFF&}
+Dialogue: 0,0:00:50.12,0:00:50.12,Wort,,0,0,0,,{\c&H00FFFF&}na{\c&HFFFFFF&} okay.
+Dialogue: 0,0:00:50.12,0:00:50.39,Wort,,0,0,0,,na {\c&H00FFFF&}okay.{\c&HFFFFFF&}
