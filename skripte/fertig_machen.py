@@ -28,7 +28,7 @@ if a.piep == "ja":
     for w in json.load(open(a.json, encoding="utf-8")):
         s, e = w["s"] - a.start, w["e"] - a.start
         if ist_schimpfwort(w["w"]) and e > 0 and s < dauer:
-            stellen.append((max(0, s - 0.04), min(dauer, max(e, s + 0.25) + 0.05)))
+            stellen.append((max(0, s), min(dauer, e)))  # genau so lang wie das Wort
 an = "+".join(f"between(t,{s:.2f},{e:.2f})" for s, e in stellen) or "0"
 audio = (f"[0:a]volume=0:enable='{an}'[stumm];"
          f"aevalsrc='0.25*sin(2*PI*1000*t)*gt({an},0)':s=48000:c=stereo:d={dauer:.2f}[piep];"
