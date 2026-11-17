@@ -1,0 +1,78 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Wort,DejaVu Sans,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,7,2,2,60,60,480,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.16,Wort,,0,0,0,,{\c&H00FFFF&}von{\c&HFFFFFF&} einer Raupe
+Dialogue: 0,0:00:00.16,0:00:00.40,Wort,,0,0,0,,von {\c&H00FFFF&}einer{\c&HFFFFFF&} Raupe
+Dialogue: 0,0:00:00.40,0:00:00.74,Wort,,0,0,0,,von einer {\c&H00FFFF&}Raupe{\c&HFFFFFF&}
+Dialogue: 0,0:00:00.74,0:00:00.96,Wort,,0,0,0,,{\c&H00FFFF&}zum{\c&HFFFFFF&}
+Dialogue: 0,0:00:00.96,0:00:01.69,Wort,,0,0,0,,{\c&H00FFFF&}Schmetterling?{\c&HFFFFFF&}
+Dialogue: 0,0:00:02.76,0:00:03.16,Wort,,0,0,0,,{\c&H00FFFF&}Äh,{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.16,0:00:03.71,Wort,,0,0,0,,{\c&H00FFFF&}Kokon.{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.46,0:00:05.86,Wort,,0,0,0,,{\c&H00FFFF&}Das{\c&HFFFFFF&} ist doch
+Dialogue: 0,0:00:05.86,0:00:05.98,Wort,,0,0,0,,Das {\c&H00FFFF&}ist{\c&HFFFFFF&} doch
+Dialogue: 0,0:00:05.98,0:00:06.00,Wort,,0,0,0,,Das ist {\c&H00FFFF&}doch{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.00,0:00:06.43,Wort,,0,0,0,,{\c&H00FFFF&}das,{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.50,0:00:07.22,Wort,,0,0,0,,{\c&H00FFFF&}wo{\c&HFFFFFF&} die drin
+Dialogue: 0,0:00:07.22,0:00:07.34,Wort,,0,0,0,,wo {\c&H00FFFF&}die{\c&HFFFFFF&} drin
+Dialogue: 0,0:00:07.34,0:00:07.48,Wort,,0,0,0,,wo die {\c&H00FFFF&}drin{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.48,0:00:07.87,Wort,,0,0,0,,{\c&H00FFFF&}sind.{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.24,0:00:09.64,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} hätte auch
+Dialogue: 0,0:00:09.64,0:00:09.76,Wort,,0,0,0,,Ich {\c&H00FFFF&}hätte{\c&HFFFFFF&} auch
+Dialogue: 0,0:00:09.76,0:00:09.98,Wort,,0,0,0,,Ich hätte {\c&H00FFFF&}auch{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.98,0:00:10.24,Wort,,0,0,0,,{\c&H00FFFF&}gesagt{\c&HFFFFFF&} Kokon,
+Dialogue: 0,0:00:10.24,0:00:10.66,Wort,,0,0,0,,gesagt {\c&H00FFFF&}Kokon,{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.66,0:00:11.08,Wort,,0,0,0,,{\c&H00FFFF&}aber...{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.08,0:00:11.30,Wort,,0,0,0,,{\c&H00FFFF&}Seh,{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.30,0:00:12.14,Wort,,0,0,0,,{\c&H00FFFF&}bin{\c&HFFFFFF&} ich Imker?
+Dialogue: 0,0:00:12.14,0:00:12.32,Wort,,0,0,0,,bin {\c&H00FFFF&}ich{\c&HFFFFFF&} Imker?
+Dialogue: 0,0:00:12.32,0:00:12.76,Wort,,0,0,0,,bin ich {\c&H00FFFF&}Imker?{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.76,0:00:13.12,Wort,,0,0,0,,{\c&H00FFFF&}Bin{\c&HFFFFFF&} ich Imker,
+Dialogue: 0,0:00:13.12,0:00:13.24,Wort,,0,0,0,,Bin {\c&H00FFFF&}ich{\c&HFFFFFF&} Imker,
+Dialogue: 0,0:00:13.24,0:00:13.68,Wort,,0,0,0,,Bin ich {\c&H00FFFF&}Imker,{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.68,0:00:14.18,Wort,,0,0,0,,{\c&H00FFFF&}Amunaköim?{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.18,0:00:14.56,Wort,,0,0,0,,{\c&H00FFFF&}Seh,{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.56,0:00:14.64,Wort,,0,0,0,,{\c&H00FFFF&}ich{\c&HFFFFFF&} bin Imker,
+Dialogue: 0,0:00:14.64,0:00:14.82,Wort,,0,0,0,,ich {\c&H00FFFF&}bin{\c&HFFFFFF&} Imker,
+Dialogue: 0,0:00:14.82,0:00:15.46,Wort,,0,0,0,,ich bin {\c&H00FFFF&}Imker,{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.46,0:00:15.68,Wort,,0,0,0,,{\c&H00FFFF&}aber{\c&HFFFFFF&} ich bin
+Dialogue: 0,0:00:15.68,0:00:16.08,Wort,,0,0,0,,aber {\c&H00FFFF&}ich{\c&HFFFFFF&} bin
+Dialogue: 0,0:00:16.08,0:00:16.20,Wort,,0,0,0,,aber ich {\c&H00FFFF&}bin{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.20,0:00:16.42,Wort,,0,0,0,,{\c&H00FFFF&}ich{\c&HFFFFFF&} nicht.
+Dialogue: 0,0:00:16.42,0:00:16.75,Wort,,0,0,0,,ich {\c&H00FFFF&}nicht.{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.96,0:00:17.36,Wort,,0,0,0,,{\c&H00FFFF&}Was{\c&HFFFFFF&} soll ich...
+Dialogue: 0,0:00:17.36,0:00:17.54,Wort,,0,0,0,,Was {\c&H00FFFF&}soll{\c&HFFFFFF&} ich...
+Dialogue: 0,0:00:17.54,0:00:17.77,Wort,,0,0,0,,Was soll {\c&H00FFFF&}ich...{\c&HFFFFFF&}
+Dialogue: 0,0:00:19.00,0:00:19.44,Wort,,0,0,0,,{\c&H00FFFF&}Amunaköim,{\c&HFFFFFF&}
+Dialogue: 0,0:00:19.44,0:00:19.70,Wort,,0,0,0,,{\c&H00FFFF&}von{\c&HFFFFFF&} wo soll
+Dialogue: 0,0:00:19.70,0:00:19.90,Wort,,0,0,0,,von {\c&H00FFFF&}wo{\c&HFFFFFF&} soll
+Dialogue: 0,0:00:19.90,0:00:20.08,Wort,,0,0,0,,von wo {\c&H00FFFF&}soll{\c&HFFFFFF&}
+Dialogue: 0,0:00:20.08,0:00:20.24,Wort,,0,0,0,,{\c&H00FFFF&}ich{\c&HFFFFFF&} wissen,
+Dialogue: 0,0:00:20.24,0:00:20.56,Wort,,0,0,0,,ich {\c&H00FFFF&}wissen,{\c&HFFFFFF&}
+Dialogue: 0,0:00:20.56,0:00:20.74,Wort,,0,0,0,,{\c&H00FFFF&}wie{\c&HFFFFFF&} Raupe zu
+Dialogue: 0,0:00:20.74,0:00:21.18,Wort,,0,0,0,,wie {\c&H00FFFF&}Raupe{\c&HFFFFFF&} zu
+Dialogue: 0,0:00:21.18,0:00:21.46,Wort,,0,0,0,,wie Raupe {\c&H00FFFF&}zu{\c&HFFFFFF&}
+Dialogue: 0,0:00:21.46,0:00:22.14,Wort,,0,0,0,,{\c&H00FFFF&}Schmetterling{\c&HFFFFFF&}
+Dialogue: 0,0:00:22.14,0:00:22.49,Wort,,0,0,0,,{\c&H00FFFF&}wird?{\c&HFFFFFF&}
+Dialogue: 0,0:00:24.62,0:00:25.02,Wort,,0,0,0,,{\c&H00FFFF&}Also{\c&HFFFFFF&} erstmal
+Dialogue: 0,0:00:25.02,0:00:25.30,Wort,,0,0,0,,Also {\c&H00FFFF&}erstmal{\c&HFFFFFF&}
+Dialogue: 0,0:00:25.30,0:00:25.42,Wort,,0,0,0,,{\c&H00FFFF&}hat{\c&HFFFFFF&} das nichts
+Dialogue: 0,0:00:25.42,0:00:25.46,Wort,,0,0,0,,hat {\c&H00FFFF&}das{\c&HFFFFFF&} nichts
+Dialogue: 0,0:00:25.46,0:00:25.58,Wort,,0,0,0,,hat das {\c&H00FFFF&}nichts{\c&HFFFFFF&}
+Dialogue: 0,0:00:25.58,0:00:25.72,Wort,,0,0,0,,{\c&H00FFFF&}mit{\c&HFFFFFF&} Imker zu
+Dialogue: 0,0:00:25.72,0:00:25.98,Wort,,0,0,0,,mit {\c&H00FFFF&}Imker{\c&HFFFFFF&} zu
+Dialogue: 0,0:00:25.98,0:00:26.12,Wort,,0,0,0,,mit Imker {\c&H00FFFF&}zu{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.12,0:00:26.20,Wort,,0,0,0,,{\c&H00FFFF&}tun.{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.20,0:00:26.42,Wort,,0,0,0,,{\c&H00FFFF&}Imker,{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.42,0:00:26.58,Wort,,0,0,0,,{\c&H00FFFF&}warte{\c&HFFFFFF&} mal,
+Dialogue: 0,0:00:26.58,0:00:26.80,Wort,,0,0,0,,warte {\c&H00FFFF&}mal,{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.80,0:00:27.39,Wort,,0,0,0,,{\c&H00FFFF&}Imker.{\c&HFFFFFF&}
+Dialogue: 0,0:00:28.00,0:00:28.55,Wort,,0,0,0,,{\c&H00FFFF&}Imker.{\c&HFFFFFF&}

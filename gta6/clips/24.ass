@@ -1,0 +1,65 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Wort,DejaVu Sans,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,7,2,2,60,60,480,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.00,Wort,,0,0,0,,{\c&H00FFFF&}Er{\c&HFFFFFF&} tötet
+Dialogue: 0,0:00:00.00,0:00:00.24,Wort,,0,0,0,,Er {\c&H00FFFF&}tötet{\c&HFFFFFF&}
+Dialogue: 0,0:00:00.24,0:00:00.58,Wort,,0,0,0,,{\c&H00FFFF&}HalleDee{\c&HFFFFFF&} nicht.
+Dialogue: 0,0:00:00.58,0:00:00.91,Wort,,0,0,0,,HalleDee {\c&H00FFFF&}nicht.{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.28,0:00:01.80,Wort,,0,0,0,,{\c&H00FFFF&}Ja,{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.80,0:00:01.94,Wort,,0,0,0,,{\c&H00FFFF&}weil{\c&HFFFFFF&} er hat
+Dialogue: 0,0:00:01.94,0:00:02.02,Wort,,0,0,0,,weil {\c&H00FFFF&}er{\c&HFFFFFF&} hat
+Dialogue: 0,0:00:02.02,0:00:02.12,Wort,,0,0,0,,weil er {\c&H00FFFF&}hat{\c&HFFFFFF&}
+Dialogue: 0,0:00:02.12,0:00:02.24,Wort,,0,0,0,,{\c&H00FFFF&}Team{\c&HFFFFFF&}
+Dialogue: 0,0:00:02.24,0:00:02.68,Wort,,0,0,0,,{\c&H00FFFF&}gewechselt,{\c&HFFFFFF&}
+Dialogue: 0,0:00:02.68,0:00:02.82,Wort,,0,0,0,,{\c&H00FFFF&}glaube{\c&HFFFFFF&} ich.
+Dialogue: 0,0:00:02.82,0:00:03.17,Wort,,0,0,0,,glaube {\c&H00FFFF&}ich.{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.56,0:00:04.06,Wort,,0,0,0,,{\c&H00FFFF&}Oh{\c&HFFFFFF&} nein.
+Dialogue: 0,0:00:04.06,0:00:04.51,Wort,,0,0,0,,Oh {\c&H00FFFF&}nein.{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.64,0:00:08.14,Wort,,0,0,0,,{\c&H00FFFF&}Wo{\c&HFFFFFF&} ist Noreax?
+Dialogue: 0,0:00:08.14,0:00:08.18,Wort,,0,0,0,,Wo {\c&H00FFFF&}ist{\c&HFFFFFF&} Noreax?
+Dialogue: 0,0:00:08.18,0:00:08.87,Wort,,0,0,0,,Wo ist {\c&H00FFFF&}Noreax?{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.26,0:00:09.76,Wort,,0,0,0,,{\c&H00FFFF&}Team{\c&HFFFFFF&} im Wasser.
+Dialogue: 0,0:00:09.76,0:00:09.84,Wort,,0,0,0,,Team {\c&H00FFFF&}im{\c&HFFFFFF&} Wasser.
+Dialogue: 0,0:00:09.84,0:00:10.19,Wort,,0,0,0,,Team im {\c&H00FFFF&}Wasser.{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.12,0:00:11.77,Wort,,0,0,0,,{\c&H00FFFF&}Ja.{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.18,0:00:13.68,Wort,,0,0,0,,{\c&H00FFFF&}Gib{\c&HFFFFFF&} mir den
+Dialogue: 0,0:00:13.68,0:00:13.74,Wort,,0,0,0,,Gib {\c&H00FFFF&}mir{\c&HFFFFFF&} den
+Dialogue: 0,0:00:13.74,0:00:13.82,Wort,,0,0,0,,Gib mir {\c&H00FFFF&}den{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.82,0:00:14.16,Wort,,0,0,0,,{\c&H00FFFF&}Bogen,{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.16,0:00:14.41,Wort,,0,0,0,,{\c&H00FFFF&}Mert.{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.48,0:00:14.98,Wort,,0,0,0,,{\c&H00FFFF&}Wo{\c&HFFFFFF&} bist du?
+Dialogue: 0,0:00:14.98,0:00:15.12,Wort,,0,0,0,,Wo {\c&H00FFFF&}bist{\c&HFFFFFF&} du?
+Dialogue: 0,0:00:15.12,0:00:15.41,Wort,,0,0,0,,Wo bist {\c&H00FFFF&}du?{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.32,0:00:16.97,Wort,,0,0,0,,{\c&H00FFFF&}Gib{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.06,0:00:18.46,Wort,,0,0,0,,{\c&H00FFFF&}mir{\c&HFFFFFF&} den Bogen!
+Dialogue: 0,0:00:18.46,0:00:19.30,Wort,,0,0,0,,mir {\c&H00FFFF&}den{\c&HFFFFFF&} Bogen!
+Dialogue: 0,0:00:19.30,0:00:20.02,Wort,,0,0,0,,mir den {\c&H00FFFF&}Bogen!{\c&HFFFFFF&}
+Dialogue: 0,0:00:20.02,0:00:20.30,Wort,,0,0,0,,{\c&H00FFFF&}Gib{\c&HFFFFFF&} mir den
+Dialogue: 0,0:00:20.30,0:00:20.40,Wort,,0,0,0,,Gib {\c&H00FFFF&}mir{\c&HFFFFFF&} den
+Dialogue: 0,0:00:20.40,0:00:20.48,Wort,,0,0,0,,Gib mir {\c&H00FFFF&}den{\c&HFFFFFF&}
+Dialogue: 0,0:00:20.48,0:00:20.81,Wort,,0,0,0,,{\c&H00FFFF&}Bogen!{\c&HFFFFFF&}
+Dialogue: 0,0:00:20.96,0:00:21.28,Wort,,0,0,0,,{\c&H00FFFF&}Gib{\c&HFFFFFF&} mir den
+Dialogue: 0,0:00:21.28,0:00:21.38,Wort,,0,0,0,,Gib {\c&H00FFFF&}mir{\c&HFFFFFF&} den
+Dialogue: 0,0:00:21.38,0:00:21.66,Wort,,0,0,0,,Gib mir {\c&H00FFFF&}den{\c&HFFFFFF&}
+Dialogue: 0,0:00:21.66,0:00:22.72,Wort,,0,0,0,,{\c&H00FFFF&}Bogen!{\c&HFFFFFF&}
+Dialogue: 0,0:00:22.72,0:00:22.94,Wort,,0,0,0,,{\c&H00FFFF&}Gib{\c&HFFFFFF&} mir den
+Dialogue: 0,0:00:22.94,0:00:23.08,Wort,,0,0,0,,Gib {\c&H00FFFF&}mir{\c&HFFFFFF&} den
+Dialogue: 0,0:00:23.08,0:00:23.10,Wort,,0,0,0,,Gib mir {\c&H00FFFF&}den{\c&HFFFFFF&}
+Dialogue: 0,0:00:23.10,0:00:23.61,Wort,,0,0,0,,{\c&H00FFFF&}Bogen!{\c&HFFFFFF&}
+Dialogue: 0,0:00:24.94,0:00:25.44,Wort,,0,0,0,,{\c&H00FFFF&}Gib{\c&HFFFFFF&} mir den
+Dialogue: 0,0:00:25.44,0:00:25.94,Wort,,0,0,0,,Gib {\c&H00FFFF&}mir{\c&HFFFFFF&} den
+Dialogue: 0,0:00:25.94,0:00:26.20,Wort,,0,0,0,,Gib mir {\c&H00FFFF&}den{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.20,0:00:26.91,Wort,,0,0,0,,{\c&H00FFFF&}Bogen!{\c&HFFFFFF&}
+Dialogue: 0,0:00:27.18,0:00:27.68,Wort,,0,0,0,,{\c&H00FFFF&}Gib{\c&HFFFFFF&} mir den
+Dialogue: 0,0:00:27.68,0:00:28.32,Wort,,0,0,0,,Gib {\c&H00FFFF&}mir{\c&HFFFFFF&} den
+Dialogue: 0,0:00:28.32,0:00:28.32,Wort,,0,0,0,,Gib mir {\c&H00FFFF&}den{\c&HFFFFFF&}
+Dialogue: 0,0:00:28.32,0:00:28.75,Wort,,0,0,0,,{\c&H00FFFF&}Bogen!{\c&HFFFFFF&}

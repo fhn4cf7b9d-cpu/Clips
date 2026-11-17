@@ -1,0 +1,34 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Wort,DejaVu Sans,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,7,2,2,60,60,480,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.44,0:00:03.84,Wort,,0,0,0,,{\c&H00FFFF&}Oh{\c&HFFFFFF&} mein Gott,
+Dialogue: 0,0:00:03.84,0:00:03.98,Wort,,0,0,0,,Oh {\c&H00FFFF&}mein{\c&HFFFFFF&} Gott,
+Dialogue: 0,0:00:03.98,0:00:04.26,Wort,,0,0,0,,Oh mein {\c&H00FFFF&}Gott,{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.26,0:00:04.38,Wort,,0,0,0,,{\c&H00FFFF&}ich{\c&HFFFFFF&} bin sogar
+Dialogue: 0,0:00:04.38,0:00:04.50,Wort,,0,0,0,,ich {\c&H00FFFF&}bin{\c&HFFFFFF&} sogar
+Dialogue: 0,0:00:04.50,0:00:04.76,Wort,,0,0,0,,ich bin {\c&H00FFFF&}sogar{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.76,0:00:05.13,Wort,,0,0,0,,{\c&H00FFFF&}links.{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.60,0:00:09.00,Wort,,0,0,0,,{\c&H00FFFF&}Wo{\c&HFFFFFF&} bin ich
+Dialogue: 0,0:00:09.00,0:00:09.12,Wort,,0,0,0,,Wo {\c&H00FFFF&}bin{\c&HFFFFFF&} ich
+Dialogue: 0,0:00:09.12,0:00:09.26,Wort,,0,0,0,,Wo bin {\c&H00FFFF&}ich{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.26,0:00:09.61,Wort,,0,0,0,,{\c&H00FFFF&}hier?{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.12,0:00:11.52,Wort,,0,0,0,,{\c&H00FFFF&}Was{\c&HFFFFFF&} ist das
+Dialogue: 0,0:00:11.52,0:00:11.68,Wort,,0,0,0,,Was {\c&H00FFFF&}ist{\c&HFFFFFF&} das
+Dialogue: 0,0:00:11.68,0:00:11.84,Wort,,0,0,0,,Was ist {\c&H00FFFF&}das{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.84,0:00:12.21,Wort,,0,0,0,,{\c&H00FFFF&}hier?{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.60,0:00:14.00,Wort,,0,0,0,,{\c&H00FFFF&}Was{\c&HFFFFFF&} ist das,
+Dialogue: 0,0:00:14.00,0:00:14.14,Wort,,0,0,0,,Was {\c&H00FFFF&}ist{\c&HFFFFFF&} das,
+Dialogue: 0,0:00:14.14,0:00:14.30,Wort,,0,0,0,,Was ist {\c&H00FFFF&}das,{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.30,0:00:14.65,Wort,,0,0,0,,{\c&H00FFFF&}Chat?{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.90,0:00:15.45,Wort,,0,0,0,,{\c&H00FFFF&}Was{\c&HFFFFFF&}
+Dialogue: 0,0:00:19.94,0:00:20.08,Wort,,0,0,0,,{\c&H00FFFF&}ist{\c&HFFFFFF&} das?
+Dialogue: 0,0:00:20.08,0:00:20.37,Wort,,0,0,0,,ist {\c&H00FFFF&}das?{\c&HFFFFFF&}

@@ -27,6 +27,19 @@ Nr 05 („fully locked in“) ausgelassen: nur Spielerklärung, keine Pointe.
 Ausgelassen: 13 (gleicher Moment wie 11), 15 (gleicher Moment wie 10), 17 (Geschichte über eine echte Person im Stripclub), 18 (Transkript zu unklar).
 Hinweis 11: Im Clip läuft ein Song. TikTok kann den Ton bei fremder Musik stummschalten.
 
+## Mert Abi (Twitch: mertabimula), Clips der letzten 30 Tage
+
+| Nr | Datei | Länge | Quelle | Aufrufe auf Twitch (17.11.2026) |
+|---|---|---|---|---|
+| 19 | 19-fertig.mp4 | 30 s | MERT SPRENGT ALLES | 7.862 |
+| 21 | 21-fertig.mp4 | 30 s | OPA WIRD GESNIPED | 2.387 |
+| 22 | 22-fertig.mp4 | 30 s | Jussef zersprengt Trymacs | 2.209 |
+| 24 | 24-fertig.mp4 | 30 s | MERT KILLT TIMGIYO | 1.909 |
+| 25 | 25-fertig.mp4 | 30 s | BIN ICH IMKER ????? | 1.816 |
+| 26 | 26-fertig.mp4 | 41 s | MERT STELLT TIM EINE FALLE | 1.213 |
+
+Links stehen in `gta6/quelle/liste.txt`. Ausgelassen: Fußball-Clips (TV-Übertragung, fremde Rechte), 20 (nichts zu sehen, Transkript unklar), 23 (zeigt Merts Desktop).
+
 ## TikTok-Captions
 
 **01:** Kleiner Jumpscare von der Seite und alle sind raus 😂 Stream: twitch.tv/coachlim @CoachLim #coachlim #jumpscare #twitchclips #horrorgame
@@ -54,6 +67,18 @@ Hinweis 11: Im Clip läuft ein Song. TikTok kann den Ton bei fremder Musik stumm
 **14:** Coach und die Lava, eine Liebesgeschichte 🔥 Stream: twitch.tv/coachlim @CoachLim #coachlim #minecraft #twitchclips #gaming
 
 **16:** Der Entschuldigungs-Smaragd 💎 Stream: twitch.tv/coachlim @CoachLim @Mert Abi #coachlim #mertabi #minecraft #twitchclips
+
+**19:** Mert und das TNT, was soll schon passieren 💥 Stream: twitch.tv/mertabimula @Mert Abi #mertabi #minecraft #twitchclips #deutschestreamer
+
+**21:** Gesnipet und dann noch im Chat ausgelacht 😭 Stream: twitch.tv/mertabimula @Mert Abi #mertabi #valorant #twitchclips #deutschestreamer
+
+**22:** Jussef sprengt bei Trymacs 💥 Stream: twitch.tv/mertabimula @Mert Abi #mertabi #trymacs #minecraft #twitchclips
+
+**24:** „Gib mir den Bogen!“ 🏹 Stream: twitch.tv/mertabimula @Mert Abi #mertabi #minecraft #twitchclips #deutschestreamer
+
+**25:** „Bin ich Imker?!“ 🐝 Stream: twitch.tv/mertabimula @Mert Abi #mertabi #minecraft #twitchclips #deutschestreamer
+
+**26:** Mert stellt Tim eine Falle 😈 Stream: twitch.tv/mertabimula @Mert Abi #mertabi #minecraft #twitchclips #deutschestreamer
 
 ## Regel-Check (kurz)
 

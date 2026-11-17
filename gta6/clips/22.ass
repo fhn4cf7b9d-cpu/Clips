@@ -1,0 +1,69 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Wort,DejaVu Sans,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,7,2,2,60,60,480,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.30,Wort,,0,0,0,,{\c&H00FFFF&}Warte,{\c&HFFFFFF&}
+Dialogue: 0,0:00:00.30,0:00:00.30,Wort,,0,0,0,,{\c&H00FFFF&}unten{\c&HFFFFFF&} noch ein
+Dialogue: 0,0:00:00.30,0:00:00.50,Wort,,0,0,0,,unten {\c&H00FFFF&}noch{\c&HFFFFFF&} ein
+Dialogue: 0,0:00:00.50,0:00:00.68,Wort,,0,0,0,,unten noch {\c&H00FFFF&}ein{\c&HFFFFFF&}
+Dialogue: 0,0:00:00.68,0:00:01.06,Wort,,0,0,0,,{\c&H00FFFF&}bisschen,{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.06,0:00:01.72,Wort,,0,0,0,,{\c&H00FFFF&}es{\c&HFFFFFF&} ist 16
+Dialogue: 0,0:00:01.72,0:00:02.82,Wort,,0,0,0,,es {\c&H00FFFF&}ist{\c&HFFFFFF&} 16
+Dialogue: 0,0:00:02.82,0:00:03.00,Wort,,0,0,0,,es ist {\c&H00FFFF&}16{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.00,0:00:03.26,Wort,,0,0,0,,{\c&H00FFFF&}Uhr,{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.26,0:00:03.36,Wort,,0,0,0,,{\c&H00FFFF&}es{\c&HFFFFFF&} ist 16
+Dialogue: 0,0:00:03.36,0:00:03.44,Wort,,0,0,0,,es {\c&H00FFFF&}ist{\c&HFFFFFF&} 16
+Dialogue: 0,0:00:03.44,0:00:03.68,Wort,,0,0,0,,es ist {\c&H00FFFF&}16{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.68,0:00:04.00,Wort,,0,0,0,,{\c&H00FFFF&}Uhr.{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.00,0:00:04.40,Wort,,0,0,0,,{\c&H00FFFF&}Zwölf{\c&HFFFFFF&} Stunden.
+Dialogue: 0,0:00:04.40,0:00:04.98,Wort,,0,0,0,,Zwölf {\c&H00FFFF&}Stunden.{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.98,0:00:05.00,Wort,,0,0,0,,{\c&H00FFFF&}Wie{\c&HFFFFFF&} ist das
+Dialogue: 0,0:00:05.00,0:00:05.12,Wort,,0,0,0,,Wie {\c&H00FFFF&}ist{\c&HFFFFFF&} das
+Dialogue: 0,0:00:05.12,0:00:05.24,Wort,,0,0,0,,Wie ist {\c&H00FFFF&}das{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.24,0:00:05.75,Wort,,0,0,0,,{\c&H00FFFF&}Gebäude?{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.74,0:00:08.14,Wort,,0,0,0,,{\c&H00FFFF&}Warte,{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.14,0:00:08.26,Wort,,0,0,0,,{\c&H00FFFF&}Josef,{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.26,0:00:08.48,Wort,,0,0,0,,{\c&H00FFFF&}warte,{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.48,0:00:08.72,Wort,,0,0,0,,{\c&H00FFFF&}warte,{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.72,0:00:08.86,Wort,,0,0,0,,{\c&H00FFFF&}warte,{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.86,0:00:09.20,Wort,,0,0,0,,{\c&H00FFFF&}Josef,{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.20,0:00:09.87,Wort,,0,0,0,,{\c&H00FFFF&}Blackmaier.{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.82,0:00:11.22,Wort,,0,0,0,,{\c&H00FFFF&}Nicht{\c&HFFFFFF&} mal zehn
+Dialogue: 0,0:00:11.22,0:00:11.60,Wort,,0,0,0,,Nicht {\c&H00FFFF&}mal{\c&HFFFFFF&} zehn
+Dialogue: 0,0:00:11.60,0:00:11.82,Wort,,0,0,0,,Nicht mal {\c&H00FFFF&}zehn{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.82,0:00:12.22,Wort,,0,0,0,,{\c&H00FFFF&}Sekunden{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.22,0:00:12.63,Wort,,0,0,0,,{\c&H00FFFF&}danach,{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.64,0:00:12.82,Wort,,0,0,0,,{\c&H00FFFF&}nicht{\c&HFFFFFF&} mal zehn
+Dialogue: 0,0:00:12.82,0:00:12.96,Wort,,0,0,0,,nicht {\c&H00FFFF&}mal{\c&HFFFFFF&} zehn
+Dialogue: 0,0:00:12.96,0:00:13.18,Wort,,0,0,0,,nicht mal {\c&H00FFFF&}zehn{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.18,0:00:13.77,Wort,,0,0,0,,{\c&H00FFFF&}Sekunden.{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.04,0:00:17.59,Wort,,0,0,0,,{\c&H00FFFF&}Alter.{\c&HFFFFFF&}
+Dialogue: 0,0:00:19.20,0:00:19.75,Wort,,0,0,0,,{\c&H00FFFF&}Alter,{\c&HFFFFFF&}
+Dialogue: 0,0:00:22.10,0:00:22.24,Wort,,0,0,0,,{\c&H00FFFF&}das{\c&HFFFFFF&} ist ja
+Dialogue: 0,0:00:22.24,0:00:22.44,Wort,,0,0,0,,das {\c&H00FFFF&}ist{\c&HFFFFFF&} ja
+Dialogue: 0,0:00:22.44,0:00:22.56,Wort,,0,0,0,,das ist {\c&H00FFFF&}ja{\c&HFFFFFF&}
+Dialogue: 0,0:00:22.56,0:00:22.88,Wort,,0,0,0,,{\c&H00FFFF&}komplett{\c&HFFFFFF&} weg,
+Dialogue: 0,0:00:22.88,0:00:23.34,Wort,,0,0,0,,komplett {\c&H00FFFF&}weg,{\c&HFFFFFF&}
+Dialogue: 0,0:00:23.34,0:00:23.69,Wort,,0,0,0,,{\c&H00FFFF&}ey.{\c&HFFFFFF&}
+Dialogue: 0,0:00:23.84,0:00:24.00,Wort,,0,0,0,,{\c&H00FFFF&}Sehr{\c&HFFFFFF&} gut.
+Dialogue: 0,0:00:24.00,0:00:24.31,Wort,,0,0,0,,Sehr {\c&H00FFFF&}gut.{\c&HFFFFFF&}
+Dialogue: 0,0:00:24.42,0:00:24.97,Wort,,0,0,0,,{\c&H00FFFF&}Komplett.{\c&HFFFFFF&}
+Dialogue: 0,0:00:25.44,0:00:25.99,Wort,,0,0,0,,{\c&H00FFFF&}Nein.{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.56,0:00:27.11,Wort,,0,0,0,,{\c&H00FFFF&}Nein.{\c&HFFFFFF&}
+Dialogue: 0,0:00:28.28,0:00:28.62,Wort,,0,0,0,,{\c&H00FFFF&}Das{\c&HFFFFFF&} war ja
+Dialogue: 0,0:00:28.62,0:00:28.78,Wort,,0,0,0,,Das {\c&H00FFFF&}war{\c&HFFFFFF&} ja
+Dialogue: 0,0:00:28.78,0:00:28.88,Wort,,0,0,0,,Das war {\c&H00FFFF&}ja{\c&HFFFFFF&}
+Dialogue: 0,0:00:28.88,0:00:29.08,Wort,,0,0,0,,{\c&H00FFFF&}gar{\c&HFFFFFF&} nichts,
+Dialogue: 0,0:00:29.08,0:00:29.32,Wort,,0,0,0,,gar {\c&H00FFFF&}nichts,{\c&HFFFFFF&}
+Dialogue: 0,0:00:29.32,0:00:29.44,Wort,,0,0,0,,{\c&H00FFFF&}mach{\c&HFFFFFF&} doch mehr.
+Dialogue: 0,0:00:29.44,0:00:29.58,Wort,,0,0,0,,mach {\c&H00FFFF&}doch{\c&HFFFFFF&} mehr.
+Dialogue: 0,0:00:29.58,0:00:29.76,Wort,,0,0,0,,mach doch {\c&H00FFFF&}mehr.{\c&HFFFFFF&}
+Dialogue: 0,0:00:29.76,0:00:30.03,Wort,,0,0,0,,{\c&H00FFFF&}Ja.{\c&HFFFFFF&}

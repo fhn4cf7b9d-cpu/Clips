@@ -1,0 +1,35 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Wort,DejaVu Sans,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,7,2,2,60,60,480,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.50,0:00:04.22,Wort,,0,0,0,,{\c&H00FFFF&}Letzter{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.22,0:00:04.64,Wort,,0,0,0,,{\c&H00FFFF&}lebender{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.64,0:00:05.41,Wort,,0,0,0,,{\c&H00FFFF&}Verbündeter.{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.42,0:00:06.47,Wort,,0,0,0,,{\c&H00FFFF&}Er{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.19,0:00:11.33,Wort,,0,0,0,,{\c&H00FFFF&}wurde{\c&HFFFFFF&} gesliped.
+Dialogue: 0,0:00:11.33,0:00:11.92,Wort,,0,0,0,,wurde {\c&H00FFFF&}gesliped.{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.99,0:00:12.53,Wort,,0,0,0,,{\c&H00FFFF&}Er{\c&HFFFFFF&} wurde
+Dialogue: 0,0:00:12.53,0:00:12.75,Wort,,0,0,0,,Er {\c&H00FFFF&}wurde{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.75,0:00:13.56,Wort,,0,0,0,,{\c&H00FFFF&}gesliped.{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.83,0:00:15.81,Wort,,0,0,0,,{\c&H00FFFF&}Er{\c&HFFFFFF&} wurde
+Dialogue: 0,0:00:15.81,0:00:16.05,Wort,,0,0,0,,Er {\c&H00FFFF&}wurde{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.05,0:00:16.78,Wort,,0,0,0,,{\c&H00FFFF&}gesliped.{\c&HFFFFFF&}
+Dialogue: 0,0:00:21.27,0:00:22.25,Wort,,0,0,0,,{\c&H00FFFF&}Du{\c&HFFFFFF&} hast deinen
+Dialogue: 0,0:00:22.25,0:00:23.23,Wort,,0,0,0,,Du {\c&H00FFFF&}hast{\c&HFFFFFF&} deinen
+Dialogue: 0,0:00:23.23,0:00:25.17,Wort,,0,0,0,,Du hast {\c&H00FFFF&}deinen{\c&HFFFFFF&}
+Dialogue: 0,0:00:25.17,0:00:25.69,Wort,,0,0,0,,{\c&H00FFFF&}Opa...{\c&HFFFFFF&}
+Dialogue: 0,0:00:25.69,0:00:26.37,Wort,,0,0,0,,{\c&H00FFFF&}Er{\c&HFFFFFF&} lacht dich
+Dialogue: 0,0:00:26.37,0:00:27.19,Wort,,0,0,0,,Er {\c&H00FFFF&}lacht{\c&HFFFFFF&} dich
+Dialogue: 0,0:00:27.19,0:00:27.21,Wort,,0,0,0,,Er lacht {\c&H00FFFF&}dich{\c&HFFFFFF&}
+Dialogue: 0,0:00:27.21,0:00:27.59,Wort,,0,0,0,,{\c&H00FFFF&}sogar{\c&HFFFFFF&} aus im
+Dialogue: 0,0:00:27.59,0:00:27.85,Wort,,0,0,0,,sogar {\c&H00FFFF&}aus{\c&HFFFFFF&} im
+Dialogue: 0,0:00:27.85,0:00:28.05,Wort,,0,0,0,,sogar aus {\c&H00FFFF&}im{\c&HFFFFFF&}
+Dialogue: 0,0:00:28.05,0:00:28.44,Wort,,0,0,0,,{\c&H00FFFF&}Chat.{\c&HFFFFFF&}

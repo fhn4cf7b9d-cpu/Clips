@@ -1,0 +1,16 @@
+[
+ {"nr": "19", "streamer": "mertabi", "cam": "560:312:1340:15", "inhalt": "908:1060:500:20", "dauer": 30,
+  "hook1": "„Was passiert hier, man?“", "hook2": "Mert sprengt alles"},
+ {"nr": "21", "streamer": "mertabi", "cam": "576:312:0:15", "inhalt": "908:940:600:0", "dauer": 30,
+  "hook1": "„Er wurde gesnipet“", "hook2": "Und dann lacht er dich im Chat aus"},
+ {"nr": "22", "streamer": "mertabi", "cam": "576:312:0:15", "inhalt": "908:1060:600:20", "dauer": 30,
+  "hook1": "„Das ist ja komplett weg“", "hook2": "Jussef sprengt bei Trymacs"},
+ {"nr": "23", "streamer": "mertabi", "cam": "576:312:0:15", "inhalt": "908:940:600:0", "dauer": 30,
+  "hook1": "„Was ist das, Chat?“", "hook2": "Mert ist komplett verloren"},
+ {"nr": "24", "streamer": "mertabi", "cam": "560:312:1340:15", "inhalt": "908:940:500:0", "dauer": 30,
+  "hook1": "„Gib mir den Bogen!“", "hook2": "Mert schießt Tim ab"},
+ {"nr": "25", "streamer": "mertabi", "cam": "576:312:0:15", "inhalt": "908:1060:600:20", "oben_h": 900, "dauer": 30,
+  "hook1": "„Bin ich Imker?!“", "hook2": "Mert in der Minecraft-Schule"},
+ {"nr": "26", "streamer": "mertabi", "cam": "560:312:1340:15", "inhalt": "908:940:500:0", "dauer": 40.6,
+  "hook1": "„Guck mal hier, diese Hölle“", "hook2": "Mert stellt Tim eine Falle"}
+]
