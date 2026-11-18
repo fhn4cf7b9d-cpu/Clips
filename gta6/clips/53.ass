@@ -1,0 +1,868 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Wort,DejaVu Sans,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,7,2,2,60,60,480,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.35,0:00:02.04,Wort,,0,0,0,,{\c&H00FFFF&}Probleme!{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.61,0:00:07.07,Wort,,0,0,0,,{\c&H00FFFF&}Wir{\c&HFFFFFF&} haben große
+Dialogue: 0,0:00:07.07,0:00:07.27,Wort,,0,0,0,,Wir {\c&H00FFFF&}haben{\c&HFFFFFF&} große
+Dialogue: 0,0:00:07.27,0:00:07.63,Wort,,0,0,0,,Wir haben {\c&H00FFFF&}große{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.63,0:00:08.26,Wort,,0,0,0,,{\c&H00FFFF&}Probleme!{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.91,0:00:11.45,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} hab kein
+Dialogue: 0,0:00:11.45,0:00:11.61,Wort,,0,0,0,,Ich {\c&H00FFFF&}hab{\c&HFFFFFF&} kein
+Dialogue: 0,0:00:11.61,0:00:16.65,Wort,,0,0,0,,Ich hab {\c&H00FFFF&}kein{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.65,0:00:17.10,Wort,,0,0,0,,{\c&H00FFFF&}Aim!{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.57,0:00:17.97,Wort,,0,0,0,,{\c&H00FFFF&}Wir{\c&HFFFFFF&} haben
+Dialogue: 0,0:00:17.97,0:00:18.25,Wort,,0,0,0,,Wir {\c&H00FFFF&}haben{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.25,0:00:18.70,Wort,,0,0,0,,{\c&H00FFFF&}Probleme!{\c&HFFFFFF&}
+Dialogue: 0,0:00:23.04,0:00:23.44,Wort,,0,0,0,,{\c&H00FFFF&}Ist{\c&HFFFFFF&} hier einer?
+Dialogue: 0,0:00:23.44,0:00:23.80,Wort,,0,0,0,,Ist {\c&H00FFFF&}hier{\c&HFFFFFF&} einer?
+Dialogue: 0,0:00:23.80,0:00:24.17,Wort,,0,0,0,,Ist hier {\c&H00FFFF&}einer?{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.92,0:00:27.32,Wort,,0,0,0,,{\c&H00FFFF&}Oh{\c&HFFFFFF&} mein Gott!
+Dialogue: 0,0:00:27.32,0:00:27.60,Wort,,0,0,0,,Oh {\c&H00FFFF&}mein{\c&HFFFFFF&} Gott!
+Dialogue: 0,0:00:27.60,0:00:28.01,Wort,,0,0,0,,Oh mein {\c&H00FFFF&}Gott!{\c&HFFFFFF&}
+Dialogue: 0,0:00:28.32,0:00:28.72,Wort,,0,0,0,,{\c&H00FFFF&}Schnell{\c&HFFFFFF&} weg,
+Dialogue: 0,0:00:28.72,0:00:28.94,Wort,,0,0,0,,Schnell {\c&H00FFFF&}weg,{\c&HFFFFFF&}
+Dialogue: 0,0:00:28.94,0:00:29.08,Wort,,0,0,0,,{\c&H00FFFF&}schnell{\c&HFFFFFF&} weg,
+Dialogue: 0,0:00:29.08,0:00:29.18,Wort,,0,0,0,,schnell {\c&H00FFFF&}weg,{\c&HFFFFFF&}
+Dialogue: 0,0:00:29.18,0:00:29.30,Wort,,0,0,0,,{\c&H00FFFF&}schnell{\c&HFFFFFF&} weg!
+Dialogue: 0,0:00:29.30,0:00:29.55,Wort,,0,0,0,,schnell {\c&H00FFFF&}weg!{\c&HFFFFFF&}
+Dialogue: 0,0:00:29.66,0:00:30.12,Wort,,0,0,0,,{\c&H00FFFF&}Na,{\c&HFFFFFF&}
+Dialogue: 0,0:00:30.12,0:00:30.26,Wort,,0,0,0,,{\c&H00FFFF&}die{\c&HFFFFFF&} Möhre!
+Dialogue: 0,0:00:30.26,0:00:30.71,Wort,,0,0,0,,die {\c&H00FFFF&}Möhre!{\c&HFFFFFF&}
+Dialogue: 0,0:00:31.72,0:00:32.12,Wort,,0,0,0,,{\c&H00FFFF&}Hier{\c&HFFFFFF&} sind zu
+Dialogue: 0,0:00:32.12,0:00:32.30,Wort,,0,0,0,,Hier {\c&H00FFFF&}sind{\c&HFFFFFF&} zu
+Dialogue: 0,0:00:32.30,0:00:32.42,Wort,,0,0,0,,Hier sind {\c&H00FFFF&}zu{\c&HFFFFFF&}
+Dialogue: 0,0:00:32.42,0:00:32.70,Wort,,0,0,0,,{\c&H00FFFF&}viele,{\c&HFFFFFF&}
+Dialogue: 0,0:00:32.70,0:00:33.07,Wort,,0,0,0,,{\c&H00FFFF&}Digga!{\c&HFFFFFF&}
+Dialogue: 0,0:00:33.90,0:00:34.30,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} hab noch
+Dialogue: 0,0:00:34.30,0:00:34.42,Wort,,0,0,0,,Ich {\c&H00FFFF&}hab{\c&HFFFFFF&} noch
+Dialogue: 0,0:00:34.42,0:00:34.52,Wort,,0,0,0,,Ich hab {\c&H00FFFF&}noch{\c&HFFFFFF&}
+Dialogue: 0,0:00:34.52,0:00:34.68,Wort,,0,0,0,,{\c&H00FFFF&}nicht{\c&HFFFFFF&} mal die
+Dialogue: 0,0:00:34.68,0:00:34.80,Wort,,0,0,0,,nicht {\c&H00FFFF&}mal{\c&HFFFFFF&} die
+Dialogue: 0,0:00:34.80,0:00:34.90,Wort,,0,0,0,,nicht mal {\c&H00FFFF&}die{\c&HFFFFFF&}
+Dialogue: 0,0:00:34.90,0:00:35.60,Wort,,0,0,0,,{\c&H00FFFF&}Sichtempfindlichkeit{\c&HFFFFFF&}
+Dialogue: 0,0:00:35.60,0:00:36.12,Wort,,0,0,0,,{\c&H00FFFF&}eingestellt.{\c&HFFFFFF&}
+Dialogue: 0,0:00:36.12,0:00:36.18,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} hab keine
+Dialogue: 0,0:00:36.18,0:00:36.24,Wort,,0,0,0,,Ich {\c&H00FFFF&}hab{\c&HFFFFFF&} keine
+Dialogue: 0,0:00:36.24,0:00:36.42,Wort,,0,0,0,,Ich hab {\c&H00FFFF&}keine{\c&HFFFFFF&}
+Dialogue: 0,0:00:36.42,0:00:36.74,Wort,,0,0,0,,{\c&H00FFFF&}Munition{\c&HFFFFFF&} mehr!
+Dialogue: 0,0:00:36.74,0:00:37.09,Wort,,0,0,0,,Munition {\c&H00FFFF&}mehr!{\c&HFFFFFF&}
+Dialogue: 0,0:00:37.78,0:00:38.18,Wort,,0,0,0,,{\c&H00FFFF&}Steh{\c&HFFFFFF&} auf!
+Dialogue: 0,0:00:38.18,0:00:38.53,Wort,,0,0,0,,Steh {\c&H00FFFF&}auf!{\c&HFFFFFF&}
+Dialogue: 0,0:00:41.68,0:00:42.08,Wort,,0,0,0,,{\c&H00FFFF&}Kick{\c&HFFFFFF&} den doch
+Dialogue: 0,0:00:42.08,0:00:42.28,Wort,,0,0,0,,Kick {\c&H00FFFF&}den{\c&HFFFFFF&} doch
+Dialogue: 0,0:00:42.28,0:00:42.42,Wort,,0,0,0,,Kick den {\c&H00FFFF&}doch{\c&HFFFFFF&}
+Dialogue: 0,0:00:42.42,0:00:42.54,Wort,,0,0,0,,{\c&H00FFFF&}mal{\c&HFFFFFF&} weg da,
+Dialogue: 0,0:00:42.54,0:00:42.76,Wort,,0,0,0,,mal {\c&H00FFFF&}weg{\c&HFFFFFF&} da,
+Dialogue: 0,0:00:42.76,0:00:43.00,Wort,,0,0,0,,mal weg {\c&H00FFFF&}da,{\c&HFFFFFF&}
+Dialogue: 0,0:00:43.00,0:00:43.35,Wort,,0,0,0,,{\c&H00FFFF&}Digga!{\c&HFFFFFF&}
+Dialogue: 0,0:00:44.96,0:00:45.36,Wort,,0,0,0,,{\c&H00FFFF&}Warte{\c&HFFFFFF&} mal.
+Dialogue: 0,0:00:45.36,0:00:45.61,Wort,,0,0,0,,Warte {\c&H00FFFF&}mal.{\c&HFFFFFF&}
+Dialogue: 0,0:00:46.02,0:00:46.42,Wort,,0,0,0,,{\c&H00FFFF&}Plündern,{\c&HFFFFFF&}
+Dialogue: 0,0:00:46.42,0:00:46.74,Wort,,0,0,0,,{\c&H00FFFF&}okay,{\c&HFFFFFF&}
+Dialogue: 0,0:00:46.74,0:00:47.03,Wort,,0,0,0,,{\c&H00FFFF&}gut.{\c&HFFFFFF&}
+Dialogue: 0,0:00:47.22,0:00:47.62,Wort,,0,0,0,,{\c&H00FFFF&}Warum{\c&HFFFFFF&} plündert
+Dialogue: 0,0:00:47.62,0:00:47.90,Wort,,0,0,0,,Warum {\c&H00FFFF&}plündert{\c&HFFFFFF&}
+Dialogue: 0,0:00:47.90,0:00:48.00,Wort,,0,0,0,,{\c&H00FFFF&}der{\c&HFFFFFF&} den nicht?
+Dialogue: 0,0:00:48.00,0:00:48.10,Wort,,0,0,0,,der {\c&H00FFFF&}den{\c&HFFFFFF&} nicht?
+Dialogue: 0,0:00:48.10,0:00:48.45,Wort,,0,0,0,,der den {\c&H00FFFF&}nicht?{\c&HFFFFFF&}
+Dialogue: 0,0:00:49.06,0:00:49.48,Wort,,0,0,0,,{\c&H00FFFF&}Digga,{\c&HFFFFFF&}
+Dialogue: 0,0:00:49.48,0:00:49.66,Wort,,0,0,0,,{\c&H00FFFF&}wie{\c&HFFFFFF&} oft?
+Dialogue: 0,0:00:49.66,0:00:50.01,Wort,,0,0,0,,wie {\c&H00FFFF&}oft?{\c&HFFFFFF&}
+Dialogue: 0,0:00:50.16,0:00:50.56,Wort,,0,0,0,,{\c&H00FFFF&}Er{\c&HFFFFFF&} plündert ihn
+Dialogue: 0,0:00:50.56,0:00:50.84,Wort,,0,0,0,,Er {\c&H00FFFF&}plündert{\c&HFFFFFF&} ihn
+Dialogue: 0,0:00:50.84,0:00:50.92,Wort,,0,0,0,,Er plündert {\c&H00FFFF&}ihn{\c&HFFFFFF&}
+Dialogue: 0,0:00:50.92,0:00:51.25,Wort,,0,0,0,,{\c&H00FFFF&}nicht.{\c&HFFFFFF&}
+Dialogue: 0,0:00:51.40,0:00:51.67,Wort,,0,0,0,,{\c&H00FFFF&}Okay.{\c&HFFFFFF&}
+Dialogue: 0,0:00:52.26,0:00:52.62,Wort,,0,0,0,,{\c&H00FFFF&}Also{\c&HFFFFFF&} ist
+Dialogue: 0,0:00:52.62,0:00:52.72,Wort,,0,0,0,,Also {\c&H00FFFF&}ist{\c&HFFFFFF&}
+Dialogue: 0,0:00:52.72,0:00:52.90,Wort,,0,0,0,,{\c&H00FFFF&}natürlich{\c&HFFFFFF&} hier
+Dialogue: 0,0:00:52.90,0:00:53.20,Wort,,0,0,0,,natürlich {\c&H00FFFF&}hier{\c&HFFFFFF&}
+Dialogue: 0,0:00:53.20,0:00:53.38,Wort,,0,0,0,,{\c&H00FFFF&}auch{\c&HFFFFFF&} ganz soft.
+Dialogue: 0,0:00:53.38,0:00:53.66,Wort,,0,0,0,,auch {\c&H00FFFF&}ganz{\c&HFFFFFF&} soft.
+Dialogue: 0,0:00:53.66,0:00:54.15,Wort,,0,0,0,,auch ganz {\c&H00FFFF&}soft.{\c&HFFFFFF&}
+Dialogue: 0,0:00:55.62,0:00:55.98,Wort,,0,0,0,,{\c&H00FFFF&}Wie{\c&HFFFFFF&} viele sind
+Dialogue: 0,0:00:55.98,0:00:56.22,Wort,,0,0,0,,Wie {\c&H00FFFF&}viele{\c&HFFFFFF&} sind
+Dialogue: 0,0:00:56.22,0:00:56.40,Wort,,0,0,0,,Wie viele {\c&H00FFFF&}sind{\c&HFFFFFF&}
+Dialogue: 0,0:00:56.40,0:00:56.52,Wort,,0,0,0,,{\c&H00FFFF&}denn{\c&HFFFFFF&} hier,
+Dialogue: 0,0:00:56.52,0:00:56.78,Wort,,0,0,0,,denn {\c&H00FFFF&}hier,{\c&HFFFFFF&}
+Dialogue: 0,0:00:56.78,0:00:56.96,Wort,,0,0,0,,{\c&H00FFFF&}Digga?{\c&HFFFFFF&}
+Dialogue: 0,0:00:56.96,0:00:57.10,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} hab keine
+Dialogue: 0,0:00:57.10,0:00:57.16,Wort,,0,0,0,,Ich {\c&H00FFFF&}hab{\c&HFFFFFF&} keine
+Dialogue: 0,0:00:57.16,0:00:57.36,Wort,,0,0,0,,Ich hab {\c&H00FFFF&}keine{\c&HFFFFFF&}
+Dialogue: 0,0:00:57.36,0:00:58.50,Wort,,0,0,0,,{\c&H00FFFF&}Waffe{\c&HFFFFFF&} mehr,
+Dialogue: 0,0:00:58.50,0:00:58.76,Wort,,0,0,0,,Waffe {\c&H00FFFF&}mehr,{\c&HFFFFFF&}
+Dialogue: 0,0:00:58.76,0:00:58.99,Wort,,0,0,0,,{\c&H00FFFF&}Digga.{\c&HFFFFFF&}
+Dialogue: 0,0:01:03.01,0:01:03.37,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} muss gleich
+Dialogue: 0,0:01:03.37,0:01:03.51,Wort,,0,0,0,,Ich {\c&H00FFFF&}muss{\c&HFFFFFF&} gleich
+Dialogue: 0,0:01:03.51,0:01:03.63,Wort,,0,0,0,,Ich muss {\c&H00FFFF&}gleich{\c&HFFFFFF&}
+Dialogue: 0,0:01:03.63,0:01:03.91,Wort,,0,0,0,,{\c&H00FFFF&}unbedingt{\c&HFFFFFF&} die
+Dialogue: 0,0:01:03.91,0:01:04.11,Wort,,0,0,0,,unbedingt {\c&H00FFFF&}die{\c&HFFFFFF&}
+Dialogue: 0,0:01:04.11,0:01:04.75,Wort,,0,0,0,,{\c&H00FFFF&}Sichtempfindlichkeit{\c&HFFFFFF&}
+Dialogue: 0,0:01:04.75,0:01:05.44,Wort,,0,0,0,,{\c&H00FFFF&}einstellen.{\c&HFFFFFF&}
+Dialogue: 0,0:01:08.44,0:01:08.84,Wort,,0,0,0,,{\c&H00FFFF&}Boah,{\c&HFFFFFF&}
+Dialogue: 0,0:01:08.84,0:01:08.94,Wort,,0,0,0,,{\c&H00FFFF&}ist{\c&HFFFFFF&} das geil,
+Dialogue: 0,0:01:08.94,0:01:08.98,Wort,,0,0,0,,ist {\c&H00FFFF&}das{\c&HFFFFFF&} geil,
+Dialogue: 0,0:01:08.98,0:01:09.32,Wort,,0,0,0,,ist das {\c&H00FFFF&}geil,{\c&HFFFFFF&}
+Dialogue: 0,0:01:09.32,0:01:09.63,Wort,,0,0,0,,{\c&H00FFFF&}Digga.{\c&HFFFFFF&}
+Dialogue: 0,0:01:11.38,0:01:11.74,Wort,,0,0,0,,{\c&H00FFFF&}Wo{\c&HFFFFFF&} ist er?
+Dialogue: 0,0:01:11.74,0:01:11.88,Wort,,0,0,0,,Wo {\c&H00FFFF&}ist{\c&HFFFFFF&} er?
+Dialogue: 0,0:01:11.88,0:01:12.07,Wort,,0,0,0,,Wo ist {\c&H00FFFF&}er?{\c&HFFFFFF&}
+Dialogue: 0,0:01:17.68,0:01:18.19,Wort,,0,0,0,,{\c&H00FFFF&}Wartet.{\c&HFFFFFF&}
+Dialogue: 0,0:01:18.96,0:01:19.32,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} muss einmal
+Dialogue: 0,0:01:19.32,0:01:19.46,Wort,,0,0,0,,Ich {\c&H00FFFF&}muss{\c&HFFFFFF&} einmal
+Dialogue: 0,0:01:19.46,0:01:19.66,Wort,,0,0,0,,Ich muss {\c&H00FFFF&}einmal{\c&HFFFFFF&}
+Dialogue: 0,0:01:19.66,0:01:19.86,Wort,,0,0,0,,{\c&H00FFFF&}ganz{\c&HFFFFFF&} kurz die
+Dialogue: 0,0:01:19.86,0:01:20.02,Wort,,0,0,0,,ganz {\c&H00FFFF&}kurz{\c&HFFFFFF&} die
+Dialogue: 0,0:01:20.02,0:01:20.16,Wort,,0,0,0,,ganz kurz {\c&H00FFFF&}die{\c&HFFFFFF&}
+Dialogue: 0,0:01:20.16,0:01:20.99,Wort,,0,0,0,,{\c&H00FFFF&}Sichtempfindlichkeit.{\c&HFFFFFF&}
+Dialogue: 0,0:01:22.96,0:01:23.32,Wort,,0,0,0,,{\c&H00FFFF&}Die{\c&HFFFFFF&} Subs,
+Dialogue: 0,0:01:23.32,0:01:23.62,Wort,,0,0,0,,Die {\c&H00FFFF&}Subs,{\c&HFFFFFF&}
+Dialogue: 0,0:01:23.62,0:01:23.93,Wort,,0,0,0,,{\c&H00FFFF&}Digga.{\c&HFFFFFF&}
+Dialogue: 0,0:01:24.16,0:01:24.58,Wort,,0,0,0,,{\c&H00FFFF&}Bruder,{\c&HFFFFFF&}
+Dialogue: 0,0:01:24.58,0:01:24.70,Wort,,0,0,0,,{\c&H00FFFF&}ich{\c&HFFFFFF&} bin hier
+Dialogue: 0,0:01:24.70,0:01:24.92,Wort,,0,0,0,,ich {\c&H00FFFF&}bin{\c&HFFFFFF&} hier
+Dialogue: 0,0:01:24.92,0:01:25.08,Wort,,0,0,0,,ich bin {\c&H00FFFF&}hier{\c&HFFFFFF&}
+Dialogue: 0,0:01:25.08,0:01:25.43,Wort,,0,0,0,,{\c&H00FFFF&}grad,{\c&HFFFFFF&}
+Dialogue: 0,0:01:25.44,0:01:26.15,Wort,,0,0,0,,{\c&H00FFFF&}also...{\c&HFFFFFF&}
+Dialogue: 0,0:01:26.72,0:01:27.08,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} bedanke
+Dialogue: 0,0:01:27.08,0:01:27.44,Wort,,0,0,0,,Ich {\c&H00FFFF&}bedanke{\c&HFFFFFF&}
+Dialogue: 0,0:01:27.44,0:01:27.58,Wort,,0,0,0,,{\c&H00FFFF&}mich{\c&HFFFFFF&} gleich
+Dialogue: 0,0:01:27.58,0:01:27.76,Wort,,0,0,0,,mich {\c&H00FFFF&}gleich{\c&HFFFFFF&}
+Dialogue: 0,0:01:27.76,0:01:27.96,Wort,,0,0,0,,{\c&H00FFFF&}noch{\c&HFFFFFF&}
+Dialogue: 0,0:01:27.96,0:01:29.00,Wort,,0,0,0,,{\c&H00FFFF&}hundertprozentig.{\c&HFFFFFF&}
+Dialogue: 0,0:01:29.00,0:01:29.12,Wort,,0,0,0,,{\c&H00FFFF&}Aber{\c&HFFFFFF&} jetzt muss
+Dialogue: 0,0:01:29.12,0:01:29.28,Wort,,0,0,0,,Aber {\c&H00FFFF&}jetzt{\c&HFFFFFF&} muss
+Dialogue: 0,0:01:29.28,0:01:29.44,Wort,,0,0,0,,Aber jetzt {\c&H00FFFF&}muss{\c&HFFFFFF&}
+Dialogue: 0,0:01:29.44,0:01:29.56,Wort,,0,0,0,,{\c&H00FFFF&}ich{\c&HFFFFFF&} hier einmal
+Dialogue: 0,0:01:29.56,0:01:29.68,Wort,,0,0,0,,ich {\c&H00FFFF&}hier{\c&HFFFFFF&} einmal
+Dialogue: 0,0:01:29.68,0:01:29.90,Wort,,0,0,0,,ich hier {\c&H00FFFF&}einmal{\c&HFFFFFF&}
+Dialogue: 0,0:01:29.90,0:01:30.08,Wort,,0,0,0,,{\c&H00FFFF&}ganz{\c&HFFFFFF&} kurz die
+Dialogue: 0,0:01:30.08,0:01:30.30,Wort,,0,0,0,,ganz {\c&H00FFFF&}kurz{\c&HFFFFFF&} die
+Dialogue: 0,0:01:30.30,0:01:30.46,Wort,,0,0,0,,ganz kurz {\c&H00FFFF&}die{\c&HFFFFFF&}
+Dialogue: 0,0:01:30.46,0:01:30.70,Wort,,0,0,0,,{\c&H00FFFF&}Story{\c&HFFFFFF&} machen,
+Dialogue: 0,0:01:30.70,0:01:31.02,Wort,,0,0,0,,Story {\c&H00FFFF&}machen,{\c&HFFFFFF&}
+Dialogue: 0,0:01:31.02,0:01:31.33,Wort,,0,0,0,,{\c&H00FFFF&}okay?{\c&HFFFFFF&}
+Dialogue: 0,0:01:31.36,0:01:31.70,Wort,,0,0,0,,{\c&H00FFFF&}Wir{\c&HFFFFFF&} machen
+Dialogue: 0,0:01:31.70,0:01:31.80,Wort,,0,0,0,,Wir {\c&H00FFFF&}machen{\c&HFFFFFF&}
+Dialogue: 0,0:01:31.80,0:01:32.02,Wort,,0,0,0,,{\c&H00FFFF&}alles{\c&HFFFFFF&} mal einen
+Dialogue: 0,0:01:32.02,0:01:32.14,Wort,,0,0,0,,alles {\c&H00FFFF&}mal{\c&HFFFFFF&} einen
+Dialogue: 0,0:01:32.14,0:01:32.28,Wort,,0,0,0,,alles mal {\c&H00FFFF&}einen{\c&HFFFFFF&}
+Dialogue: 0,0:01:32.28,0:01:32.63,Wort,,0,0,0,,{\c&H00FFFF&}höher.{\c&HFFFFFF&}
+Dialogue: 0,0:01:37.70,0:01:38.06,Wort,,0,0,0,,{\c&H00FFFF&}Drehung{\c&HFFFFFF&} der 3D
+Dialogue: 0,0:01:38.06,0:01:38.24,Wort,,0,0,0,,Drehung {\c&H00FFFF&}der{\c&HFFFFFF&} 3D
+Dialogue: 0,0:01:38.24,0:01:38.60,Wort,,0,0,0,,Drehung der {\c&H00FFFF&}3D{\c&HFFFFFF&}
+Dialogue: 0,0:01:38.60,0:01:39.02,Wort,,0,0,0,,{\c&H00FFFF&}Karte.{\c&HFFFFFF&}
+Dialogue: 0,0:01:39.02,0:01:39.25,Wort,,0,0,0,,{\c&H00FFFF&}Warte.{\c&HFFFFFF&}
+Dialogue: 0,0:01:39.78,0:01:40.37,Wort,,0,0,0,,{\c&H00FFFF&}Okay.{\c&HFFFFFF&}
+Dialogue: 0,0:01:40.84,0:01:41.43,Wort,,0,0,0,,{\c&H00FFFF&}Okay,{\c&HFFFFFF&}
+Dialogue: 0,0:01:43.80,0:01:44.06,Wort,,0,0,0,,{\c&H00FFFF&}alles{\c&HFFFFFF&} einmal
+Dialogue: 0,0:01:44.06,0:01:44.32,Wort,,0,0,0,,alles {\c&H00FFFF&}einmal{\c&HFFFFFF&}
+Dialogue: 0,0:01:44.32,0:01:45.04,Wort,,0,0,0,,{\c&H00FFFF&}hochgemacht.{\c&HFFFFFF&}
+Dialogue: 0,0:01:45.04,0:01:45.45,Wort,,0,0,0,,{\c&H00FFFF&}Gut.{\c&HFFFFFF&}
+Dialogue: 0,0:01:49.72,0:01:50.31,Wort,,0,0,0,,{\c&H00FFFF&}Okay.{\c&HFFFFFF&}
+Dialogue: 0,0:01:51.20,0:01:51.64,Wort,,0,0,0,,{\c&H00FFFF&}Oh{\c&HFFFFFF&} mein Gott!
+Dialogue: 0,0:01:51.64,0:01:51.92,Wort,,0,0,0,,Oh {\c&H00FFFF&}mein{\c&HFFFFFF&} Gott!
+Dialogue: 0,0:01:51.92,0:01:52.31,Wort,,0,0,0,,Oh mein {\c&H00FFFF&}Gott!{\c&HFFFFFF&}
+Dialogue: 0,0:01:52.66,0:01:53.16,Wort,,0,0,0,,{\c&H00FFFF&}Nein.{\c&HFFFFFF&}
+Dialogue: 0,0:01:53.16,0:01:53.44,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} hab es
+Dialogue: 0,0:01:53.44,0:01:53.60,Wort,,0,0,0,,Ich {\c&H00FFFF&}hab{\c&HFFFFFF&} es
+Dialogue: 0,0:01:53.60,0:01:53.70,Wort,,0,0,0,,Ich hab {\c&H00FFFF&}es{\c&HFFFFFF&}
+Dialogue: 0,0:01:53.70,0:01:53.78,Wort,,0,0,0,,{\c&H00FFFF&}so{\c&HFFFFFF&} umgestellt.
+Dialogue: 0,0:01:53.78,0:01:54.29,Wort,,0,0,0,,so {\c&H00FFFF&}umgestellt.{\c&HFFFFFF&}
+Dialogue: 0,0:01:54.32,0:01:54.76,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} hab nen
+Dialogue: 0,0:01:54.76,0:01:54.94,Wort,,0,0,0,,Ich {\c&H00FFFF&}hab{\c&HFFFFFF&} nen
+Dialogue: 0,0:01:54.94,0:01:55.06,Wort,,0,0,0,,Ich hab {\c&H00FFFF&}nen{\c&HFFFFFF&}
+Dialogue: 0,0:01:55.06,0:01:55.22,Wort,,0,0,0,,{\c&H00FFFF&}Fehler{\c&HFFFFFF&} gemacht.
+Dialogue: 0,0:01:55.22,0:01:55.71,Wort,,0,0,0,,Fehler {\c&H00FFFF&}gemacht.{\c&HFFFFFF&}
+Dialogue: 0,0:01:55.90,0:01:56.34,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} hab nen
+Dialogue: 0,0:01:56.34,0:01:56.52,Wort,,0,0,0,,Ich {\c&H00FFFF&}hab{\c&HFFFFFF&} nen
+Dialogue: 0,0:01:56.52,0:01:56.62,Wort,,0,0,0,,Ich hab {\c&H00FFFF&}nen{\c&HFFFFFF&}
+Dialogue: 0,0:01:56.62,0:01:56.84,Wort,,0,0,0,,{\c&H00FFFF&}Fehler{\c&HFFFFFF&} gemacht.
+Dialogue: 0,0:01:56.84,0:01:57.31,Wort,,0,0,0,,Fehler {\c&H00FFFF&}gemacht.{\c&HFFFFFF&}
+Dialogue: 0,0:01:59.46,0:02:00.05,Wort,,0,0,0,,{\c&H00FFFF&}Ha,{\c&HFFFFFF&}
+Dialogue: 0,0:02:00.10,0:02:00.53,Wort,,0,0,0,,{\c&H00FFFF&}nein!{\c&HFFFFFF&}
+Dialogue: 0,0:02:01.32,0:02:01.76,Wort,,0,0,0,,{\c&H00FFFF&}Bei{\c&HFFFFFF&} mir ist
+Dialogue: 0,0:02:01.76,0:02:01.88,Wort,,0,0,0,,Bei {\c&H00FFFF&}mir{\c&HFFFFFF&} ist
+Dialogue: 0,0:02:01.88,0:02:02.02,Wort,,0,0,0,,Bei mir {\c&H00FFFF&}ist{\c&HFFFFFF&}
+Dialogue: 0,0:02:02.02,0:02:02.20,Wort,,0,0,0,,{\c&H00FFFF&}jetzt{\c&HFFFFFF&} Dings...
+Dialogue: 0,0:02:02.20,0:02:02.83,Wort,,0,0,0,,jetzt {\c&H00FFFF&}Dings...{\c&HFFFFFF&}
+Dialogue: 0,0:02:05.75,0:02:06.34,Wort,,0,0,0,,{\c&H00FFFF&}Wo...{\c&HFFFFFF&}
+Dialogue: 0,0:02:07.71,0:02:08.15,Wort,,0,0,0,,{\c&H00FFFF&}Wo{\c&HFFFFFF&} hab ich
+Dialogue: 0,0:02:08.15,0:02:08.59,Wort,,0,0,0,,Wo {\c&H00FFFF&}hab{\c&HFFFFFF&} ich
+Dialogue: 0,0:02:08.59,0:02:08.69,Wort,,0,0,0,,Wo hab {\c&H00FFFF&}ich{\c&HFFFFFF&}
+Dialogue: 0,0:02:08.69,0:02:08.81,Wort,,0,0,0,,{\c&H00FFFF&}das{\c&HFFFFFF&}
+Dialogue: 0,0:02:08.81,0:02:09.47,Wort,,0,0,0,,{\c&H00FFFF&}ausgestellt,{\c&HFFFFFF&}
+Dialogue: 0,0:02:09.47,0:02:09.78,Wort,,0,0,0,,{\c&H00FFFF&}Digga?{\c&HFFFFFF&}
+Dialogue: 0,0:02:10.85,0:02:11.29,Wort,,0,0,0,,{\c&H00FFFF&}Wieso{\c&HFFFFFF&} gucke ich
+Dialogue: 0,0:02:11.29,0:02:11.51,Wort,,0,0,0,,Wieso {\c&H00FFFF&}gucke{\c&HFFFFFF&} ich
+Dialogue: 0,0:02:11.51,0:02:11.61,Wort,,0,0,0,,Wieso gucke {\c&H00FFFF&}ich{\c&HFFFFFF&}
+Dialogue: 0,0:02:11.61,0:02:11.79,Wort,,0,0,0,,{\c&H00FFFF&}jetzt,{\c&HFFFFFF&}
+Dialogue: 0,0:02:11.79,0:02:11.87,Wort,,0,0,0,,{\c&H00FFFF&}wenn{\c&HFFFFFF&} ich nach
+Dialogue: 0,0:02:11.87,0:02:11.93,Wort,,0,0,0,,wenn {\c&H00FFFF&}ich{\c&HFFFFFF&} nach
+Dialogue: 0,0:02:11.93,0:02:12.03,Wort,,0,0,0,,wenn ich {\c&H00FFFF&}nach{\c&HFFFFFF&}
+Dialogue: 0,0:02:12.03,0:02:12.29,Wort,,0,0,0,,{\c&H00FFFF&}oben{\c&HFFFFFF&} gucke,
+Dialogue: 0,0:02:12.29,0:02:12.67,Wort,,0,0,0,,oben {\c&H00FFFF&}gucke,{\c&HFFFFFF&}
+Dialogue: 0,0:02:12.67,0:02:12.91,Wort,,0,0,0,,{\c&H00FFFF&}nach{\c&HFFFFFF&} unten,
+Dialogue: 0,0:02:12.91,0:02:13.35,Wort,,0,0,0,,nach {\c&H00FFFF&}unten,{\c&HFFFFFF&}
+Dialogue: 0,0:02:13.35,0:02:13.72,Wort,,0,0,0,,{\c&H00FFFF&}Digga?{\c&HFFFFFF&}
+Dialogue: 0,0:02:14.57,0:02:15.01,Wort,,0,0,0,,{\c&H00FFFF&}Bei{\c&HFFFFFF&} Anzeige,
+Dialogue: 0,0:02:15.01,0:02:15.45,Wort,,0,0,0,,Bei {\c&H00FFFF&}Anzeige,{\c&HFFFFFF&}
+Dialogue: 0,0:02:15.45,0:02:15.57,Wort,,0,0,0,,{\c&H00FFFF&}wo{\c&HFFFFFF&} war denn
+Dialogue: 0,0:02:15.57,0:02:15.75,Wort,,0,0,0,,wo {\c&H00FFFF&}war{\c&HFFFFFF&} denn
+Dialogue: 0,0:02:15.75,0:02:15.83,Wort,,0,0,0,,wo war {\c&H00FFFF&}denn{\c&HFFFFFF&}
+Dialogue: 0,0:02:15.83,0:02:16.12,Wort,,0,0,0,,{\c&H00FFFF&}das?{\c&HFFFFFF&}
+Dialogue: 0,0:02:19.67,0:02:20.26,Wort,,0,0,0,,{\c&H00FFFF&}Hä?{\c&HFFFFFF&}
+Dialogue: 0,0:02:20.71,0:02:21.17,Wort,,0,0,0,,{\c&H00FFFF&}Ach,{\c&HFFFFFF&}
+Dialogue: 0,0:02:21.17,0:02:21.27,Wort,,0,0,0,,{\c&H00FFFF&}ich{\c&HFFFFFF&} bin hier
+Dialogue: 0,0:02:21.27,0:02:21.35,Wort,,0,0,0,,ich {\c&H00FFFF&}bin{\c&HFFFFFF&} hier
+Dialogue: 0,0:02:21.35,0:02:22.11,Wort,,0,0,0,,ich bin {\c&H00FFFF&}hier{\c&HFFFFFF&}
+Dialogue: 0,0:02:22.11,0:02:22.69,Wort,,0,0,0,,{\c&H00FFFF&}raufgegangen,{\c&HFFFFFF&}
+Dialogue: 0,0:02:22.69,0:02:23.08,Wort,,0,0,0,,{\c&H00FFFF&}Scheer.{\c&HFFFFFF&}
+Dialogue: 0,0:02:24.39,0:02:24.79,Wort,,0,0,0,,{\c&H00FFFF&}hier{\c&HFFFFFF&} war alles
+Dialogue: 0,0:02:24.79,0:02:25.19,Wort,,0,0,0,,hier {\c&H00FFFF&}war{\c&HFFFFFF&} alles
+Dialogue: 0,0:02:25.19,0:02:25.41,Wort,,0,0,0,,hier war {\c&H00FFFF&}alles{\c&HFFFFFF&}
+Dialogue: 0,0:02:25.41,0:02:25.67,Wort,,0,0,0,,{\c&H00FFFF&}in{\c&HFFFFFF&} ordnung
+Dialogue: 0,0:02:25.67,0:02:26.05,Wort,,0,0,0,,in {\c&H00FFFF&}ordnung{\c&HFFFFFF&}
+Dialogue: 0,0:02:26.05,0:02:26.43,Wort,,0,0,0,,{\c&H00FFFF&}verstimmung{\c&HFFFFFF&}
+Dialogue: 0,0:02:26.43,0:02:26.93,Wort,,0,0,0,,{\c&H00FFFF&}auch{\c&HFFFFFF&} habe
+Dialogue: 0,0:02:26.93,0:02:28.02,Wort,,0,0,0,,auch {\c&H00FFFF&}habe{\c&HFFFFFF&}
+Dialogue: 0,0:02:30.69,0:02:30.77,Wort,,0,0,0,,{\c&H00FFFF&}ich{\c&HFFFFFF&} das hier
+Dialogue: 0,0:02:30.77,0:02:30.83,Wort,,0,0,0,,ich {\c&H00FFFF&}das{\c&HFFFFFF&} hier
+Dialogue: 0,0:02:30.83,0:02:31.13,Wort,,0,0,0,,ich das {\c&H00FFFF&}hier{\c&HFFFFFF&}
+Dialogue: 0,0:02:31.13,0:02:32.73,Wort,,0,0,0,,{\c&H00FFFF&}wo{\c&HFFFFFF&} habe ich
+Dialogue: 0,0:02:32.73,0:02:32.89,Wort,,0,0,0,,wo {\c&H00FFFF&}habe{\c&HFFFFFF&} ich
+Dialogue: 0,0:02:32.89,0:02:32.97,Wort,,0,0,0,,wo habe {\c&H00FFFF&}ich{\c&HFFFFFF&}
+Dialogue: 0,0:02:32.97,0:02:33.09,Wort,,0,0,0,,{\c&H00FFFF&}das{\c&HFFFFFF&} denn bei
+Dialogue: 0,0:02:33.09,0:02:33.27,Wort,,0,0,0,,das {\c&H00FFFF&}denn{\c&HFFFFFF&} bei
+Dialogue: 0,0:02:33.27,0:02:34.75,Wort,,0,0,0,,das denn {\c&H00FFFF&}bei{\c&HFFFFFF&}
+Dialogue: 0,0:02:34.75,0:02:35.37,Wort,,0,0,0,,{\c&H00FFFF&}kontrollen{\c&HFFFFFF&} wo
+Dialogue: 0,0:02:35.37,0:02:35.45,Wort,,0,0,0,,kontrollen {\c&H00FFFF&}wo{\c&HFFFFFF&}
+Dialogue: 0,0:02:35.45,0:02:35.61,Wort,,0,0,0,,{\c&H00FFFF&}habe{\c&HFFFFFF&} ich denn
+Dialogue: 0,0:02:35.61,0:02:35.71,Wort,,0,0,0,,habe {\c&H00FFFF&}ich{\c&HFFFFFF&} denn
+Dialogue: 0,0:02:35.71,0:02:35.77,Wort,,0,0,0,,habe ich {\c&H00FFFF&}denn{\c&HFFFFFF&}
+Dialogue: 0,0:02:35.77,0:02:35.89,Wort,,0,0,0,,{\c&H00FFFF&}da{\c&HFFFFFF&} gerade was
+Dialogue: 0,0:02:35.89,0:02:36.05,Wort,,0,0,0,,da {\c&H00FFFF&}gerade{\c&HFFFFFF&} was
+Dialogue: 0,0:02:36.05,0:02:36.19,Wort,,0,0,0,,da gerade {\c&H00FFFF&}was{\c&HFFFFFF&}
+Dialogue: 0,0:02:36.19,0:02:36.59,Wort,,0,0,0,,{\c&H00FFFF&}umgestellt{\c&HFFFFFF&} hier
+Dialogue: 0,0:02:36.59,0:02:36.83,Wort,,0,0,0,,umgestellt {\c&H00FFFF&}hier{\c&HFFFFFF&}
+Dialogue: 0,0:02:36.83,0:02:37.55,Wort,,0,0,0,,{\c&H00FFFF&}genau{\c&HFFFFFF&} richtig
+Dialogue: 0,0:02:37.55,0:02:37.97,Wort,,0,0,0,,genau {\c&H00FFFF&}richtig{\c&HFFFFFF&}
+Dialogue: 0,0:02:37.97,0:02:40.09,Wort,,0,0,0,,{\c&H00FFFF&}vertikale{\c&HFFFFFF&} das
+Dialogue: 0,0:02:40.09,0:02:40.31,Wort,,0,0,0,,vertikale {\c&H00FFFF&}das{\c&HFFFFFF&}
+Dialogue: 0,0:02:40.31,0:02:40.45,Wort,,0,0,0,,{\c&H00FFFF&}ist{\c&HFFFFFF&} alles
+Dialogue: 0,0:02:40.45,0:02:40.65,Wort,,0,0,0,,ist {\c&H00FFFF&}alles{\c&HFFFFFF&}
+Dialogue: 0,0:02:40.65,0:02:41.03,Wort,,0,0,0,,{\c&H00FFFF&}richtig{\c&HFFFFFF&} hier
+Dialogue: 0,0:02:41.03,0:02:42.26,Wort,,0,0,0,,richtig {\c&H00FFFF&}hier{\c&HFFFFFF&}
+Dialogue: 0,0:02:44.00,0:02:45.94,Wort,,0,0,0,,{\c&H00FFFF&}jetzt{\c&HFFFFFF&} müsste es
+Dialogue: 0,0:02:45.94,0:02:47.96,Wort,,0,0,0,,jetzt {\c&H00FFFF&}müsste{\c&HFFFFFF&} es
+Dialogue: 0,0:02:47.96,0:02:48.10,Wort,,0,0,0,,jetzt müsste {\c&H00FFFF&}es{\c&HFFFFFF&}
+Dialogue: 0,0:02:48.10,0:02:48.24,Wort,,0,0,0,,{\c&H00FFFF&}richtig{\c&HFFFFFF&} sein ja
+Dialogue: 0,0:02:48.24,0:02:48.54,Wort,,0,0,0,,richtig {\c&H00FFFF&}sein{\c&HFFFFFF&} ja
+Dialogue: 0,0:02:48.54,0:02:49.14,Wort,,0,0,0,,richtig sein {\c&H00FFFF&}ja{\c&HFFFFFF&}
+Dialogue: 0,0:02:49.14,0:02:50.46,Wort,,0,0,0,,{\c&H00FFFF&}ja{\c&HFFFFFF&} ja okay
+Dialogue: 0,0:02:50.46,0:02:50.60,Wort,,0,0,0,,ja {\c&H00FFFF&}ja{\c&HFFFFFF&} okay
+Dialogue: 0,0:02:50.60,0:02:50.80,Wort,,0,0,0,,ja ja {\c&H00FFFF&}okay{\c&HFFFFFF&}
+Dialogue: 0,0:02:50.80,0:02:51.06,Wort,,0,0,0,,{\c&H00FFFF&}gut{\c&HFFFFFF&} oh
+Dialogue: 0,0:02:51.06,0:02:52.39,Wort,,0,0,0,,gut {\c&H00FFFF&}oh{\c&HFFFFFF&}
+Dialogue: 0,0:02:53.55,0:02:53.71,Wort,,0,0,0,,{\c&H00FFFF&}mein{\c&HFFFFFF&} gott ich
+Dialogue: 0,0:02:53.71,0:02:53.87,Wort,,0,0,0,,mein {\c&H00FFFF&}gott{\c&HFFFFFF&} ich
+Dialogue: 0,0:02:53.87,0:02:53.97,Wort,,0,0,0,,mein gott {\c&H00FFFF&}ich{\c&HFFFFFF&}
+Dialogue: 0,0:02:53.97,0:02:54.07,Wort,,0,0,0,,{\c&H00FFFF&}habe{\c&HFFFFFF&} es ist
+Dialogue: 0,0:02:54.07,0:02:54.25,Wort,,0,0,0,,habe {\c&H00FFFF&}es{\c&HFFFFFF&} ist
+Dialogue: 0,0:02:54.25,0:02:54.45,Wort,,0,0,0,,habe es {\c&H00FFFF&}ist{\c&HFFFFFF&}
+Dialogue: 0,0:02:54.45,0:02:54.63,Wort,,0,0,0,,{\c&H00FFFF&}viel{\c&HFFFFFF&} zu es
+Dialogue: 0,0:02:54.63,0:02:54.77,Wort,,0,0,0,,viel {\c&H00FFFF&}zu{\c&HFFFFFF&} es
+Dialogue: 0,0:02:54.77,0:02:55.37,Wort,,0,0,0,,viel zu {\c&H00FFFF&}es{\c&HFFFFFF&}
+Dialogue: 0,0:02:55.37,0:02:55.53,Wort,,0,0,0,,{\c&H00FFFF&}ist{\c&HFFFFFF&} viel zu
+Dialogue: 0,0:02:55.53,0:02:55.67,Wort,,0,0,0,,ist {\c&H00FFFF&}viel{\c&HFFFFFF&} zu
+Dialogue: 0,0:02:55.67,0:02:55.83,Wort,,0,0,0,,ist viel {\c&H00FFFF&}zu{\c&HFFFFFF&}
+Dialogue: 0,0:02:55.83,0:02:56.07,Wort,,0,0,0,,{\c&H00FFFF&}sehr{\c&HFFFFFF&} sich die
+Dialogue: 0,0:02:56.07,0:02:56.63,Wort,,0,0,0,,sehr {\c&H00FFFF&}sich{\c&HFFFFFF&} die
+Dialogue: 0,0:02:56.63,0:02:56.71,Wort,,0,0,0,,sehr sich {\c&H00FFFF&}die{\c&HFFFFFF&}
+Dialogue: 0,0:02:56.71,0:02:57.21,Wort,,0,0,0,,{\c&H00FFFF&}empfindlichkeit{\c&HFFFFFF&}
+Dialogue: 0,0:02:57.21,0:02:57.81,Wort,,0,0,0,,{\c&H00FFFF&}das{\c&HFFFFFF&} müssen wir
+Dialogue: 0,0:02:57.81,0:02:57.97,Wort,,0,0,0,,das {\c&H00FFFF&}müssen{\c&HFFFFFF&} wir
+Dialogue: 0,0:02:57.97,0:02:58.09,Wort,,0,0,0,,das müssen {\c&H00FFFF&}wir{\c&HFFFFFF&}
+Dialogue: 0,0:02:58.09,0:02:58.19,Wort,,0,0,0,,{\c&H00FFFF&}gleich{\c&HFFFFFF&} mal in
+Dialogue: 0,0:02:58.19,0:02:58.33,Wort,,0,0,0,,gleich {\c&H00FFFF&}mal{\c&HFFFFFF&} in
+Dialogue: 0,0:02:58.33,0:02:58.43,Wort,,0,0,0,,gleich mal {\c&H00FFFF&}in{\c&HFFFFFF&}
+Dialogue: 0,0:02:58.43,0:02:58.57,Wort,,0,0,0,,{\c&H00FFFF&}ruhe{\c&HFFFFFF&} machen
+Dialogue: 0,0:02:58.57,0:02:58.77,Wort,,0,0,0,,ruhe {\c&H00FFFF&}machen{\c&HFFFFFF&}
+Dialogue: 0,0:02:58.77,0:03:00.37,Wort,,0,0,0,,{\c&H00FFFF&}wisst{\c&HFFFFFF&} ihr wie
+Dialogue: 0,0:03:00.37,0:03:00.41,Wort,,0,0,0,,wisst {\c&H00FFFF&}ihr{\c&HFFFFFF&} wie
+Dialogue: 0,0:03:00.41,0:03:00.51,Wort,,0,0,0,,wisst ihr {\c&H00FFFF&}wie{\c&HFFFFFF&}
+Dialogue: 0,0:03:00.51,0:03:00.67,Wort,,0,0,0,,{\c&H00FFFF&}lange{\c&HFFFFFF&} ich so
+Dialogue: 0,0:03:00.67,0:03:00.81,Wort,,0,0,0,,lange {\c&H00FFFF&}ich{\c&HFFFFFF&} so
+Dialogue: 0,0:03:00.81,0:03:00.91,Wort,,0,0,0,,lange ich {\c&H00FFFF&}so{\c&HFFFFFF&}
+Dialogue: 0,0:03:00.91,0:03:01.01,Wort,,0,0,0,,{\c&H00FFFF&}ein{\c&HFFFFFF&} spiel nicht
+Dialogue: 0,0:03:01.01,0:03:01.17,Wort,,0,0,0,,ein {\c&H00FFFF&}spiel{\c&HFFFFFF&} nicht
+Dialogue: 0,0:03:01.17,0:03:01.27,Wort,,0,0,0,,ein spiel {\c&H00FFFF&}nicht{\c&HFFFFFF&}
+Dialogue: 0,0:03:01.27,0:03:01.39,Wort,,0,0,0,,{\c&H00FFFF&}mehr{\c&HFFFFFF&} gezockt
+Dialogue: 0,0:03:01.39,0:03:01.77,Wort,,0,0,0,,mehr {\c&H00FFFF&}gezockt{\c&HFFFFFF&}
+Dialogue: 0,0:03:01.77,0:03:01.95,Wort,,0,0,0,,{\c&H00FFFF&}habe{\c&HFFFFFF&} sind
+Dialogue: 0,0:03:01.95,0:03:03.30,Wort,,0,0,0,,habe {\c&H00FFFF&}sind{\c&HFFFFFF&}
+Dialogue: 0,0:03:05.84,0:03:06.04,Wort,,0,0,0,,{\c&H00FFFF&}aber{\c&HFFFFFF&} ganz schön
+Dialogue: 0,0:03:06.04,0:03:06.18,Wort,,0,0,0,,aber {\c&H00FFFF&}ganz{\c&HFFFFFF&} schön
+Dialogue: 0,0:03:06.18,0:03:06.34,Wort,,0,0,0,,aber ganz {\c&H00FFFF&}schön{\c&HFFFFFF&}
+Dialogue: 0,0:03:06.34,0:03:06.56,Wort,,0,0,0,,{\c&H00FFFF&}viele{\c&HFFFFFF&} däger wie
+Dialogue: 0,0:03:06.56,0:03:06.80,Wort,,0,0,0,,viele {\c&H00FFFF&}däger{\c&HFFFFFF&} wie
+Dialogue: 0,0:03:06.80,0:03:06.98,Wort,,0,0,0,,viele däger {\c&H00FFFF&}wie{\c&HFFFFFF&}
+Dialogue: 0,0:03:06.98,0:03:07.08,Wort,,0,0,0,,{\c&H00FFFF&}soll{\c&HFFFFFF&} ich die
+Dialogue: 0,0:03:07.08,0:03:07.18,Wort,,0,0,0,,soll {\c&H00FFFF&}ich{\c&HFFFFFF&} die
+Dialogue: 0,0:03:07.18,0:03:07.24,Wort,,0,0,0,,soll ich {\c&H00FFFF&}die{\c&HFFFFFF&}
+Dialogue: 0,0:03:07.24,0:03:07.64,Wort,,0,0,0,,{\c&H00FFFF&}platt{\c&HFFFFFF&} machen
+Dialogue: 0,0:03:07.64,0:03:07.74,Wort,,0,0,0,,platt {\c&H00FFFF&}machen{\c&HFFFFFF&}
+Dialogue: 0,0:03:07.74,0:03:08.63,Wort,,0,0,0,,{\c&H00FFFF&}wie{\c&HFFFFFF&}
+Dialogue: 0,0:03:22.40,0:03:24.34,Wort,,0,0,0,,{\c&H00FFFF&}kann{\c&HFFFFFF&} ich den
+Dialogue: 0,0:03:24.34,0:03:24.52,Wort,,0,0,0,,kann {\c&H00FFFF&}ich{\c&HFFFFFF&} den
+Dialogue: 0,0:03:24.52,0:03:24.62,Wort,,0,0,0,,kann ich {\c&H00FFFF&}den{\c&HFFFFFF&}
+Dialogue: 0,0:03:24.62,0:03:25.00,Wort,,0,0,0,,{\c&H00FFFF&}plündern{\c&HFFFFFF&} wieso
+Dialogue: 0,0:03:25.00,0:03:27.26,Wort,,0,0,0,,plündern {\c&H00FFFF&}wieso{\c&HFFFFFF&}
+Dialogue: 0,0:03:27.26,0:03:27.64,Wort,,0,0,0,,{\c&H00FFFF&}plündert{\c&HFFFFFF&} der
+Dialogue: 0,0:03:27.64,0:03:27.80,Wort,,0,0,0,,plündert {\c&H00FFFF&}der{\c&HFFFFFF&}
+Dialogue: 0,0:03:27.80,0:03:28.04,Wort,,0,0,0,,{\c&H00FFFF&}arbeit{\c&HFFFFFF&} oder hat
+Dialogue: 0,0:03:28.04,0:03:28.22,Wort,,0,0,0,,arbeit {\c&H00FFFF&}oder{\c&HFFFFFF&} hat
+Dialogue: 0,0:03:28.22,0:03:28.32,Wort,,0,0,0,,arbeit oder {\c&H00FFFF&}hat{\c&HFFFFFF&}
+Dialogue: 0,0:03:28.32,0:03:28.44,Wort,,0,0,0,,{\c&H00FFFF&}er{\c&HFFFFFF&} jetzt
+Dialogue: 0,0:03:28.44,0:03:28.58,Wort,,0,0,0,,er {\c&H00FFFF&}jetzt{\c&HFFFFFF&}
+Dialogue: 0,0:03:28.58,0:03:28.98,Wort,,0,0,0,,{\c&H00FFFF&}geplündert{\c&HFFFFFF&} okay
+Dialogue: 0,0:03:28.98,0:03:30.17,Wort,,0,0,0,,geplündert {\c&H00FFFF&}okay{\c&HFFFFFF&}
+Dialogue: 0,0:03:31.49,0:03:31.73,Wort,,0,0,0,,{\c&H00FFFF&}was{\c&HFFFFFF&} er war
+Dialogue: 0,0:03:31.73,0:03:31.89,Wort,,0,0,0,,was {\c&H00FFFF&}er{\c&HFFFFFF&} war
+Dialogue: 0,0:03:31.89,0:03:31.99,Wort,,0,0,0,,was er {\c&H00FFFF&}war{\c&HFFFFFF&}
+Dialogue: 0,0:03:31.99,0:03:33.38,Wort,,0,0,0,,{\c&H00FFFF&}die{\c&HFFFFFF&}
+Dialogue: 0,0:03:34.51,0:03:35.74,Wort,,0,0,0,,{\c&H00FFFF&}schlucken{\c&HFFFFFF&}
+Dialogue: 0,0:03:42.34,0:03:42.52,Wort,,0,0,0,,{\c&H00FFFF&}die{\c&HFFFFFF&} den däger
+Dialogue: 0,0:03:42.52,0:03:42.64,Wort,,0,0,0,,die {\c&H00FFFF&}den{\c&HFFFFFF&} däger
+Dialogue: 0,0:03:42.64,0:03:42.92,Wort,,0,0,0,,die den {\c&H00FFFF&}däger{\c&HFFFFFF&}
+Dialogue: 0,0:03:42.92,0:03:44.21,Wort,,0,0,0,,{\c&H00FFFF&}ist{\c&HFFFFFF&}
+Dialogue: 0,0:03:49.63,0:03:49.85,Wort,,0,0,0,,{\c&H00FFFF&}das{\c&HFFFFFF&} weg hier
+Dialogue: 0,0:03:49.85,0:03:50.09,Wort,,0,0,0,,das {\c&H00FFFF&}weg{\c&HFFFFFF&} hier
+Dialogue: 0,0:03:50.09,0:03:50.35,Wort,,0,0,0,,das weg {\c&H00FFFF&}hier{\c&HFFFFFF&}
+Dialogue: 0,0:03:50.35,0:03:51.37,Wort,,0,0,0,,{\c&H00FFFF&}ist{\c&HFFFFFF&} hier noch
+Dialogue: 0,0:03:51.37,0:03:51.47,Wort,,0,0,0,,ist {\c&H00FFFF&}hier{\c&HFFFFFF&} noch
+Dialogue: 0,0:03:51.47,0:03:51.57,Wort,,0,0,0,,ist hier {\c&H00FFFF&}noch{\c&HFFFFFF&}
+Dialogue: 0,0:03:51.57,0:03:51.83,Wort,,0,0,0,,{\c&H00FFFF&}einer{\c&HFFFFFF&} oh mein
+Dialogue: 0,0:03:51.83,0:03:52.75,Wort,,0,0,0,,einer {\c&H00FFFF&}oh{\c&HFFFFFF&} mein
+Dialogue: 0,0:03:52.75,0:03:52.93,Wort,,0,0,0,,einer oh {\c&H00FFFF&}mein{\c&HFFFFFF&}
+Dialogue: 0,0:03:52.93,0:03:53.19,Wort,,0,0,0,,{\c&H00FFFF&}gott{\c&HFFFFFF&} oder da
+Dialogue: 0,0:03:53.19,0:03:55.01,Wort,,0,0,0,,gott {\c&H00FFFF&}oder{\c&HFFFFFF&} da
+Dialogue: 0,0:03:55.01,0:03:55.11,Wort,,0,0,0,,gott oder {\c&H00FFFF&}da{\c&HFFFFFF&}
+Dialogue: 0,0:03:55.11,0:03:55.25,Wort,,0,0,0,,{\c&H00FFFF&}müssen{\c&HFFFFFF&} wir uns
+Dialogue: 0,0:03:55.25,0:03:55.57,Wort,,0,0,0,,müssen {\c&H00FFFF&}wir{\c&HFFFFFF&} uns
+Dialogue: 0,0:03:55.57,0:03:55.77,Wort,,0,0,0,,müssen wir {\c&H00FFFF&}uns{\c&HFFFFFF&}
+Dialogue: 0,0:03:55.77,0:03:56.27,Wort,,0,0,0,,{\c&H00FFFF&}nachladen{\c&HFFFFFF&} weil
+Dialogue: 0,0:03:56.27,0:03:56.75,Wort,,0,0,0,,nachladen {\c&H00FFFF&}weil{\c&HFFFFFF&}
+Dialogue: 0,0:03:56.75,0:03:56.85,Wort,,0,0,0,,{\c&H00FFFF&}wir{\c&HFFFFFF&} wollen die
+Dialogue: 0,0:03:56.85,0:03:57.05,Wort,,0,0,0,,wir {\c&H00FFFF&}wollen{\c&HFFFFFF&} die
+Dialogue: 0,0:03:57.05,0:03:57.17,Wort,,0,0,0,,wir wollen {\c&H00FFFF&}die{\c&HFFFFFF&}
+Dialogue: 0,0:03:57.17,0:03:57.55,Wort,,0,0,0,,{\c&H00FFFF&}plündern{\c&HFFFFFF&}
+Dialogue: 0,0:03:57.55,0:03:59.74,Wort,,0,0,0,,{\c&H00FFFF&}kopfbedeckung{\c&HFFFFFF&}
+Dialogue: 0,0:04:02.05,0:04:02.53,Wort,,0,0,0,,{\c&H00FFFF&}wir{\c&HFFFFFF&} können
+Dialogue: 0,0:04:02.53,0:04:02.85,Wort,,0,0,0,,wir {\c&H00FFFF&}können{\c&HFFFFFF&}
+Dialogue: 0,0:04:02.85,0:04:03.09,Wort,,0,0,0,,{\c&H00FFFF&}einfach{\c&HFFFFFF&} die cap
+Dialogue: 0,0:04:03.09,0:04:03.25,Wort,,0,0,0,,einfach {\c&H00FFFF&}die{\c&HFFFFFF&} cap
+Dialogue: 0,0:04:03.25,0:04:03.57,Wort,,0,0,0,,einfach die {\c&H00FFFF&}cap{\c&HFFFFFF&}
+Dialogue: 0,0:04:03.57,0:04:04.03,Wort,,0,0,0,,{\c&H00FFFF&}tauschen{\c&HFFFFFF&} das
+Dialogue: 0,0:04:04.03,0:04:04.15,Wort,,0,0,0,,tauschen {\c&H00FFFF&}das{\c&HFFFFFF&}
+Dialogue: 0,0:04:04.15,0:04:04.29,Wort,,0,0,0,,{\c&H00FFFF&}ist{\c&HFFFFFF&} ja also
+Dialogue: 0,0:04:04.29,0:04:04.41,Wort,,0,0,0,,ist {\c&H00FFFF&}ja{\c&HFFFFFF&} also
+Dialogue: 0,0:04:04.41,0:04:05.25,Wort,,0,0,0,,ist ja {\c&H00FFFF&}also{\c&HFFFFFF&}
+Dialogue: 0,0:04:05.25,0:04:05.53,Wort,,0,0,0,,{\c&H00FFFF&}wieso{\c&HFFFFFF&} machen
+Dialogue: 0,0:04:05.53,0:04:05.69,Wort,,0,0,0,,wieso {\c&H00FFFF&}machen{\c&HFFFFFF&}
+Dialogue: 0,0:04:05.69,0:04:05.83,Wort,,0,0,0,,{\c&H00FFFF&}sich{\c&HFFFFFF&} das denn
+Dialogue: 0,0:04:05.83,0:04:05.97,Wort,,0,0,0,,sich {\c&H00FFFF&}das{\c&HFFFFFF&} denn
+Dialogue: 0,0:04:05.97,0:04:06.13,Wort,,0,0,0,,sich das {\c&H00FFFF&}denn{\c&HFFFFFF&}
+Dialogue: 0,0:04:06.13,0:04:07.63,Wort,,0,0,0,,{\c&H00FFFF&}die{\c&HFFFFFF&} musik ist
+Dialogue: 0,0:04:07.63,0:04:07.95,Wort,,0,0,0,,die {\c&H00FFFF&}musik{\c&HFFFFFF&} ist
+Dialogue: 0,0:04:07.95,0:04:08.05,Wort,,0,0,0,,die musik {\c&H00FFFF&}ist{\c&HFFFFFF&}
+Dialogue: 0,0:04:08.05,0:04:08.21,Wort,,0,0,0,,{\c&H00FFFF&}auch{\c&HFFFFFF&} nice
+Dialogue: 0,0:04:08.21,0:04:08.53,Wort,,0,0,0,,auch {\c&H00FFFF&}nice{\c&HFFFFFF&}
+Dialogue: 0,0:04:08.53,0:04:10.31,Wort,,0,0,0,,{\c&H00FFFF&}plündern{\c&HFFFFFF&} haben
+Dialogue: 0,0:04:10.31,0:04:11.19,Wort,,0,0,0,,plündern {\c&H00FFFF&}haben{\c&HFFFFFF&}
+Dialogue: 0,0:04:11.19,0:04:11.37,Wort,,0,0,0,,{\c&H00FFFF&}wir{\c&HFFFFFF&} jetzt nicht
+Dialogue: 0,0:04:11.37,0:04:11.61,Wort,,0,0,0,,wir {\c&H00FFFF&}jetzt{\c&HFFFFFF&} nicht
+Dialogue: 0,0:04:11.61,0:04:12.33,Wort,,0,0,0,,wir jetzt {\c&H00FFFF&}nicht{\c&HFFFFFF&}
+Dialogue: 0,0:04:12.33,0:04:12.51,Wort,,0,0,0,,{\c&H00FFFF&}wir{\c&HFFFFFF&} haben immer
+Dialogue: 0,0:04:12.51,0:04:12.61,Wort,,0,0,0,,wir {\c&H00FFFF&}haben{\c&HFFFFFF&} immer
+Dialogue: 0,0:04:12.61,0:04:12.83,Wort,,0,0,0,,wir haben {\c&H00FFFF&}immer{\c&HFFFFFF&}
+Dialogue: 0,0:04:12.83,0:04:12.99,Wort,,0,0,0,,{\c&H00FFFF&}noch{\c&HFFFFFF&} nicht wir
+Dialogue: 0,0:04:12.99,0:04:13.23,Wort,,0,0,0,,noch {\c&H00FFFF&}nicht{\c&HFFFFFF&} wir
+Dialogue: 0,0:04:13.23,0:04:13.41,Wort,,0,0,0,,noch nicht {\c&H00FFFF&}wir{\c&HFFFFFF&}
+Dialogue: 0,0:04:13.41,0:04:13.53,Wort,,0,0,0,,{\c&H00FFFF&}haben{\c&HFFFFFF&} eine
+Dialogue: 0,0:04:13.53,0:04:13.61,Wort,,0,0,0,,haben {\c&H00FFFF&}eine{\c&HFFFFFF&}
+Dialogue: 0,0:04:13.61,0:04:13.99,Wort,,0,0,0,,{\c&H00FFFF&}andere{\c&HFFFFFF&} pistole
+Dialogue: 0,0:04:13.99,0:04:14.61,Wort,,0,0,0,,andere {\c&H00FFFF&}pistole{\c&HFFFFFF&}
+Dialogue: 0,0:04:14.61,0:04:15.97,Wort,,0,0,0,,{\c&H00FFFF&}aber{\c&HFFFFFF&}
+Dialogue: 0,0:04:15.97,0:04:16.59,Wort,,0,0,0,,{\c&H00FFFF&}stormgewehr{\c&HFFFFFF&} das
+Dialogue: 0,0:04:16.59,0:04:17.43,Wort,,0,0,0,,stormgewehr {\c&H00FFFF&}das{\c&HFFFFFF&}
+Dialogue: 0,0:04:17.43,0:04:17.85,Wort,,0,0,0,,{\c&H00FFFF&}ist{\c&HFFFFFF&} so richtig
+Dialogue: 0,0:04:17.85,0:04:18.11,Wort,,0,0,0,,ist {\c&H00FFFF&}so{\c&HFFFFFF&} richtig
+Dialogue: 0,0:04:18.11,0:04:18.35,Wort,,0,0,0,,ist so {\c&H00FFFF&}richtig{\c&HFFFFFF&}
+Dialogue: 0,0:04:18.35,0:04:18.93,Wort,,0,0,0,,{\c&H00FFFF&}redneck{\c&HFFFFFF&} gerade
+Dialogue: 0,0:04:18.93,0:04:19.23,Wort,,0,0,0,,redneck {\c&H00FFFF&}gerade{\c&HFFFFFF&}
+Dialogue: 0,0:04:19.23,0:04:19.37,Wort,,0,0,0,,{\c&H00FFFF&}aber{\c&HFFFFFF&} ich will
+Dialogue: 0,0:04:19.37,0:04:19.55,Wort,,0,0,0,,aber {\c&H00FFFF&}ich{\c&HFFFFFF&} will
+Dialogue: 0,0:04:19.55,0:04:19.67,Wort,,0,0,0,,aber ich {\c&H00FFFF&}will{\c&HFFFFFF&}
+Dialogue: 0,0:04:19.67,0:04:19.83,Wort,,0,0,0,,{\c&H00FFFF&}den{\c&HFFFFFF&} hut gib
+Dialogue: 0,0:04:19.83,0:04:20.05,Wort,,0,0,0,,den {\c&H00FFFF&}hut{\c&HFFFFFF&} gib
+Dialogue: 0,0:04:20.05,0:04:20.53,Wort,,0,0,0,,den hut {\c&H00FFFF&}gib{\c&HFFFFFF&}
+Dialogue: 0,0:04:20.53,0:04:20.71,Wort,,0,0,0,,{\c&H00FFFF&}mir{\c&HFFFFFF&} den hut
+Dialogue: 0,0:04:20.71,0:04:20.83,Wort,,0,0,0,,mir {\c&H00FFFF&}den{\c&HFFFFFF&} hut
+Dialogue: 0,0:04:20.83,0:04:21.09,Wort,,0,0,0,,mir den {\c&H00FFFF&}hut{\c&HFFFFFF&}
+Dialogue: 0,0:04:21.09,0:04:23.03,Wort,,0,0,0,,{\c&H00FFFF&}jawohl{\c&HFFFFFF&} dann
+Dialogue: 0,0:04:23.03,0:04:24.79,Wort,,0,0,0,,jawohl {\c&H00FFFF&}dann{\c&HFFFFFF&}
+Dialogue: 0,0:04:24.79,0:04:24.95,Wort,,0,0,0,,{\c&H00FFFF&}haben{\c&HFFFFFF&} wir hier
+Dialogue: 0,0:04:24.95,0:04:24.99,Wort,,0,0,0,,haben {\c&H00FFFF&}wir{\c&HFFFFFF&} hier
+Dialogue: 0,0:04:24.99,0:04:25.15,Wort,,0,0,0,,haben wir {\c&H00FFFF&}hier{\c&HFFFFFF&}
+Dialogue: 0,0:04:25.15,0:04:25.37,Wort,,0,0,0,,{\c&H00FFFF&}noch{\c&HFFFFFF&} alle
+Dialogue: 0,0:04:25.37,0:04:26.34,Wort,,0,0,0,,noch {\c&H00FFFF&}alle{\c&HFFFFFF&}
+Dialogue: 0,0:04:29.33,0:04:29.51,Wort,,0,0,0,,{\c&H00FFFF&}wir{\c&HFFFFFF&} tauschen
+Dialogue: 0,0:04:29.51,0:04:29.93,Wort,,0,0,0,,wir {\c&H00FFFF&}tauschen{\c&HFFFFFF&}
+Dialogue: 0,0:04:29.93,0:04:32.05,Wort,,0,0,0,,{\c&H00FFFF&}okay{\c&HFFFFFF&} gut
+Dialogue: 0,0:04:32.05,0:04:32.35,Wort,,0,0,0,,okay {\c&H00FFFF&}gut{\c&HFFFFFF&}
+Dialogue: 0,0:04:32.35,0:04:34.55,Wort,,0,0,0,,{\c&H00FFFF&}sollten{\c&HFFFFFF&} jetzt
+Dialogue: 0,0:04:34.55,0:04:34.73,Wort,,0,0,0,,sollten {\c&H00FFFF&}jetzt{\c&HFFFFFF&}
+Dialogue: 0,0:04:34.73,0:04:34.89,Wort,,0,0,0,,{\c&H00FFFF&}alles{\c&HFFFFFF&} alle tot
+Dialogue: 0,0:04:34.89,0:04:34.97,Wort,,0,0,0,,alles {\c&H00FFFF&}alle{\c&HFFFFFF&} tot
+Dialogue: 0,0:04:34.97,0:04:36.67,Wort,,0,0,0,,alles alle {\c&H00FFFF&}tot{\c&HFFFFFF&}
+Dialogue: 0,0:04:36.67,0:04:37.03,Wort,,0,0,0,,{\c&H00FFFF&}sein,{\c&HFFFFFF&}
+Dialogue: 0,0:04:37.03,0:04:37.32,Wort,,0,0,0,,{\c&H00FFFF&}oder?{\c&HFFFFFF&}
+Dialogue: 0,0:04:47.77,0:04:48.09,Wort,,0,0,0,,{\c&H00FFFF&}Die{\c&HFFFFFF&} Tiger,
+Dialogue: 0,0:04:48.09,0:04:48.47,Wort,,0,0,0,,Die {\c&H00FFFF&}Tiger,{\c&HFFFFFF&}
+Dialogue: 0,0:04:48.47,0:04:48.84,Wort,,0,0,0,,{\c&H00FFFF&}Digga.{\c&HFFFFFF&}
+Dialogue: 0,0:04:49.13,0:04:49.45,Wort,,0,0,0,,{\c&H00FFFF&}Vor{\c&HFFFFFF&} denen habe
+Dialogue: 0,0:04:49.45,0:04:49.61,Wort,,0,0,0,,Vor {\c&H00FFFF&}denen{\c&HFFFFFF&} habe
+Dialogue: 0,0:04:49.61,0:04:49.75,Wort,,0,0,0,,Vor denen {\c&H00FFFF&}habe{\c&HFFFFFF&}
+Dialogue: 0,0:04:49.75,0:04:49.85,Wort,,0,0,0,,{\c&H00FFFF&}ich{\c&HFFFFFF&} mehr Angst,
+Dialogue: 0,0:04:49.85,0:04:50.01,Wort,,0,0,0,,ich {\c&H00FFFF&}mehr{\c&HFFFFFF&} Angst,
+Dialogue: 0,0:04:50.01,0:04:50.33,Wort,,0,0,0,,ich mehr {\c&H00FFFF&}Angst,{\c&HFFFFFF&}
+Dialogue: 0,0:04:50.33,0:04:50.45,Wort,,0,0,0,,{\c&H00FFFF&}als{\c&HFFFFFF&} vor den
+Dialogue: 0,0:04:50.45,0:04:50.55,Wort,,0,0,0,,als {\c&H00FFFF&}vor{\c&HFFFFFF&} den
+Dialogue: 0,0:04:50.55,0:04:50.67,Wort,,0,0,0,,als vor {\c&H00FFFF&}den{\c&HFFFFFF&}
+Dialogue: 0,0:04:50.67,0:04:51.03,Wort,,0,0,0,,{\c&H00FFFF&}Leuten,{\c&HFFFFFF&}
+Dialogue: 0,0:04:51.03,0:04:51.13,Wort,,0,0,0,,{\c&H00FFFF&}die{\c&HFFFFFF&} hier
+Dialogue: 0,0:04:51.13,0:04:51.23,Wort,,0,0,0,,die {\c&H00FFFF&}hier{\c&HFFFFFF&}
+Dialogue: 0,0:04:51.23,0:04:51.61,Wort,,0,0,0,,{\c&H00FFFF&}rumlaufen{\c&HFFFFFF&} mit
+Dialogue: 0,0:04:51.61,0:04:51.73,Wort,,0,0,0,,rumlaufen {\c&H00FFFF&}mit{\c&HFFFFFF&}
+Dialogue: 0,0:04:51.73,0:04:51.83,Wort,,0,0,0,,{\c&H00FFFF&}einer{\c&HFFFFFF&} Waffe.
+Dialogue: 0,0:04:51.83,0:04:52.22,Wort,,0,0,0,,einer {\c&H00FFFF&}Waffe.{\c&HFFFFFF&}
+Dialogue: 0,0:04:53.51,0:04:53.83,Wort,,0,0,0,,{\c&H00FFFF&}Können{\c&HFFFFFF&} wir die
+Dialogue: 0,0:04:53.83,0:04:53.87,Wort,,0,0,0,,Können {\c&H00FFFF&}wir{\c&HFFFFFF&} die
+Dialogue: 0,0:04:53.87,0:04:53.97,Wort,,0,0,0,,Können wir {\c&H00FFFF&}die{\c&HFFFFFF&}
+Dialogue: 0,0:04:53.97,0:04:54.45,Wort,,0,0,0,,{\c&H00FFFF&}freilassen,{\c&HFFFFFF&}
+Dialogue: 0,0:04:54.45,0:04:55.08,Wort,,0,0,0,,{\c&H00FFFF&}aufentspannt?{\c&HFFFFFF&}
+Dialogue: 0,0:04:57.52,0:04:57.84,Wort,,0,0,0,,{\c&H00FFFF&}Wo{\c&HFFFFFF&} ist er?
+Dialogue: 0,0:04:57.84,0:04:58.02,Wort,,0,0,0,,Wo {\c&H00FFFF&}ist{\c&HFFFFFF&} er?
+Dialogue: 0,0:04:58.02,0:04:58.23,Wort,,0,0,0,,Wo ist {\c&H00FFFF&}er?{\c&HFFFFFF&}
+Dialogue: 0,0:05:01.07,0:05:01.54,Wort,,0,0,0,,{\c&H00FFFF&}Gut.{\c&HFFFFFF&}
+Dialogue: 0,0:05:04.65,0:05:04.97,Wort,,0,0,0,,{\c&H00FFFF&}Noch{\c&HFFFFFF&}
+Dialogue: 0,0:05:04.97,0:05:05.44,Wort,,0,0,0,,{\c&H00FFFF&}irgendjemand?{\c&HFFFFFF&}
+Dialogue: 0,0:05:11.64,0:05:12.11,Wort,,0,0,0,,{\c&H00FFFF&}Gut.{\c&HFFFFFF&}
+Dialogue: 0,0:05:16.31,0:05:16.63,Wort,,0,0,0,,{\c&H00FFFF&}Ah,{\c&HFFFFFF&}
+Dialogue: 0,0:05:16.63,0:05:16.71,Wort,,0,0,0,,{\c&H00FFFF&}der{\c&HFFFFFF&} verreckt
+Dialogue: 0,0:05:16.71,0:05:17.05,Wort,,0,0,0,,der {\c&H00FFFF&}verreckt{\c&HFFFFFF&}
+Dialogue: 0,0:05:17.05,0:05:17.15,Wort,,0,0,0,,{\c&H00FFFF&}jetzt{\c&HFFFFFF&} langsam,
+Dialogue: 0,0:05:17.15,0:05:17.49,Wort,,0,0,0,,jetzt {\c&H00FFFF&}langsam,{\c&HFFFFFF&}
+Dialogue: 0,0:05:17.49,0:05:17.82,Wort,,0,0,0,,{\c&H00FFFF&}oder?{\c&HFFFFFF&}
+Dialogue: 0,0:05:18.43,0:05:18.77,Wort,,0,0,0,,{\c&H00FFFF&}Oh,{\c&HFFFFFF&}
+Dialogue: 0,0:05:18.77,0:05:18.91,Wort,,0,0,0,,{\c&H00FFFF&}nee,{\c&HFFFFFF&}
+Dialogue: 0,0:05:18.91,0:05:19.03,Wort,,0,0,0,,{\c&H00FFFF&}doch{\c&HFFFFFF&} nicht.
+Dialogue: 0,0:05:19.03,0:05:19.29,Wort,,0,0,0,,doch {\c&H00FFFF&}nicht.{\c&HFFFFFF&}
+Dialogue: 0,0:05:19.29,0:05:19.43,Wort,,0,0,0,,{\c&H00FFFF&}Jetzt{\c&HFFFFFF&} ist er
+Dialogue: 0,0:05:19.43,0:05:19.53,Wort,,0,0,0,,Jetzt {\c&H00FFFF&}ist{\c&HFFFFFF&} er
+Dialogue: 0,0:05:19.53,0:05:19.59,Wort,,0,0,0,,Jetzt ist {\c&H00FFFF&}er{\c&HFFFFFF&}
+Dialogue: 0,0:05:19.59,0:05:19.92,Wort,,0,0,0,,{\c&H00FFFF&}tot.{\c&HFFFFFF&}
+Dialogue: 0,0:05:29.92,0:05:30.24,Wort,,0,0,0,,{\c&H00FFFF&}Gott,{\c&HFFFFFF&}
+Dialogue: 0,0:05:30.24,0:05:30.38,Wort,,0,0,0,,{\c&H00FFFF&}hier{\c&HFFFFFF&} sind ja
+Dialogue: 0,0:05:30.38,0:05:30.48,Wort,,0,0,0,,hier {\c&H00FFFF&}sind{\c&HFFFFFF&} ja
+Dialogue: 0,0:05:30.48,0:05:30.64,Wort,,0,0,0,,hier sind {\c&H00FFFF&}ja{\c&HFFFFFF&}
+Dialogue: 0,0:05:30.64,0:05:30.76,Wort,,0,0,0,,{\c&H00FFFF&}noch{\c&HFFFFFF&} einige.
+Dialogue: 0,0:05:30.76,0:05:31.23,Wort,,0,0,0,,noch {\c&H00FFFF&}einige.{\c&HFFFFFF&}
+Dialogue: 0,0:05:34.78,0:05:35.10,Wort,,0,0,0,,{\c&H00FFFF&}Das{\c&HFFFFFF&} ist halt
+Dialogue: 0,0:05:35.10,0:05:35.30,Wort,,0,0,0,,Das {\c&H00FFFF&}ist{\c&HFFFFFF&} halt
+Dialogue: 0,0:05:35.30,0:05:35.50,Wort,,0,0,0,,Das ist {\c&H00FFFF&}halt{\c&HFFFFFF&}
+Dialogue: 0,0:05:35.50,0:05:35.66,Wort,,0,0,0,,{\c&H00FFFF&}so{\c&HFFFFFF&} typisch GTA,
+Dialogue: 0,0:05:35.66,0:05:36.08,Wort,,0,0,0,,so {\c&H00FFFF&}typisch{\c&HFFFFFF&} GTA,
+Dialogue: 0,0:05:36.08,0:05:36.48,Wort,,0,0,0,,so typisch {\c&H00FFFF&}GTA,{\c&HFFFFFF&}
+Dialogue: 0,0:05:36.48,0:05:36.75,Wort,,0,0,0,,{\c&H00FFFF&}ne?{\c&HFFFFFF&}
+Dialogue: 0,0:05:37.88,0:05:38.20,Wort,,0,0,0,,{\c&H00FFFF&}Wieso{\c&HFFFFFF&} ist das
+Dialogue: 0,0:05:38.20,0:05:38.32,Wort,,0,0,0,,Wieso {\c&H00FFFF&}ist{\c&HFFFFFF&} das
+Dialogue: 0,0:05:38.32,0:05:38.59,Wort,,0,0,0,,Wieso ist {\c&H00FFFF&}das{\c&HFFFFFF&}
+Dialogue: 0,0:05:38.90,0:05:39.22,Wort,,0,0,0,,{\c&H00FFFF&}Fahnenkreuz{\c&HFFFFFF&}
+Dialogue: 0,0:05:39.22,0:05:39.54,Wort,,0,0,0,,{\c&H00FFFF&}so...{\c&HFFFFFF&}
+Dialogue: 0,0:05:39.54,0:05:40.20,Wort,,0,0,0,,{\c&H00FFFF&}Ah,{\c&HFFFFFF&}
+Dialogue: 0,0:05:40.20,0:05:40.46,Wort,,0,0,0,,{\c&H00FFFF&}jetzt,{\c&HFFFFFF&}
+Dialogue: 0,0:05:40.46,0:05:40.64,Wort,,0,0,0,,{\c&H00FFFF&}jetzt,{\c&HFFFFFF&}
+Dialogue: 0,0:05:40.64,0:05:40.87,Wort,,0,0,0,,{\c&H00FFFF&}jetzt.{\c&HFFFFFF&}
+Dialogue: 0,0:05:41.86,0:05:42.32,Wort,,0,0,0,,{\c&H00FFFF&}Geil,{\c&HFFFFFF&}
+Dialogue: 0,0:05:42.32,0:05:42.67,Wort,,0,0,0,,{\c&H00FFFF&}Digga.{\c&HFFFFFF&}
+Dialogue: 0,0:05:43.38,0:05:43.84,Wort,,0,0,0,,{\c&H00FFFF&}Einfach{\c&HFFFFFF&} durch
+Dialogue: 0,0:05:43.84,0:05:44.30,Wort,,0,0,0,,Einfach {\c&H00FFFF&}durch{\c&HFFFFFF&}
+Dialogue: 0,0:05:44.30,0:05:44.50,Wort,,0,0,0,,{\c&H00FFFF&}die{\c&HFFFFFF&} Gegend
+Dialogue: 0,0:05:44.50,0:05:44.78,Wort,,0,0,0,,die {\c&H00FFFF&}Gegend{\c&HFFFFFF&}
+Dialogue: 0,0:05:44.78,0:05:44.98,Wort,,0,0,0,,{\c&H00FFFF&}laufen{\c&HFFFFFF&} und ein
+Dialogue: 0,0:05:44.98,0:05:45.12,Wort,,0,0,0,,laufen {\c&H00FFFF&}und{\c&HFFFFFF&} ein
+Dialogue: 0,0:05:45.12,0:05:45.20,Wort,,0,0,0,,laufen und {\c&H00FFFF&}ein{\c&HFFFFFF&}
+Dialogue: 0,0:05:45.20,0:05:45.20,Wort,,0,0,0,,{\c&H00FFFF&}paar{\c&HFFFFFF&} Leute
+Dialogue: 0,0:05:45.20,0:05:45.44,Wort,,0,0,0,,paar {\c&H00FFFF&}Leute{\c&HFFFFFF&}
+Dialogue: 0,0:05:45.44,0:05:45.99,Wort,,0,0,0,,{\c&H00FFFF&}abknallen.{\c&HFFFFFF&}
+Dialogue: 0,0:05:46.66,0:05:47.12,Wort,,0,0,0,,{\c&H00FFFF&}Na{\c&HFFFFFF&} komm,
+Dialogue: 0,0:05:47.12,0:05:47.32,Wort,,0,0,0,,Na {\c&H00FFFF&}komm,{\c&HFFFFFF&}
+Dialogue: 0,0:05:47.32,0:05:47.58,Wort,,0,0,0,,{\c&H00FFFF&}zeig{\c&HFFFFFF&} dich.
+Dialogue: 0,0:05:47.58,0:05:47.87,Wort,,0,0,0,,zeig {\c&H00FFFF&}dich.{\c&HFFFFFF&}
+Dialogue: 0,0:05:50.86,0:05:51.32,Wort,,0,0,0,,{\c&H00FFFF&}Kannst{\c&HFFFFFF&} du dich
+Dialogue: 0,0:05:51.32,0:05:51.32,Wort,,0,0,0,,Kannst {\c&H00FFFF&}du{\c&HFFFFFF&} dich
+Dialogue: 0,0:05:51.32,0:05:51.48,Wort,,0,0,0,,Kannst du {\c&H00FFFF&}dich{\c&HFFFFFF&}
+Dialogue: 0,0:05:51.48,0:05:51.56,Wort,,0,0,0,,{\c&H00FFFF&}hier{\c&HFFFFFF&} nicht an?
+Dialogue: 0,0:05:51.56,0:05:51.68,Wort,,0,0,0,,hier {\c&H00FFFF&}nicht{\c&HFFFFFF&} an?
+Dialogue: 0,0:05:51.68,0:05:51.97,Wort,,0,0,0,,hier nicht {\c&H00FFFF&}an?{\c&HFFFFFF&}
+Dialogue: 0,0:05:52.22,0:05:52.68,Wort,,0,0,0,,{\c&H00FFFF&}Na{\c&HFFFFFF&} komm,
+Dialogue: 0,0:05:52.68,0:05:53.10,Wort,,0,0,0,,Na {\c&H00FFFF&}komm,{\c&HFFFFFF&}
+Dialogue: 0,0:05:53.10,0:05:54.98,Wort,,0,0,0,,{\c&H00FFFF&}zeig{\c&HFFFFFF&} dich.
+Dialogue: 0,0:05:54.98,0:05:55.29,Wort,,0,0,0,,zeig {\c&H00FFFF&}dich.{\c&HFFFFFF&}
+Dialogue: 0,0:05:56.22,0:05:56.68,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} komm sneaky
+Dialogue: 0,0:05:56.68,0:05:56.84,Wort,,0,0,0,,Ich {\c&H00FFFF&}komm{\c&HFFFFFF&} sneaky
+Dialogue: 0,0:05:56.84,0:05:57.16,Wort,,0,0,0,,Ich komm {\c&H00FFFF&}sneaky{\c&HFFFFFF&}
+Dialogue: 0,0:05:57.16,0:05:57.69,Wort,,0,0,0,,{\c&H00FFFF&}peaky.{\c&HFFFFFF&}
+Dialogue: 0,0:05:59.06,0:05:59.52,Wort,,0,0,0,,{\c&H00FFFF&}Oh,{\c&HFFFFFF&}
+Dialogue: 0,0:05:59.52,0:05:59.64,Wort,,0,0,0,,{\c&H00FFFF&}ich{\c&HFFFFFF&} hab keine
+Dialogue: 0,0:05:59.64,0:05:59.68,Wort,,0,0,0,,ich {\c&H00FFFF&}hab{\c&HFFFFFF&} keine
+Dialogue: 0,0:05:59.68,0:05:59.82,Wort,,0,0,0,,ich hab {\c&H00FFFF&}keine{\c&HFFFFFF&}
+Dialogue: 0,0:05:59.82,0:06:00.23,Wort,,0,0,0,,{\c&H00FFFF&}Hände.{\c&HFFFFFF&}
+Dialogue: 0,0:06:00.90,0:06:01.36,Wort,,0,0,0,,{\c&H00FFFF&}Sehr{\c&HFFFFFF&} schön.
+Dialogue: 0,0:06:01.36,0:06:01.75,Wort,,0,0,0,,Sehr {\c&H00FFFF&}schön.{\c&HFFFFFF&}
+Dialogue: 0,0:06:04.44,0:06:04.90,Wort,,0,0,0,,{\c&H00FFFF&}Oh{\c&HFFFFFF&} mein Gott.
+Dialogue: 0,0:06:04.90,0:06:05.04,Wort,,0,0,0,,Oh {\c&H00FFFF&}mein{\c&HFFFFFF&} Gott.
+Dialogue: 0,0:06:05.04,0:06:05.35,Wort,,0,0,0,,Oh mein {\c&H00FFFF&}Gott.{\c&HFFFFFF&}
+Dialogue: 0,0:06:06.02,0:06:06.48,Wort,,0,0,0,,{\c&H00FFFF&}Hinter{\c&HFFFFFF&} mir war
+Dialogue: 0,0:06:06.48,0:06:06.62,Wort,,0,0,0,,Hinter {\c&H00FFFF&}mir{\c&HFFFFFF&} war
+Dialogue: 0,0:06:06.62,0:06:06.74,Wort,,0,0,0,,Hinter mir {\c&H00FFFF&}war{\c&HFFFFFF&}
+Dialogue: 0,0:06:06.74,0:06:06.84,Wort,,0,0,0,,{\c&H00FFFF&}noch{\c&HFFFFFF&} einer.
+Dialogue: 0,0:06:06.84,0:06:07.23,Wort,,0,0,0,,noch {\c&H00FFFF&}einer.{\c&HFFFFFF&}
+Dialogue: 0,0:06:08.56,0:06:09.02,Wort,,0,0,0,,{\c&H00FFFF&}Aber{\c&HFFFFFF&} durch den
+Dialogue: 0,0:06:09.02,0:06:09.78,Wort,,0,0,0,,Aber {\c&H00FFFF&}durch{\c&HFFFFFF&} den
+Dialogue: 0,0:06:09.78,0:06:10.24,Wort,,0,0,0,,Aber durch {\c&H00FFFF&}den{\c&HFFFFFF&}
+Dialogue: 0,0:06:10.24,0:06:10.58,Wort,,0,0,0,,{\c&H00FFFF&}Aim{\c&HFFFFFF&} Assist
+Dialogue: 0,0:06:10.58,0:06:10.98,Wort,,0,0,0,,Aim {\c&H00FFFF&}Assist{\c&HFFFFFF&}
+Dialogue: 0,0:06:10.98,0:06:11.66,Wort,,0,0,0,,{\c&H00FFFF&}trifft{\c&HFFFFFF&} man
+Dialogue: 0,0:06:11.66,0:06:11.78,Wort,,0,0,0,,trifft {\c&H00FFFF&}man{\c&HFFFFFF&}
+Dialogue: 0,0:06:11.78,0:06:11.98,Wort,,0,0,0,,{\c&H00FFFF&}eigentlich{\c&HFFFFFF&} auch
+Dialogue: 0,0:06:11.98,0:06:12.18,Wort,,0,0,0,,eigentlich {\c&H00FFFF&}auch{\c&HFFFFFF&}
+Dialogue: 0,0:06:12.18,0:06:12.34,Wort,,0,0,0,,{\c&H00FFFF&}recht{\c&HFFFFFF&} easy.
+Dialogue: 0,0:06:12.34,0:06:12.77,Wort,,0,0,0,,recht {\c&H00FFFF&}easy.{\c&HFFFFFF&}
+Dialogue: 0,0:06:15.02,0:06:15.48,Wort,,0,0,0,,{\c&H00FFFF&}Oder{\c&HFFFFFF&} halt auch
+Dialogue: 0,0:06:15.48,0:06:15.60,Wort,,0,0,0,,Oder {\c&H00FFFF&}halt{\c&HFFFFFF&} auch
+Dialogue: 0,0:06:15.60,0:06:15.70,Wort,,0,0,0,,Oder halt {\c&H00FFFF&}auch{\c&HFFFFFF&}
+Dialogue: 0,0:06:15.70,0:06:15.96,Wort,,0,0,0,,{\c&H00FFFF&}nicht.{\c&HFFFFFF&}
+Dialogue: 0,0:06:15.96,0:06:16.04,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} muss sie
+Dialogue: 0,0:06:16.04,0:06:16.14,Wort,,0,0,0,,Ich {\c&H00FFFF&}muss{\c&HFFFFFF&} sie
+Dialogue: 0,0:06:16.14,0:06:16.24,Wort,,0,0,0,,Ich muss {\c&H00FFFF&}sie{\c&HFFFFFF&}
+Dialogue: 0,0:06:16.24,0:06:16.64,Wort,,0,0,0,,{\c&H00FFFF&}empfindlich{\c&HFFFFFF&} auf
+Dialogue: 0,0:06:16.64,0:06:16.98,Wort,,0,0,0,,empfindlich {\c&H00FFFF&}auf{\c&HFFFFFF&}
+Dialogue: 0,0:06:16.98,0:06:17.18,Wort,,0,0,0,,{\c&H00FFFF&}jeden{\c&HFFFFFF&} Fall
+Dialogue: 0,0:06:17.18,0:06:17.32,Wort,,0,0,0,,jeden {\c&H00FFFF&}Fall{\c&HFFFFFF&}
+Dialogue: 0,0:06:17.32,0:06:17.54,Wort,,0,0,0,,{\c&H00FFFF&}nochmal{\c&HFFFFFF&} ein
+Dialogue: 0,0:06:17.54,0:06:17.78,Wort,,0,0,0,,nochmal {\c&H00FFFF&}ein{\c&HFFFFFF&}
+Dialogue: 0,0:06:17.78,0:06:17.90,Wort,,0,0,0,,{\c&H00FFFF&}bisschen{\c&HFFFFFF&}
+Dialogue: 0,0:06:17.90,0:06:18.53,Wort,,0,0,0,,{\c&H00FFFF&}einstellen.{\c&HFFFFFF&}
+Dialogue: 0,0:06:18.54,0:06:18.86,Wort,,0,0,0,,{\c&H00FFFF&}Was{\c&HFFFFFF&} schluckt
+Dialogue: 0,0:06:18.86,0:06:19.24,Wort,,0,0,0,,Was {\c&H00FFFF&}schluckt{\c&HFFFFFF&}
+Dialogue: 0,0:06:19.24,0:06:19.44,Wort,,0,0,0,,{\c&H00FFFF&}denn{\c&HFFFFFF&} der,
+Dialogue: 0,0:06:19.44,0:06:19.79,Wort,,0,0,0,,denn {\c&H00FFFF&}der,{\c&HFFFFFF&}
+Dialogue: 0,0:06:19.82,0:06:20.27,Wort,,0,0,0,,{\c&H00FFFF&}Digga?{\c&HFFFFFF&}
+Dialogue: 0,0:06:23.64,0:06:24.04,Wort,,0,0,0,,{\c&H00FFFF&}Aber{\c&HFFFFFF&} die
+Dialogue: 0,0:06:24.04,0:06:24.14,Wort,,0,0,0,,Aber {\c&H00FFFF&}die{\c&HFFFFFF&}
+Dialogue: 0,0:06:24.14,0:06:24.58,Wort,,0,0,0,,{\c&H00FFFF&}Pistole{\c&HFFFFFF&} ist
+Dialogue: 0,0:06:24.58,0:06:24.76,Wort,,0,0,0,,Pistole {\c&H00FFFF&}ist{\c&HFFFFFF&}
+Dialogue: 0,0:06:24.76,0:06:25.61,Wort,,0,0,0,,{\c&H00FFFF&}eigentlich...{\c&HFFFFFF&}
+Dialogue: 0,0:06:27.86,0:06:28.41,Wort,,0,0,0,,{\c&H00FFFF&}So,{\c&HFFFFFF&}
+Dialogue: 0,0:06:28.46,0:06:28.70,Wort,,0,0,0,,{\c&H00FFFF&}sind{\c&HFFFFFF&} alle tot?
+Dialogue: 0,0:06:28.70,0:06:28.92,Wort,,0,0,0,,sind {\c&H00FFFF&}alle{\c&HFFFFFF&} tot?
+Dialogue: 0,0:06:28.92,0:06:29.29,Wort,,0,0,0,,sind alle {\c&H00FFFF&}tot?{\c&HFFFFFF&}
+Dialogue: 0,0:06:31.22,0:06:31.62,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} stell mir
+Dialogue: 0,0:06:31.62,0:06:31.80,Wort,,0,0,0,,Ich {\c&H00FFFF&}stell{\c&HFFFFFF&} mir
+Dialogue: 0,0:06:31.80,0:06:31.92,Wort,,0,0,0,,Ich stell {\c&H00FFFF&}mir{\c&HFFFFFF&}
+Dialogue: 0,0:06:31.92,0:06:32.12,Wort,,0,0,0,,{\c&H00FFFF&}gerade{\c&HFFFFFF&} die
+Dialogue: 0,0:06:32.12,0:06:32.28,Wort,,0,0,0,,gerade {\c&H00FFFF&}die{\c&HFFFFFF&}
+Dialogue: 0,0:06:32.28,0:06:32.52,Wort,,0,0,0,,{\c&H00FFFF&}Frage,{\c&HFFFFFF&}
+Dialogue: 0,0:06:32.52,0:06:32.66,Wort,,0,0,0,,{\c&H00FFFF&}muss{\c&HFFFFFF&} ich jetzt
+Dialogue: 0,0:06:32.66,0:06:32.76,Wort,,0,0,0,,muss {\c&H00FFFF&}ich{\c&HFFFFFF&} jetzt
+Dialogue: 0,0:06:32.76,0:06:32.88,Wort,,0,0,0,,muss ich {\c&H00FFFF&}jetzt{\c&HFFFFFF&}
+Dialogue: 0,0:06:32.88,0:06:33.18,Wort,,0,0,0,,{\c&H00FFFF&}wirklich{\c&HFFFFFF&} jeden
+Dialogue: 0,0:06:33.18,0:06:33.64,Wort,,0,0,0,,wirklich {\c&H00FFFF&}jeden{\c&HFFFFFF&}
+Dialogue: 0,0:06:33.64,0:06:34.41,Wort,,0,0,0,,{\c&H00FFFF&}plündern?{\c&HFFFFFF&}
+Dialogue: 0,0:06:36.24,0:06:36.64,Wort,,0,0,0,,{\c&H00FFFF&}Pistolen{\c&HFFFFFF&}
+Dialogue: 0,0:06:36.64,0:06:37.19,Wort,,0,0,0,,{\c&H00FFFF&}Munition.{\c&HFFFFFF&}
+Dialogue: 0,0:06:37.86,0:06:38.26,Wort,,0,0,0,,{\c&H00FFFF&}Hier{\c&HFFFFFF&} ist noch
+Dialogue: 0,0:06:38.26,0:06:38.36,Wort,,0,0,0,,Hier {\c&H00FFFF&}ist{\c&HFFFFFF&} noch
+Dialogue: 0,0:06:38.36,0:06:38.46,Wort,,0,0,0,,Hier ist {\c&H00FFFF&}noch{\c&HFFFFFF&}
+Dialogue: 0,0:06:38.46,0:06:38.77,Wort,,0,0,0,,{\c&H00FFFF&}einer.{\c&HFFFFFF&}
+Dialogue: 0,0:06:38.84,0:06:39.12,Wort,,0,0,0,,{\c&H00FFFF&}Oh{\c&HFFFFFF&} mein Gott,
+Dialogue: 0,0:06:39.12,0:06:39.30,Wort,,0,0,0,,Oh {\c&H00FFFF&}mein{\c&HFFFFFF&} Gott,
+Dialogue: 0,0:06:39.30,0:06:39.54,Wort,,0,0,0,,Oh mein {\c&H00FFFF&}Gott,{\c&HFFFFFF&}
+Dialogue: 0,0:06:39.54,0:06:39.66,Wort,,0,0,0,,{\c&H00FFFF&}wie{\c&HFFFFFF&} viele
+Dialogue: 0,0:06:39.66,0:06:39.82,Wort,,0,0,0,,wie {\c&H00FFFF&}viele{\c&HFFFFFF&}
+Dialogue: 0,0:06:39.82,0:06:40.04,Wort,,0,0,0,,{\c&H00FFFF&}kommen{\c&HFFFFFF&} denn da
+Dialogue: 0,0:06:40.04,0:06:40.18,Wort,,0,0,0,,kommen {\c&H00FFFF&}denn{\c&HFFFFFF&} da
+Dialogue: 0,0:06:40.18,0:06:40.26,Wort,,0,0,0,,kommen denn {\c&H00FFFF&}da{\c&HFFFFFF&}
+Dialogue: 0,0:06:40.26,0:06:40.57,Wort,,0,0,0,,{\c&H00FFFF&}noch?{\c&HFFFFFF&}
+Dialogue: 0,0:06:48.62,0:06:49.02,Wort,,0,0,0,,{\c&H00FFFF&}Digga,{\c&HFFFFFF&}
+Dialogue: 0,0:06:49.02,0:06:49.10,Wort,,0,0,0,,{\c&H00FFFF&}das{\c&HFFFFFF&} sind ja
+Dialogue: 0,0:06:49.10,0:06:49.26,Wort,,0,0,0,,das {\c&H00FFFF&}sind{\c&HFFFFFF&} ja
+Dialogue: 0,0:06:49.26,0:06:49.36,Wort,,0,0,0,,das sind {\c&H00FFFF&}ja{\c&HFFFFFF&}
+Dialogue: 0,0:06:49.36,0:06:49.62,Wort,,0,0,0,,{\c&H00FFFF&}auch{\c&HFFFFFF&} alles
+Dialogue: 0,0:06:49.62,0:06:49.92,Wort,,0,0,0,,auch {\c&H00FFFF&}alles{\c&HFFFFFF&}
+Dialogue: 0,0:06:49.92,0:06:50.24,Wort,,0,0,0,,{\c&H00FFFF&}solche{\c&HFFFFFF&} solche
+Dialogue: 0,0:06:50.24,0:06:50.92,Wort,,0,0,0,,solche {\c&H00FFFF&}solche{\c&HFFFFFF&}
+Dialogue: 0,0:06:50.92,0:06:51.88,Wort,,0,0,0,,{\c&H00FFFF&}Rednecks,{\c&HFFFFFF&}
+Dialogue: 0,0:06:51.88,0:06:52.20,Wort,,0,0,0,,{\c&H00FFFF&}Digga.{\c&HFFFFFF&}
+Dialogue: 0,0:06:52.20,0:06:52.42,Wort,,0,0,0,,{\c&H00FFFF&}Hau{\c&HFFFFFF&} die.
+Dialogue: 0,0:06:52.42,0:06:52.69,Wort,,0,0,0,,Hau {\c&H00FFFF&}die.{\c&HFFFFFF&}
+Dialogue: 0,0:06:55.75,0:06:56.15,Wort,,0,0,0,,{\c&H00FFFF&}Da{\c&HFFFFFF&} hat jemand
+Dialogue: 0,0:06:56.15,0:06:56.27,Wort,,0,0,0,,Da {\c&H00FFFF&}hat{\c&HFFFFFF&} jemand
+Dialogue: 0,0:06:56.27,0:06:56.37,Wort,,0,0,0,,Da hat {\c&H00FFFF&}jemand{\c&HFFFFFF&}
+Dialogue: 0,0:06:56.37,0:06:56.51,Wort,,0,0,0,,{\c&H00FFFF&}ein{\c&HFFFFFF&}
+Dialogue: 0,0:06:56.51,0:06:57.14,Wort,,0,0,0,,{\c&H00FFFF&}Sturmgewehr.{\c&HFFFFFF&}
+Dialogue: 0,0:06:57.73,0:06:58.13,Wort,,0,0,0,,{\c&H00FFFF&}Glaube{\c&HFFFFFF&} ich.
+Dialogue: 0,0:06:58.13,0:06:58.44,Wort,,0,0,0,,Glaube {\c&H00FFFF&}ich.{\c&HFFFFFF&}
+Dialogue: 0,0:07:00.83,0:07:01.38,Wort,,0,0,0,,{\c&H00FFFF&}Da.{\c&HFFFFFF&}
+Dialogue: 0,0:07:05.60,0:07:06.15,Wort,,0,0,0,,{\c&H00FFFF&}Gut.{\c&HFFFFFF&}
+Dialogue: 0,0:07:06.16,0:07:06.52,Wort,,0,0,0,,{\c&H00FFFF&}Hat{\c&HFFFFFF&} der ein
+Dialogue: 0,0:07:06.52,0:07:06.60,Wort,,0,0,0,,Hat {\c&H00FFFF&}der{\c&HFFFFFF&} ein
+Dialogue: 0,0:07:06.60,0:07:06.68,Wort,,0,0,0,,Hat der {\c&H00FFFF&}ein{\c&HFFFFFF&}
+Dialogue: 0,0:07:06.68,0:07:07.29,Wort,,0,0,0,,{\c&H00FFFF&}Sturmgewehr?{\c&HFFFFFF&}
+Dialogue: 0,0:07:08.14,0:07:08.56,Wort,,0,0,0,,{\c&H00FFFF&}Nee,{\c&HFFFFFF&}
+Dialogue: 0,0:07:08.56,0:07:08.70,Wort,,0,0,0,,{\c&H00FFFF&}doch{\c&HFFFFFF&} nicht.
+Dialogue: 0,0:07:08.70,0:07:08.82,Wort,,0,0,0,,doch {\c&H00FFFF&}nicht.{\c&HFFFFFF&}
+Dialogue: 0,0:07:08.82,0:07:08.98,Wort,,0,0,0,,{\c&H00FFFF&}Das{\c&HFFFFFF&} ist
+Dialogue: 0,0:07:08.98,0:07:08.98,Wort,,0,0,0,,Das {\c&H00FFFF&}ist{\c&HFFFFFF&}
+Dialogue: 0,0:07:08.98,0:07:09.13,Wort,,0,0,0,,{\c&H00FFFF&}komisch.{\c&HFFFFFF&}
+Dialogue: 0,0:07:09.96,0:07:10.52,Wort,,0,0,0,,{\c&H00FFFF&}Digga,{\c&HFFFFFF&}
+Dialogue: 0,0:07:10.52,0:07:10.60,Wort,,0,0,0,,{\c&H00FFFF&}die{\c&HFFFFFF&} Musik ist
+Dialogue: 0,0:07:10.60,0:07:10.80,Wort,,0,0,0,,die {\c&H00FFFF&}Musik{\c&HFFFFFF&} ist
+Dialogue: 0,0:07:10.80,0:07:11.04,Wort,,0,0,0,,die Musik {\c&H00FFFF&}ist{\c&HFFFFFF&}
+Dialogue: 0,0:07:11.04,0:07:11.40,Wort,,0,0,0,,{\c&H00FFFF&}so{\c&HFFFFFF&} sick.
+Dialogue: 0,0:07:11.40,0:07:12.19,Wort,,0,0,0,,so {\c&H00FFFF&}sick.{\c&HFFFFFF&}
+Dialogue: 0,0:07:19.88,0:07:20.38,Wort,,0,0,0,,{\c&H00FFFF&}Ja,{\c&HFFFFFF&}
+Dialogue: 0,0:07:20.38,0:07:20.88,Wort,,0,0,0,,{\c&H00FFFF&}das{\c&HFFFFFF&} war's wohl
+Dialogue: 0,0:07:20.88,0:07:21.14,Wort,,0,0,0,,das {\c&H00FFFF&}war's{\c&HFFFFFF&} wohl
+Dialogue: 0,0:07:21.14,0:07:21.28,Wort,,0,0,0,,das war's {\c&H00FFFF&}wohl{\c&HFFFFFF&}
+Dialogue: 0,0:07:21.28,0:07:21.42,Wort,,0,0,0,,{\c&H00FFFF&}mit{\c&HFFFFFF&} dir.
+Dialogue: 0,0:07:21.42,0:07:21.73,Wort,,0,0,0,,mit {\c&H00FFFF&}dir.{\c&HFFFFFF&}
+Dialogue: 0,0:07:21.96,0:07:22.61,Wort,,0,0,0,,{\c&H00FFFF&}Fettarsch.{\c&HFFFFFF&}
+Dialogue: 0,0:07:26.86,0:07:27.36,Wort,,0,0,0,,{\c&H00FFFF&}Sehr{\c&HFFFFFF&} geil.
+Dialogue: 0,0:07:27.36,0:07:27.75,Wort,,0,0,0,,Sehr {\c&H00FFFF&}geil.{\c&HFFFFFF&}
+Dialogue: 0,0:07:27.96,0:07:28.55,Wort,,0,0,0,,{\c&H00FFFF&}Mal{\c&HFFFFFF&}
+Dialogue: 0,0:07:29.71,0:07:30.32,Wort,,0,0,0,,{\c&H00FFFF&}plündern.{\c&HFFFFFF&}
+Dialogue: 0,0:07:30.51,0:07:31.16,Wort,,0,0,0,,{\c&H00FFFF&}Hä?{\c&HFFFFFF&}
+Dialogue: 0,0:07:33.76,0:07:34.41,Wort,,0,0,0,,{\c&H00FFFF&}Okay.{\c&HFFFFFF&}
+Dialogue: 0,0:07:34.64,0:07:35.10,Wort,,0,0,0,,{\c&H00FFFF&}Warum{\c&HFFFFFF&} nicht?
+Dialogue: 0,0:07:35.10,0:07:35.75,Wort,,0,0,0,,Warum {\c&H00FFFF&}nicht?{\c&HFFFFFF&}
+Dialogue: 0,0:07:36.40,0:07:36.90,Wort,,0,0,0,,{\c&H00FFFF&}Dann{\c&HFFFFFF&} fahren wir
+Dialogue: 0,0:07:36.90,0:07:37.14,Wort,,0,0,0,,Dann {\c&H00FFFF&}fahren{\c&HFFFFFF&} wir
+Dialogue: 0,0:07:37.14,0:07:37.26,Wort,,0,0,0,,Dann fahren {\c&H00FFFF&}wir{\c&HFFFFFF&}
+Dialogue: 0,0:07:37.26,0:07:37.36,Wort,,0,0,0,,{\c&H00FFFF&}ein{\c&HFFFFFF&} bisschen.
+Dialogue: 0,0:07:37.36,0:07:37.71,Wort,,0,0,0,,ein {\c&H00FFFF&}bisschen.{\c&HFFFFFF&}
+Dialogue: 0,0:07:41.07,0:07:41.57,Wort,,0,0,0,,{\c&H00FFFF&}Warum{\c&HFFFFFF&} nicht,
+Dialogue: 0,0:07:41.57,0:07:41.83,Wort,,0,0,0,,Warum {\c&H00FFFF&}nicht,{\c&HFFFFFF&}
+Dialogue: 0,0:07:41.83,0:07:42.14,Wort,,0,0,0,,{\c&H00FFFF&}Digga?{\c&HFFFFFF&}
+Dialogue: 0,0:07:43.73,0:07:44.38,Wort,,0,0,0,,{\c&H00FFFF&}Jawohl!{\c&HFFFFFF&}
+Dialogue: 0,0:07:48.16,0:07:48.81,Wort,,0,0,0,,{\c&H00FFFF&}Ja!{\c&HFFFFFF&}
+Dialogue: 0,0:07:51.32,0:07:51.82,Wort,,0,0,0,,{\c&H00FFFF&}Wie{\c&HFFFFFF&} gefällt dir
+Dialogue: 0,0:07:51.82,0:07:52.32,Wort,,0,0,0,,Wie {\c&H00FFFF&}gefällt{\c&HFFFFFF&} dir
+Dialogue: 0,0:07:52.32,0:07:52.42,Wort,,0,0,0,,Wie gefällt {\c&H00FFFF&}dir{\c&HFFFFFF&}
+Dialogue: 0,0:07:52.42,0:07:52.75,Wort,,0,0,0,,{\c&H00FFFF&}das?{\c&HFFFFFF&}
+Dialogue: 0,0:07:53.14,0:07:53.79,Wort,,0,0,0,,{\c&H00FFFF&}So.{\c&HFFFFFF&}
+Dialogue: 0,0:07:55.20,0:07:55.70,Wort,,0,0,0,,{\c&H00FFFF&}Wo{\c&HFFFFFF&} ist die
+Dialogue: 0,0:07:55.70,0:07:55.82,Wort,,0,0,0,,Wo {\c&H00FFFF&}ist{\c&HFFFFFF&} die
+Dialogue: 0,0:07:55.82,0:07:55.94,Wort,,0,0,0,,Wo ist {\c&H00FFFF&}die{\c&HFFFFFF&}
+Dialogue: 0,0:07:55.94,0:07:56.18,Wort,,0,0,0,,{\c&H00FFFF&}alte?{\c&HFFFFFF&}
+Dialogue: 0,0:07:56.18,0:07:56.97,Wort,,0,0,0,,{\c&H00FFFF&}Ja!{\c&HFFFFFF&}
+Dialogue: 0,0:08:00.87,0:08:01.38,Wort,,0,0,0,,{\c&H00FFFF&}Ja!{\c&HFFFFFF&}
+Dialogue: 0,0:08:05.28,0:08:05.79,Wort,,0,0,0,,{\c&H00FFFF&}Ja!{\c&HFFFFFF&}
+Dialogue: 0,0:08:08.18,0:08:08.54,Wort,,0,0,0,,{\c&H00FFFF&}Moment.{\c&HFFFFFF&}
+Dialogue: 0,0:08:08.54,0:08:09.05,Wort,,0,0,0,,{\c&H00FFFF&}Warte,{\c&HFFFFFF&}
+Dialogue: 0,0:08:12.99,0:08:13.26,Wort,,0,0,0,,{\c&H00FFFF&}warte.{\c&HFFFFFF&}
+Dialogue: 0,0:08:20.09,0:08:20.45,Wort,,0,0,0,,{\c&H00FFFF&}Ist{\c&HFFFFFF&} ja so
+Dialogue: 0,0:08:20.45,0:08:20.53,Wort,,0,0,0,,Ist {\c&H00FFFF&}ja{\c&HFFFFFF&} so
+Dialogue: 0,0:08:20.53,0:08:20.67,Wort,,0,0,0,,Ist ja {\c&H00FFFF&}so{\c&HFFFFFF&}
+Dialogue: 0,0:08:20.67,0:08:20.79,Wort,,0,0,0,,{\c&H00FFFF&}wie...{\c&HFFFFFF&}
+Dialogue: 0,0:08:20.79,0:08:20.99,Wort,,0,0,0,,{\c&H00FFFF&}Oh,{\c&HFFFFFF&}
+Dialogue: 0,0:08:20.99,0:08:21.25,Wort,,0,0,0,,{\c&H00FFFF&}warte{\c&HFFFFFF&} mal.
+Dialogue: 0,0:08:21.25,0:08:21.41,Wort,,0,0,0,,warte {\c&H00FFFF&}mal.{\c&HFFFFFF&}
+Dialogue: 0,0:08:21.41,0:08:21.53,Wort,,0,0,0,,{\c&H00FFFF&}Nee,{\c&HFFFFFF&}
+Dialogue: 0,0:08:21.53,0:08:21.73,Wort,,0,0,0,,{\c&H00FFFF&}nicht,{\c&HFFFFFF&}
+Dialogue: 0,0:08:21.73,0:08:21.81,Wort,,0,0,0,,{\c&H00FFFF&}dass{\c&HFFFFFF&} ich jetzt
+Dialogue: 0,0:08:21.81,0:08:21.87,Wort,,0,0,0,,dass {\c&H00FFFF&}ich{\c&HFFFFFF&} jetzt
+Dialogue: 0,0:08:21.87,0:08:21.95,Wort,,0,0,0,,dass ich {\c&H00FFFF&}jetzt{\c&HFFFFFF&}
+Dialogue: 0,0:08:21.95,0:08:22.11,Wort,,0,0,0,,{\c&H00FFFF&}hier{\c&HFFFFFF&} gleich tot
+Dialogue: 0,0:08:22.11,0:08:22.21,Wort,,0,0,0,,hier {\c&H00FFFF&}gleich{\c&HFFFFFF&} tot
+Dialogue: 0,0:08:22.21,0:08:22.39,Wort,,0,0,0,,hier gleich {\c&H00FFFF&}tot{\c&HFFFFFF&}
+Dialogue: 0,0:08:22.39,0:08:22.71,Wort,,0,0,0,,{\c&H00FFFF&}gehe.{\c&HFFFFFF&}
+Dialogue: 0,0:08:22.71,0:08:22.91,Wort,,0,0,0,,{\c&H00FFFF&}Oh,{\c&HFFFFFF&}
+Dialogue: 0,0:08:22.91,0:08:23.14,Wort,,0,0,0,,{\c&H00FFFF&}oh.{\c&HFFFFFF&}
+Dialogue: 0,0:08:23.91,0:08:24.27,Wort,,0,0,0,,{\c&H00FFFF&}Er{\c&HFFFFFF&} kann auch
+Dialogue: 0,0:08:24.27,0:08:24.51,Wort,,0,0,0,,Er {\c&H00FFFF&}kann{\c&HFFFFFF&} auch
+Dialogue: 0,0:08:24.51,0:08:24.71,Wort,,0,0,0,,Er kann {\c&H00FFFF&}auch{\c&HFFFFFF&}
+Dialogue: 0,0:08:24.71,0:08:24.97,Wort,,0,0,0,,{\c&H00FFFF&}während{\c&HFFFFFF&} der
+Dialogue: 0,0:08:24.97,0:08:25.11,Wort,,0,0,0,,während {\c&H00FFFF&}der{\c&HFFFFFF&}
+Dialogue: 0,0:08:25.11,0:08:25.31,Wort,,0,0,0,,{\c&H00FFFF&}Fahrt{\c&HFFFFFF&} kicken.
+Dialogue: 0,0:08:25.31,0:08:25.57,Wort,,0,0,0,,Fahrt {\c&H00FFFF&}kicken.{\c&HFFFFFF&}
+Dialogue: 0,0:08:25.57,0:08:25.75,Wort,,0,0,0,,{\c&H00FFFF&}Habt{\c&HFFFFFF&} ihr's
+Dialogue: 0,0:08:25.75,0:08:25.83,Wort,,0,0,0,,Habt {\c&H00FFFF&}ihr's{\c&HFFFFFF&}
+Dialogue: 0,0:08:25.83,0:08:26.01,Wort,,0,0,0,,{\c&H00FFFF&}gerade{\c&HFFFFFF&} gesehen?
+Dialogue: 0,0:08:26.01,0:08:26.44,Wort,,0,0,0,,gerade {\c&H00FFFF&}gesehen?{\c&HFFFFFF&}
+Dialogue: 0,0:08:27.25,0:08:27.61,Wort,,0,0,0,,{\c&H00FFFF&}Muss{\c&HFFFFFF&} ich kurz
+Dialogue: 0,0:08:27.61,0:08:27.77,Wort,,0,0,0,,Muss {\c&H00FFFF&}ich{\c&HFFFFFF&} kurz
+Dialogue: 0,0:08:27.77,0:08:27.89,Wort,,0,0,0,,Muss ich {\c&H00FFFF&}kurz{\c&HFFFFFF&}
+Dialogue: 0,0:08:27.89,0:08:28.33,Wort,,0,0,0,,{\c&H00FFFF&}aufpassen.{\c&HFFFFFF&}
+Dialogue: 0,0:08:28.33,0:08:28.43,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} will nicht
+Dialogue: 0,0:08:28.43,0:08:28.49,Wort,,0,0,0,,Ich {\c&H00FFFF&}will{\c&HFFFFFF&} nicht
+Dialogue: 0,0:08:28.49,0:08:28.61,Wort,,0,0,0,,Ich will {\c&H00FFFF&}nicht{\c&HFFFFFF&}
+Dialogue: 0,0:08:28.61,0:08:28.79,Wort,,0,0,0,,{\c&H00FFFF&}direkt{\c&HFFFFFF&} in der
+Dialogue: 0,0:08:28.79,0:08:28.95,Wort,,0,0,0,,direkt {\c&H00FFFF&}in{\c&HFFFFFF&} der
+Dialogue: 0,0:08:28.95,0:08:28.99,Wort,,0,0,0,,direkt in {\c&H00FFFF&}der{\c&HFFFFFF&}
+Dialogue: 0,0:08:28.99,0:08:29.19,Wort,,0,0,0,,{\c&H00FFFF&}ersten{\c&HFFFFFF&} Mission
+Dialogue: 0,0:08:29.19,0:08:29.45,Wort,,0,0,0,,ersten {\c&H00FFFF&}Mission{\c&HFFFFFF&}
+Dialogue: 0,0:08:29.45,0:08:30.06,Wort,,0,0,0,,{\c&H00FFFF&}verrecken.{\c&HFFFFFF&}
+Dialogue: 0,0:08:33.25,0:08:33.61,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} bin gleich
+Dialogue: 0,0:08:33.61,0:08:33.75,Wort,,0,0,0,,Ich {\c&H00FFFF&}bin{\c&HFFFFFF&} gleich
+Dialogue: 0,0:08:33.75,0:08:33.93,Wort,,0,0,0,,Ich bin {\c&H00FFFF&}gleich{\c&HFFFFFF&}
+Dialogue: 0,0:08:33.93,0:08:34.28,Wort,,0,0,0,,{\c&H00FFFF&}tot.{\c&HFFFFFF&}
+Dialogue: 0,0:08:42.22,0:08:42.58,Wort,,0,0,0,,{\c&H00FFFF&}Regeneriere{\c&HFFFFFF&} ich
+Dialogue: 0,0:08:42.58,0:08:42.82,Wort,,0,0,0,,Regeneriere {\c&H00FFFF&}ich{\c&HFFFFFF&}
+Dialogue: 0,0:08:42.82,0:08:42.92,Wort,,0,0,0,,{\c&H00FFFF&}ein{\c&HFFFFFF&} bisschen.
+Dialogue: 0,0:08:42.92,0:08:43.38,Wort,,0,0,0,,ein {\c&H00FFFF&}bisschen.{\c&HFFFFFF&}
+Dialogue: 0,0:08:43.38,0:08:43.60,Wort,,0,0,0,,{\c&H00FFFF&}Nee,{\c&HFFFFFF&}
+Dialogue: 0,0:08:43.60,0:08:43.87,Wort,,0,0,0,,{\c&H00FFFF&}ne?{\c&HFFFFFF&}
+Dialogue: 0,0:08:47.63,0:08:48.14,Wort,,0,0,0,,{\c&H00FFFF&}So.{\c&HFFFFFF&}
+Dialogue: 0,0:08:54.04,0:08:54.44,Wort,,0,0,0,,{\c&H00FFFF&}Nee,{\c&HFFFFFF&}
+Dialogue: 0,0:08:54.44,0:08:54.50,Wort,,0,0,0,,{\c&H00FFFF&}ich{\c&HFFFFFF&} glaube,
+Dialogue: 0,0:08:54.50,0:08:54.70,Wort,,0,0,0,,ich {\c&H00FFFF&}glaube,{\c&HFFFFFF&}
+Dialogue: 0,0:08:54.70,0:08:54.82,Wort,,0,0,0,,{\c&H00FFFF&}ich{\c&HFFFFFF&} musste...
+Dialogue: 0,0:08:54.82,0:08:55.14,Wort,,0,0,0,,ich {\c&H00FFFF&}musste...{\c&HFFFFFF&}
+Dialogue: 0,0:08:55.14,0:08:55.64,Wort,,0,0,0,,{\c&H00FFFF&}Oh.{\c&HFFFFFF&}
+Dialogue: 0,0:08:55.64,0:08:55.92,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} musste die
+Dialogue: 0,0:08:55.92,0:08:56.12,Wort,,0,0,0,,Ich {\c&H00FFFF&}musste{\c&HFFFFFF&} die
+Dialogue: 0,0:08:56.12,0:08:56.28,Wort,,0,0,0,,Ich musste {\c&H00FFFF&}die{\c&HFFFFFF&}
+Dialogue: 0,0:08:56.28,0:08:56.62,Wort,,0,0,0,,{\c&H00FFFF&}Leute,{\c&HFFFFFF&}
+Dialogue: 0,0:08:56.62,0:08:57.10,Wort,,0,0,0,,{\c&H00FFFF&}äh...{\c&HFFFFFF&}
+Dialogue: 0,0:08:57.10,0:08:57.35,Wort,,0,0,0,,{\c&H00FFFF&}die{\c&HFFFFFF&}
+Dialogue: 0,0:08:58.76,0:08:59.20,Wort,,0,0,0,,{\c&H00FFFF&}Also,{\c&HFFFFFF&}
+Dialogue: 0,0:08:59.20,0:08:59.42,Wort,,0,0,0,,{\c&H00FFFF&}zumindest{\c&HFFFFFF&} war
+Dialogue: 0,0:08:59.42,0:08:59.68,Wort,,0,0,0,,zumindest {\c&H00FFFF&}war{\c&HFFFFFF&}
+Dialogue: 0,0:08:59.68,0:08:59.78,Wort,,0,0,0,,{\c&H00FFFF&}es{\c&HFFFFFF&} auch mein
+Dialogue: 0,0:08:59.78,0:08:59.90,Wort,,0,0,0,,es {\c&H00FFFF&}auch{\c&HFFFFFF&} mein
+Dialogue: 0,0:08:59.90,0:09:00.06,Wort,,0,0,0,,es auch {\c&H00FFFF&}mein{\c&HFFFFFF&}
+Dialogue: 0,0:09:00.06,0:09:00.58,Wort,,0,0,0,,{\c&H00FFFF&}Bedürfnis,{\c&HFFFFFF&}
+Dialogue: 0,0:09:00.58,0:09:00.68,Wort,,0,0,0,,{\c&H00FFFF&}die{\c&HFFFFFF&} Leute
+Dialogue: 0,0:09:00.68,0:09:00.88,Wort,,0,0,0,,die {\c&H00FFFF&}Leute{\c&HFFFFFF&}
+Dialogue: 0,0:09:00.88,0:09:01.55,Wort,,0,0,0,,{\c&H00FFFF&}abzuknallen.{\c&HFFFFFF&}
+Dialogue: 0,0:09:06.04,0:09:06.44,Wort,,0,0,0,,{\c&H00FFFF&}Gegen{\c&HFFFFFF&} Ali
+Dialogue: 0,0:09:06.44,0:09:06.74,Wort,,0,0,0,,Gegen {\c&H00FFFF&}Ali{\c&HFFFFFF&}
+Dialogue: 0,0:09:06.74,0:09:07.12,Wort,,0,0,0,,{\c&H00FFFF&}Boumaier{\c&HFFFFFF&} machen
+Dialogue: 0,0:09:07.12,0:09:07.38,Wort,,0,0,0,,Boumaier {\c&H00FFFF&}machen{\c&HFFFFFF&}
+Dialogue: 0,0:09:07.38,0:09:07.56,Wort,,0,0,0,,{\c&H00FFFF&}wir{\c&HFFFFFF&} hier einen
+Dialogue: 0,0:09:07.56,0:09:07.66,Wort,,0,0,0,,wir {\c&H00FFFF&}hier{\c&HFFFFFF&} einen
+Dialogue: 0,0:09:07.66,0:09:07.78,Wort,,0,0,0,,wir hier {\c&H00FFFF&}einen{\c&HFFFFFF&}
+Dialogue: 0,0:09:07.78,0:09:08.19,Wort,,0,0,0,,{\c&H00FFFF&}Fight.{\c&HFFFFFF&}
+Dialogue: 0,0:09:11.08,0:09:11.48,Wort,,0,0,0,,{\c&H00FFFF&}Sehr{\c&HFFFFFF&} gut.
+Dialogue: 0,0:09:11.48,0:09:11.85,Wort,,0,0,0,,Sehr {\c&H00FFFF&}gut.{\c&HFFFFFF&}
+Dialogue: 0,0:09:14.59,0:09:14.99,Wort,,0,0,0,,{\c&H00FFFF&}Reicht{\c&HFFFFFF&} doch,
+Dialogue: 0,0:09:14.99,0:09:15.17,Wort,,0,0,0,,Reicht {\c&H00FFFF&}doch,{\c&HFFFFFF&}
+Dialogue: 0,0:09:15.17,0:09:15.31,Wort,,0,0,0,,{\c&H00FFFF&}reicht{\c&HFFFFFF&} doch,
+Dialogue: 0,0:09:15.31,0:09:15.51,Wort,,0,0,0,,reicht {\c&H00FFFF&}doch,{\c&HFFFFFF&}
+Dialogue: 0,0:09:15.51,0:09:15.65,Wort,,0,0,0,,{\c&H00FFFF&}reicht{\c&HFFFFFF&} doch,
+Dialogue: 0,0:09:15.65,0:09:15.85,Wort,,0,0,0,,reicht {\c&H00FFFF&}doch,{\c&HFFFFFF&}
+Dialogue: 0,0:09:15.85,0:09:15.97,Wort,,0,0,0,,{\c&H00FFFF&}reicht{\c&HFFFFFF&} doch,
+Dialogue: 0,0:09:15.97,0:09:16.21,Wort,,0,0,0,,reicht {\c&H00FFFF&}doch,{\c&HFFFFFF&}
+Dialogue: 0,0:09:16.21,0:09:16.42,Wort,,0,0,0,,{\c&H00FFFF&}Bro.{\c&HFFFFFF&}
+Dialogue: 0,0:09:17.23,0:09:17.63,Wort,,0,0,0,,{\c&H00FFFF&}Reicht{\c&HFFFFFF&} doch,
+Dialogue: 0,0:09:17.63,0:09:17.87,Wort,,0,0,0,,Reicht {\c&H00FFFF&}doch,{\c&HFFFFFF&}
+Dialogue: 0,0:09:17.87,0:09:18.01,Wort,,0,0,0,,{\c&H00FFFF&}reicht{\c&HFFFFFF&} doch.
+Dialogue: 0,0:09:18.01,0:09:18.38,Wort,,0,0,0,,reicht {\c&H00FFFF&}doch.{\c&HFFFFFF&}
+Dialogue: 0,0:09:20.31,0:09:20.71,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} kann nicht
+Dialogue: 0,0:09:20.71,0:09:20.85,Wort,,0,0,0,,Ich {\c&H00FFFF&}kann{\c&HFFFFFF&} nicht
+Dialogue: 0,0:09:20.85,0:09:20.97,Wort,,0,0,0,,Ich kann {\c&H00FFFF&}nicht{\c&HFFFFFF&}
+Dialogue: 0,0:09:20.97,0:09:21.54,Wort,,0,0,0,,{\c&H00FFFF&}aufhören.{\c&HFFFFFF&}
+Dialogue: 0,0:09:22.05,0:09:22.17,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} kann nicht
+Dialogue: 0,0:09:22.17,0:09:22.31,Wort,,0,0,0,,Ich {\c&H00FFFF&}kann{\c&HFFFFFF&} nicht
+Dialogue: 0,0:09:22.31,0:09:22.43,Wort,,0,0,0,,Ich kann {\c&H00FFFF&}nicht{\c&HFFFFFF&}
+Dialogue: 0,0:09:22.43,0:09:22.96,Wort,,0,0,0,,{\c&H00FFFF&}aufhören.{\c&HFFFFFF&}
+Dialogue: 0,0:09:23.21,0:09:23.44,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&}
+Dialogue: 0,0:09:26.26,0:09:26.56,Wort,,0,0,0,,{\c&H00FFFF&}kann{\c&HFFFFFF&} nicht
+Dialogue: 0,0:09:26.56,0:09:26.68,Wort,,0,0,0,,kann {\c&H00FFFF&}nicht{\c&HFFFFFF&}
+Dialogue: 0,0:09:26.68,0:09:27.05,Wort,,0,0,0,,{\c&H00FFFF&}aufhören.{\c&HFFFFFF&}
+Dialogue: 0,0:09:29.14,0:09:29.54,Wort,,0,0,0,,{\c&H00FFFF&}Was{\c&HFFFFFF&} haben wir?
+Dialogue: 0,0:09:29.54,0:09:29.76,Wort,,0,0,0,,Was {\c&H00FFFF&}haben{\c&HFFFFFF&} wir?
+Dialogue: 0,0:09:29.76,0:09:30.07,Wort,,0,0,0,,Was haben {\c&H00FFFF&}wir?{\c&HFFFFFF&}
+Dialogue: 0,0:09:31.80,0:09:32.20,Wort,,0,0,0,,{\c&H00FFFF&}Halte{\c&HFFFFFF&} eins
+Dialogue: 0,0:09:32.20,0:09:32.36,Wort,,0,0,0,,Halte {\c&H00FFFF&}eins{\c&HFFFFFF&}
+Dialogue: 0,0:09:32.36,0:09:32.85,Wort,,0,0,0,,{\c&H00FFFF&}gedrückt.{\c&HFFFFFF&}
+Dialogue: 0,0:09:33.02,0:09:33.42,Wort,,0,0,0,,{\c&H00FFFF&}Um{\c&HFFFFFF&} dich zu
+Dialogue: 0,0:09:33.42,0:09:33.62,Wort,,0,0,0,,Um {\c&H00FFFF&}dich{\c&HFFFFFF&} zu
+Dialogue: 0,0:09:33.62,0:09:33.80,Wort,,0,0,0,,Um dich {\c&H00FFFF&}zu{\c&HFFFFFF&}
+Dialogue: 0,0:09:33.80,0:09:34.27,Wort,,0,0,0,,{\c&H00FFFF&}heilen.{\c&HFFFFFF&}
+Dialogue: 0,0:09:36.06,0:09:36.58,Wort,,0,0,0,,{\c&H00FFFF&}Okay,{\c&HFFFFFF&}
+Dialogue: 0,0:09:36.58,0:09:36.96,Wort,,0,0,0,,{\c&H00FFFF&}super.{\c&HFFFFFF&}
+Dialogue: 0,0:09:36.96,0:09:37.51,Wort,,0,0,0,,{\c&H00FFFF&}Moment.{\c&HFFFFFF&}
+Dialogue: 0,0:09:38.26,0:09:38.40,Wort,,0,0,0,,{\c&H00FFFF&}Wir{\c&HFFFFFF&} haben nur
+Dialogue: 0,0:09:38.40,0:09:38.74,Wort,,0,0,0,,Wir {\c&H00FFFF&}haben{\c&HFFFFFF&} nur
+Dialogue: 0,0:09:38.74,0:09:39.22,Wort,,0,0,0,,Wir haben {\c&H00FFFF&}nur{\c&HFFFFFF&}
+Dialogue: 0,0:09:39.22,0:09:39.40,Wort,,0,0,0,,{\c&H00FFFF&}die{\c&HFFFFFF&} Pistole
+Dialogue: 0,0:09:39.40,0:09:40.00,Wort,,0,0,0,,die {\c&H00FFFF&}Pistole{\c&HFFFFFF&}
+Dialogue: 0,0:09:40.00,0:09:40.20,Wort,,0,0,0,,{\c&H00FFFF&}immer{\c&HFFFFFF&} noch.
+Dialogue: 0,0:09:40.20,0:09:40.51,Wort,,0,0,0,,immer {\c&H00FFFF&}noch.{\c&HFFFFFF&}
+Dialogue: 0,0:09:45.64,0:09:46.08,Wort,,0,0,0,,{\c&H00FFFF&}Müssen{\c&HFFFFFF&} wir den
+Dialogue: 0,0:09:46.08,0:09:46.26,Wort,,0,0,0,,Müssen {\c&H00FFFF&}wir{\c&HFFFFFF&} den
+Dialogue: 0,0:09:46.26,0:09:46.40,Wort,,0,0,0,,Müssen wir {\c&H00FFFF&}den{\c&HFFFFFF&}
+Dialogue: 0,0:09:46.40,0:09:47.03,Wort,,0,0,0,,{\c&H00FFFF&}abknallen?{\c&HFFFFFF&}
+Dialogue: 0,0:09:49.66,0:09:50.10,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} knall ihn
+Dialogue: 0,0:09:50.10,0:09:50.54,Wort,,0,0,0,,Ich {\c&H00FFFF&}knall{\c&HFFFFFF&} ihn
+Dialogue: 0,0:09:50.54,0:09:50.66,Wort,,0,0,0,,Ich knall {\c&H00FFFF&}ihn{\c&HFFFFFF&}
+Dialogue: 0,0:09:50.66,0:09:50.86,Wort,,0,0,0,,{\c&H00FFFF&}einfach{\c&HFFFFFF&} ab.
+Dialogue: 0,0:09:50.86,0:09:51.21,Wort,,0,0,0,,einfach {\c&H00FFFF&}ab.{\c&HFFFFFF&}
+Dialogue: 0,0:09:52.04,0:09:52.50,Wort,,0,0,0,,{\c&H00FFFF&}Komm,{\c&HFFFFFF&}
+Dialogue: 0,0:09:52.50,0:09:52.72,Wort,,0,0,0,,{\c&H00FFFF&}komm,{\c&HFFFFFF&}
+Dialogue: 0,0:09:52.72,0:09:52.98,Wort,,0,0,0,,{\c&H00FFFF&}komm,{\c&HFFFFFF&}
+Dialogue: 0,0:09:52.98,0:09:53.34,Wort,,0,0,0,,{\c&H00FFFF&}komm,{\c&HFFFFFF&}
+Dialogue: 0,0:09:53.34,0:09:53.34,Wort,,0,0,0,,{\c&H00FFFF&}komm,{\c&HFFFFFF&}
+Dialogue: 0,0:09:53.34,0:09:53.49,Wort,,0,0,0,,{\c&H00FFFF&}komm.{\c&HFFFFFF&}
+Dialogue: 0,0:09:55.40,0:09:55.84,Wort,,0,0,0,,{\c&H00FFFF&}Was{\c&HFFFFFF&} müssen wir
+Dialogue: 0,0:09:55.84,0:09:56.08,Wort,,0,0,0,,Was {\c&H00FFFF&}müssen{\c&HFFFFFF&} wir
+Dialogue: 0,0:09:56.08,0:09:56.22,Wort,,0,0,0,,Was müssen {\c&H00FFFF&}wir{\c&HFFFFFF&}
+Dialogue: 0,0:09:56.22,0:09:56.55,Wort,,0,0,0,,{\c&H00FFFF&}machen?{\c&HFFFFFF&}
+Dialogue: 0,0:09:59.56,0:10:00.00,Wort,,0,0,0,,{\c&H00FFFF&}Müssen{\c&HFFFFFF&} wir die
+Dialogue: 0,0:10:00.00,0:10:00.08,Wort,,0,0,0,,Müssen {\c&H00FFFF&}wir{\c&HFFFFFF&} die
+Dialogue: 0,0:10:00.08,0:10:00.20,Wort,,0,0,0,,Müssen wir {\c&H00FFFF&}die{\c&HFFFFFF&}
+Dialogue: 0,0:10:00.20,0:10:00.42,Wort,,0,0,0,,{\c&H00FFFF&}Leute{\c&HFFFFFF&}
+Dialogue: 0,0:10:00.42,0:10:01.03,Wort,,0,0,0,,{\c&H00FFFF&}abknallen?{\c&HFFFFFF&}
+Dialogue: 0,0:10:10.19,0:10:10.63,Wort,,0,0,0,,{\c&H00FFFF&}Raus{\c&HFFFFFF&} da.
+Dialogue: 0,0:10:10.63,0:10:10.86,Wort,,0,0,0,,Raus {\c&H00FFFF&}da.{\c&HFFFFFF&}
+Dialogue: 0,0:10:10.89,0:10:11.19,Wort,,0,0,0,,{\c&H00FFFF&}Äh,{\c&HFFFFFF&}
+Dialogue: 0,0:10:11.19,0:10:11.31,Wort,,0,0,0,,{\c&H00FFFF&}äh,{\c&HFFFFFF&}
+Dialogue: 0,0:10:11.31,0:10:11.53,Wort,,0,0,0,,{\c&H00FFFF&}äh,{\c&HFFFFFF&}
+Dialogue: 0,0:10:11.53,0:10:11.95,Wort,,0,0,0,,{\c&H00FFFF&}warte{\c&HFFFFFF&} mal.
+Dialogue: 0,0:10:11.95,0:10:12.20,Wort,,0,0,0,,warte {\c&H00FFFF&}mal.{\c&HFFFFFF&}
+Dialogue: 0,0:10:14.16,0:10:14.62,Wort,,0,0,0,,{\c&H00FFFF&}Ah,{\c&HFFFFFF&}
+Dialogue: 0,0:10:14.62,0:10:15.09,Wort,,0,0,0,,{\c&H00FFFF&}ah.{\c&HFFFFFF&}
+Dialogue: 0,0:10:15.14,0:10:15.62,Wort,,0,0,0,,{\c&H00FFFF&}Okay,{\c&HFFFFFF&}
+Dialogue: 0,0:10:15.62,0:10:16.01,Wort,,0,0,0,,{\c&H00FFFF&}check.{\c&HFFFFFF&}
+Dialogue: 0,0:10:17.22,0:10:17.66,Wort,,0,0,0,,{\c&H00FFFF&}Hatte{\c&HFFFFFF&} ich eben
+Dialogue: 0,0:10:17.66,0:10:17.66,Wort,,0,0,0,,Hatte {\c&H00FFFF&}ich{\c&HFFFFFF&} eben
+Dialogue: 0,0:10:17.66,0:10:17.82,Wort,,0,0,0,,Hatte ich {\c&H00FFFF&}eben{\c&HFFFFFF&}
+Dialogue: 0,0:10:17.82,0:10:17.92,Wort,,0,0,0,,{\c&H00FFFF&}nicht{\c&HFFFFFF&} gesehen.
+Dialogue: 0,0:10:17.92,0:10:18.29,Wort,,0,0,0,,nicht {\c&H00FFFF&}gesehen.{\c&HFFFFFF&}
+Dialogue: 0,0:10:19.00,0:10:19.54,Wort,,0,0,0,,{\c&H00FFFF&}Oh{\c&HFFFFFF&} mein Gott.
+Dialogue: 0,0:10:19.54,0:10:19.84,Wort,,0,0,0,,Oh {\c&H00FFFF&}mein{\c&HFFFFFF&} Gott.
+Dialogue: 0,0:10:19.84,0:10:20.23,Wort,,0,0,0,,Oh mein {\c&H00FFFF&}Gott.{\c&HFFFFFF&}

@@ -91,6 +91,29 @@ Ausgelassen: 38 (frauenfeindliche Beleidigungen), 40 (fremde TV-Show), 41 und 44
 
 **51:** „Wie so ein Penner mit Schaufel“ ⛏️😂 Stream: twitch.tv/aymen @Aymen #aymen #minecraft #twitchclips #deutschestreamer
 
+## MontanaBlack spielt GTA 6 (Livestream twitch.tv/montanablack88, aufgenommen am 18.11.2026 ab 11:37 UTC)
+
+Quelle: eigene Aufnahme des Livestreams, 14 Minuten. Erlaubnis laut Nutzer („Ja los“), Screenshot fehlt.
+Monte spielt in Neuseeland, dort war schon der 19.11. Das ist Gameplay vor dem Release in Deutschland. Rockstar kann solche Clips sperren lassen.
+
+| Nr | Datei | Länge | Stelle in der Aufnahme |
+|---|---|---|---|
+| 53 | 53-fertig.mp4 | 47 s | 0:57 bis 1:44 |
+| 54 | 54-fertig.mp4 | 28 s | 2:46 bis 3:14 |
+| 55 | 55-fertig.mp4 | 22 s | 5:42 bis 6:04 |
+| 56 | 56-fertig.mp4 | 56 s | 8:37 bis 9:32 |
+| 57 | 57-fertig.mp4 | 21 s | 10:07 bis 10:27 |
+
+**53:** „Wir haben große Probleme!“ Montes erste Minuten in GTA 6 😂 Stream: twitch.tv/montanablack88 @MontanaBlack #montanablack #gta6 #gtavi #twitchclips
+
+**54:** Monte stellt die Steuerung um… und bereut es sofort 😭 Stream: twitch.tv/montanablack88 @MontanaBlack #montanablack #gta6 #gtavi #twitchclips
+
+**55:** „Vor den Tigern hab ich mehr Angst als vor den Leuten mit Waffen“ 🐯 Stream: twitch.tv/montanablack88 @MontanaBlack #montanablack #gta6 #gtavi #twitchclips
+
+**56:** „Er kann während der Fahrt kicken!“ Monte testet GTA 6 🚗 Stream: twitch.tv/montanablack88 @MontanaBlack #montanablack #gta6 #gtavi #twitchclips
+
+**57:** „Ich kann nicht aufhören!“ Monte im Faustkampf 👊 Stream: twitch.tv/montanablack88 @MontanaBlack #montanablack #gta6 #gtavi #twitchclips
+
 ## TikTok-Captions
 
 **01:** Kleiner Jumpscare von der Seite und alle sind raus 😂 Stream: twitch.tv/coachlim @CoachLim #coachlim #jumpscare #twitchclips #horrorgame
