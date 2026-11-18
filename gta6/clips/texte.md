@@ -114,6 +114,25 @@ Monte spielt in Neuseeland, dort war schon der 19.11. Das ist Gameplay vor dem R
 
 **57:** „Ich kann nicht aufhören!“ Monte im Faustkampf 👊 Stream: twitch.tv/montanablack88 @MontanaBlack #montanablack #gta6 #gtavi #twitchclips
 
+### Monte, zweite Aufnahme (18.11.2026 ab 12:32 UTC, 30 Minuten)
+
+| Nr | Datei | Länge | Stelle in der Aufnahme |
+|---|---|---|---|
+| 58 | 58-fertig.mp4 | 59 s | 8:04 bis 9:03 |
+| 59 | 59-fertig.mp4 | 34 s | 9:09 bis 9:43 |
+| 60 | 60-fertig.mp4 | 54 s | 18:56 bis 19:50 |
+| 61 | 61-fertig.mp4 | 60 s | 28:09 bis 29:08 |
+
+Ausgelassen: die Szene mit dem Hund (Tierquälerei), der Plan, eine Frau wegzukicken, und das Gerede über den Stripclub.
+
+**58:** „Bin ich hier zum Arbeiten oder was?“ Monte muss in GTA 6 streichen 🎨😂 Stream: twitch.tv/montanablack88 @MontanaBlack #montanablack #gta6 #gtavi #twitchclips
+
+**59:** „Ist das nicht schon verboten?“ Monte zockt GTA 6 einen Tag früher 👀 Stream: twitch.tv/montanablack88 @MontanaBlack #montanablack #gta6 #gtavi #twitchclips
+
+**60:** Sportwagen geklaut, Polizei dran, Auto Schrott 🚔💥 Stream: twitch.tv/montanablack88 @MontanaBlack #montanablack #gta6 #gtavi #twitchclips
+
+**61:** „Ich habe doch gar nichts gemacht!“ Polizei-Helikopter jagt Monte 🚁 Stream: twitch.tv/montanablack88 @MontanaBlack #montanablack #gta6 #gtavi #twitchclips
+
 ## TikTok-Captions
 
 **01:** Kleiner Jumpscare von der Seite und alle sind raus 😂 Stream: twitch.tv/coachlim @CoachLim #coachlim #jumpscare #twitchclips #horrorgame
