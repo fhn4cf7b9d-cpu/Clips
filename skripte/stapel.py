@@ -31,8 +31,8 @@ def main():
     for a in auftraege:
         nr = a["nr"]
         v = dict(VORLAGEN.get(a.get("vorlage", ""), {}))
-        v.update({k: a[k] for k in ("cam", "inhalt", "oben_h", "vollbild") if k in a})
-        if not v.get("cam") and not v.get("vollbild"):
+        v.update({k: a[k] for k in ("cam", "inhalt", "oben_h", "vollbild", "breit") if k in a})
+        if not (v.get("cam") or v.get("vollbild") or v.get("breit")):
             print(f"{nr}: keine Vorlage und kein Ausschnitt, uebersprungen"); continue
         name = a.get("streamer", "coachlim")
         quelle = os.path.join(Q, f"{nr}-{name}.mp4")
@@ -41,7 +41,8 @@ def main():
         if os.path.exists(fertig):
             print(f"{nr}: schon fertig"); continue
         if not os.path.exists(roh):
-            ausschnitt = (["--vollbild", v["vollbild"]] if v.get("vollbild") else
+            ausschnitt = (["--breit", v["breit"]] if v.get("breit") else
+                          ["--vollbild", v["vollbild"]] if v.get("vollbild") else
                           ["--cam", v["cam"], "--inhalt", v["inhalt"], "--oben-h", str(v.get("oben_h", 640))])
             subprocess.run([sys.executable, os.path.join(HIER, "reaktions_layout.py"), "--quelle", quelle, *ausschnitt,
                             "--start", str(a.get("start", 0)), "--dauer", str(a["dauer"]),

@@ -58,6 +58,7 @@ def main():
     p.add_argument("--aus", required=True)
     p.add_argument("--oben-h", type=int, default=640, help="Hoehe des oberen Teils (Standard 640)")
     p.add_argument("--vollbild", help="Nur ein Ausschnitt B:H:X:Y aus --quelle, auf 1080x1920 gefuellt (Handkamera, IRL)")
+    p.add_argument("--breit", help="Ausschnitt B:H:X:Y aus --quelle, ganz sichtbar in der Mitte, Rest unscharfer Hintergrund (mehrere Leute im Bild)")
     a = p.parse_args()
     global OBEN_H, UNTEN_H
     OBEN_H = max(320, min(1600, a.oben_h)) // 2 * 2
@@ -68,7 +69,14 @@ def main():
     if os.path.exists(a.aus):
         sys.exit(f"{a.aus} gibt es schon. Ich überschreibe nichts.")
 
-    if a.quelle and a.vollbild:
+    if a.quelle and a.breit:
+        eingaben = ["-ss", a.start, "-t", str(a.dauer), "-i", a.quelle]
+        filt = [f"[0:v]crop={a.breit},split=2[b0][b1]", fuellen("b0", "bg0", B, H),
+                "[bg0]boxblur=30:3,eq=brightness=-0.15[bg]",
+                f"[b1]scale={B}:-2,setsar=1[fg]",
+                "[bg][fg]overlay=0:(H-h)/2[st]"]
+        OBEN_H = 400  # Hooks ueber dem Bild
+    elif a.quelle and a.vollbild:
         eingaben = ["-ss", a.start, "-t", str(a.dauer), "-i", a.quelle]
         filt = [f"[0:v]crop={a.vollbild}[v0]", fuellen("v0", "st", B, H)]
         OBEN_H = 650  # Hooks im oberen Drittel
@@ -84,7 +92,7 @@ def main():
     else:
         sys.exit("Entweder --quelle mit --cam und --inhalt, oder --oben und --unten angeben.")
 
-    if not a.vollbild:
+    if not (a.vollbild or a.breit):
         filt.append("[cam][inh]vstack=inputs=2[st]")
     letzte = "st"
     tmp = tempfile.mkdtemp(prefix="hook_")
