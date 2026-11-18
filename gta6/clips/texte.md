@@ -40,6 +40,32 @@ Hinweis 11: Im Clip läuft ein Song. TikTok kann den Ton bei fremder Musik stumm
 
 Links stehen in `gta6/quelle/liste.txt`. Ausgelassen: Fußball-Clips (TV-Übertragung, fremde Rechte), 20 (nichts zu sehen, Transkript unklar), 23 (zeigt Merts Desktop).
 
+## Neue Clips vom 18.11.2026 (Twitch-Clips der letzten 7 Tage)
+
+| Nr | Datei | Länge | Quelle | Aufrufe auf Twitch (18.11.2026) |
+|---|---|---|---|---|
+| 28 | 28-fertig.mp4 | 17 s | https://www.twitch.tv/coachlim/clip/ResourcefulHyperSandstormPunchTrees-DOdwguL2k4OQLWV3 | 200 |
+| 29 | 29-fertig.mp4 | 19 s | https://www.twitch.tv/coachlim/clip/ImportantBashfulSushiAllenHuhu-hYr0Da6E53eEGWni | 199 |
+| 31 | 31-fertig.mp4 | 26 s | https://www.twitch.tv/mertabimula/clip/MildEncouragingMangoImGlitch-mhkN9jJxXqVIZBt- | 1.238 |
+| 32 | 32-fertig.mp4 | 18 s | https://www.twitch.tv/mertabimula/clip/CovertCrackyKeyboardHotPokket-_H3Iq1MZve8T6cuH | 923 |
+| 34 | 34-fertig.mp4 | 30 s | https://www.twitch.tv/mertabimula/clip/BlushingPeppyInternStrawBeary-L1J8tF58z7DruN3k | 433 |
+| 35 | 35-fertig.mp4 | 37 s | https://www.twitch.tv/mertabimula/clip/CautiousObliviousMouseKreygasm-esb5dFQ9zorXslfk | 304 |
+
+Ausgelassen: 27 (kaum Inhalt), 30 (Liebesleben einer echten Person), 33 (Fußball-Streit über Nationalitäten), 36 (zeigt Merts Desktop), 37 (fremde Doku über Gewalt, fremde Rechte).
+Clip 28 endet bewusst vor einem vulgären Satz.
+
+**28:** Coach ist offiziell der Gebildetste 🎓😂 Stream: twitch.tv/coachlim @CoachLim #coachlim #timvollert #twitchclips #deutschestreamer
+
+**29:** „Fuxel, was machst du da?!“ Coach ist eifersüchtig auf eine Spielfigur 😭 Stream: twitch.tv/coachlim @CoachLim #coachlim #gaming #twitchclips #deutschestreamer
+
+**31:** Achte auf den Stuhl 👀 Mert ist einfach weg 😂 Stream: twitch.tv/mertabimula @Mert Abi #mertabi #jumpscare #horrorgame #twitchclips
+
+**32:** Wenn der Neffe zu Besuch ist 😤 Stream: twitch.tv/mertabimula @Mert Abi #mertabi #valorant #twitchclips #deutschestreamer
+
+**34:** „Der Plan war seriös.“ Einfach verkackt 💀 Stream: twitch.tv/mertabimula @Mert Abi #mertabi #valorant #winchallenge #twitchclips
+
+**35:** 1 gegen 5, Gamesense-Abi Mula 🧠 Stream: twitch.tv/mertabimula @Mert Abi #mertabi #valorant #omen #twitchclips
+
 ## TikTok-Captions
 
 **01:** Kleiner Jumpscare von der Seite und alle sind raus 😂 Stream: twitch.tv/coachlim @CoachLim #coachlim #jumpscare #twitchclips #horrorgame

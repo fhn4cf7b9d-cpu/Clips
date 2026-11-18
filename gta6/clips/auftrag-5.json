@@ -1,0 +1,14 @@
+[
+ {"nr": "28", "streamer": "coachlim", "breit": "1440:930:240:0", "start": 0, "dauer": 17.4,
+  "hook1": "Ihr seht hier den Gebildetsten", "hook2": "Coach rankt alle Streamer", "hook_sek": 4},
+ {"nr": "29", "streamer": "coachlim", "breit": "1320:960:0:0", "start": 11, "dauer": 19,
+  "hook1": "„Fuxel, was machst du da?!“", "hook2": "Coach macht Schluss im Game", "hook_sek": 4},
+ {"nr": "31", "streamer": "mertabimula", "cam": "566:318:1340:12", "inhalt": "908:1080:380:0", "oben_h": 700, "start": 0, "dauer": 25.9,
+  "hook1": "Achte auf Merts Stuhl", "hook2": "Er ist einfach weg", "hook_sek": 4},
+ {"nr": "32", "streamer": "mertabimula", "vorlage": "kamera-links-shooter", "start": 0, "dauer": 18.3,
+  "hook1": "Wenn der Neffe zu Besuch ist", "hook2": "Mert verliert die Nerven", "hook_sek": 4},
+ {"nr": "34", "streamer": "mertabimula", "vorlage": "kamera-links-shooter", "start": 0, "dauer": 30,
+  "hook1": "„Der Plan war seriös“", "hook2": "Einfach verkackt", "hook_sek": 4},
+ {"nr": "35", "streamer": "mertabimula", "cam": "566:318:1340:752", "inhalt": "820:976:480:0", "start": 3.5, "dauer": 37.3,
+  "hook1": "1 gegen 5 mit Omen", "hook2": "Gamesense-Abi Mula", "hook_sek": 4}
+]

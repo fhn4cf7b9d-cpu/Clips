@@ -1,0 +1,67 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Wort,DejaVu Sans,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,7,2,2,60,60,480,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.36,0:00:08.72,Wort,,0,0,0,,{\c&H00FFFF&}Was{\c&HFFFFFF&} soll ich
+Dialogue: 0,0:00:08.72,0:00:09.08,Wort,,0,0,0,,Was {\c&H00FFFF&}soll{\c&HFFFFFF&} ich
+Dialogue: 0,0:00:09.08,0:00:12.20,Wort,,0,0,0,,Was soll {\c&H00FFFF&}ich{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.20,0:00:12.36,Wort,,0,0,0,,{\c&H00FFFF&}denn{\c&HFFFFFF&} da machen,
+Dialogue: 0,0:00:12.36,0:00:12.52,Wort,,0,0,0,,denn {\c&H00FFFF&}da{\c&HFFFFFF&} machen,
+Dialogue: 0,0:00:12.52,0:00:12.78,Wort,,0,0,0,,denn da {\c&H00FFFF&}machen,{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.78,0:00:12.92,Wort,,0,0,0,,{\c&H00FFFF&}auch{\c&HFFFFFF&} wenn ich
+Dialogue: 0,0:00:12.92,0:00:13.02,Wort,,0,0,0,,auch {\c&H00FFFF&}wenn{\c&HFFFFFF&} ich
+Dialogue: 0,0:00:13.02,0:00:13.20,Wort,,0,0,0,,auch wenn {\c&H00FFFF&}ich{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.20,0:00:13.28,Wort,,0,0,0,,{\c&H00FFFF&}ihn{\c&HFFFFFF&} kille,
+Dialogue: 0,0:00:13.28,0:00:13.62,Wort,,0,0,0,,ihn {\c&H00FFFF&}kille,{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.62,0:00:13.68,Wort,,0,0,0,,{\c&H00FFFF&}ich{\c&HFFFFFF&} spiele 1
+Dialogue: 0,0:00:13.68,0:00:13.82,Wort,,0,0,0,,ich {\c&H00FFFF&}spiele{\c&HFFFFFF&} 1
+Dialogue: 0,0:00:13.82,0:00:13.98,Wort,,0,0,0,,ich spiele {\c&H00FFFF&}1{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.98,0:00:14.18,Wort,,0,0,0,,{\c&H00FFFF&}gegen{\c&HFFFFFF&} 3,
+Dialogue: 0,0:00:14.18,0:00:14.52,Wort,,0,0,0,,gegen {\c&H00FFFF&}3,{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.52,0:00:14.95,Wort,,0,0,0,,{\c&H00FFFF&}Bruder!{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.50,0:00:15.86,Wort,,0,0,0,,{\c&H00FFFF&}1{\c&HFFFFFF&} gegen 2,
+Dialogue: 0,0:00:15.86,0:00:16.10,Wort,,0,0,0,,1 {\c&H00FFFF&}gegen{\c&HFFFFFF&} 2,
+Dialogue: 0,0:00:16.10,0:00:16.57,Wort,,0,0,0,,1 gegen {\c&H00FFFF&}2,{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.58,0:00:16.74,Wort,,0,0,0,,{\c&H00FFFF&}du{\c&HFFFFFF&} hättest ihn
+Dialogue: 0,0:00:16.74,0:00:16.86,Wort,,0,0,0,,du {\c&H00FFFF&}hättest{\c&HFFFFFF&} ihn
+Dialogue: 0,0:00:16.86,0:00:16.94,Wort,,0,0,0,,du hättest {\c&H00FFFF&}ihn{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.94,0:00:17.04,Wort,,0,0,0,,{\c&H00FFFF&}auch{\c&HFFFFFF&} vielleicht
+Dialogue: 0,0:00:17.04,0:00:17.18,Wort,,0,0,0,,auch {\c&H00FFFF&}vielleicht{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.18,0:00:17.48,Wort,,0,0,0,,{\c&H00FFFF&}holen{\c&HFFFFFF&} können,
+Dialogue: 0,0:00:17.48,0:00:17.68,Wort,,0,0,0,,holen {\c&H00FFFF&}können,{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.68,0:00:17.76,Wort,,0,0,0,,{\c&H00FFFF&}Mario.{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.76,0:00:18.10,Wort,,0,0,0,,{\c&H00FFFF&}Ja,{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.10,0:00:18.36,Wort,,0,0,0,,{\c&H00FFFF&}hätte,{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.36,0:00:18.63,Wort,,0,0,0,,{\c&H00FFFF&}hätte.{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.66,0:00:19.02,Wort,,0,0,0,,{\c&H00FFFF&}Achte{\c&HFFFFFF&} lieber
+Dialogue: 0,0:00:19.02,0:00:19.24,Wort,,0,0,0,,Achte {\c&H00FFFF&}lieber{\c&HFFFFFF&}
+Dialogue: 0,0:00:19.24,0:00:19.42,Wort,,0,0,0,,{\c&H00FFFF&}auf{\c&HFFFFFF&} deinen
+Dialogue: 0,0:00:19.42,0:00:19.56,Wort,,0,0,0,,auf {\c&H00FFFF&}deinen{\c&HFFFFFF&}
+Dialogue: 0,0:00:19.56,0:00:19.88,Wort,,0,0,0,,{\c&H00FFFF&}Arsch,{\c&HFFFFFF&}
+Dialogue: 0,0:00:19.88,0:00:20.65,Wort,,0,0,0,,{\c&H00FFFF&}Amunakoyim.{\c&HFFFFFF&}
+Dialogue: 0,0:00:22.22,0:00:22.58,Wort,,0,0,0,,{\c&H00FFFF&}Jungs,{\c&HFFFFFF&}
+Dialogue: 0,0:00:22.58,0:00:22.94,Wort,,0,0,0,,{\c&H00FFFF&}wir{\c&HFFFFFF&} brauchen
+Dialogue: 0,0:00:22.94,0:00:23.20,Wort,,0,0,0,,wir {\c&H00FFFF&}brauchen{\c&HFFFFFF&}
+Dialogue: 0,0:00:23.20,0:00:23.66,Wort,,0,0,0,,{\c&H00FFFF&}einen{\c&HFFFFFF&} seriösen
+Dialogue: 0,0:00:23.66,0:00:24.66,Wort,,0,0,0,,einen {\c&H00FFFF&}seriösen{\c&HFFFFFF&}
+Dialogue: 0,0:00:24.66,0:00:24.88,Wort,,0,0,0,,{\c&H00FFFF&}Plan{\c&HFFFFFF&} jetzt.
+Dialogue: 0,0:00:24.88,0:00:25.24,Wort,,0,0,0,,Plan {\c&H00FFFF&}jetzt.{\c&HFFFFFF&}
+Dialogue: 0,0:00:25.24,0:00:25.56,Wort,,0,0,0,,{\c&H00FFFF&}Der{\c&HFFFFFF&} Plan war
+Dialogue: 0,0:00:25.56,0:00:25.78,Wort,,0,0,0,,Der {\c&H00FFFF&}Plan{\c&HFFFFFF&} war
+Dialogue: 0,0:00:25.78,0:00:26.04,Wort,,0,0,0,,Der Plan {\c&H00FFFF&}war{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.04,0:00:26.64,Wort,,0,0,0,,{\c&H00FFFF&}seriös,{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.64,0:00:26.90,Wort,,0,0,0,,{\c&H00FFFF&}einfach{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.90,0:00:27.48,Wort,,0,0,0,,{\c&H00FFFF&}verkackt.{\c&HFFFFFF&}
+Dialogue: 0,0:00:27.48,0:00:27.58,Wort,,0,0,0,,{\c&H00FFFF&}Der{\c&HFFFFFF&} Plan war
+Dialogue: 0,0:00:27.58,0:00:27.76,Wort,,0,0,0,,Der {\c&H00FFFF&}Plan{\c&HFFFFFF&} war
+Dialogue: 0,0:00:27.76,0:00:27.94,Wort,,0,0,0,,Der Plan {\c&H00FFFF&}war{\c&HFFFFFF&}
+Dialogue: 0,0:00:27.94,0:00:28.50,Wort,,0,0,0,,{\c&H00FFFF&}seriös.{\c&HFFFFFF&}
+Dialogue: 0,0:00:28.50,0:00:29.61,Wort,,0,0,0,,{\c&H00FFFF&}Ja.{\c&HFFFFFF&}

@@ -1,0 +1,79 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Wort,DejaVu Sans,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,7,2,2,60,60,480,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.23,0:00:01.51,Wort,,0,0,0,,{\c&H00FFFF&}Was{\c&HFFFFFF&} machst du
+Dialogue: 0,0:00:01.51,0:00:01.79,Wort,,0,0,0,,Was {\c&H00FFFF&}machst{\c&HFFFFFF&} du
+Dialogue: 0,0:00:01.79,0:00:01.97,Wort,,0,0,0,,Was machst {\c&H00FFFF&}du{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.97,0:00:02.11,Wort,,0,0,0,,{\c&H00FFFF&}da,{\c&HFFFFFF&}
+Dialogue: 0,0:00:02.11,0:00:02.54,Wort,,0,0,0,,{\c&H00FFFF&}Fuchsel?{\c&HFFFFFF&}
+Dialogue: 0,0:00:02.81,0:00:03.17,Wort,,0,0,0,,{\c&H00FFFF&}Fuchsel,{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.17,0:00:03.25,Wort,,0,0,0,,{\c&H00FFFF&}was{\c&HFFFFFF&} machst du
+Dialogue: 0,0:00:03.25,0:00:03.45,Wort,,0,0,0,,was {\c&H00FFFF&}machst{\c&HFFFFFF&} du
+Dialogue: 0,0:00:03.45,0:00:03.57,Wort,,0,0,0,,was machst {\c&H00FFFF&}du{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.57,0:00:03.67,Wort,,0,0,0,,{\c&H00FFFF&}da?{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.67,0:00:03.81,Wort,,0,0,0,,{\c&H00FFFF&}Wie{\c&HFFFFFF&} würdest du
+Dialogue: 0,0:00:03.81,0:00:03.95,Wort,,0,0,0,,Wie {\c&H00FFFF&}würdest{\c&HFFFFFF&} du
+Dialogue: 0,0:00:03.95,0:00:04.01,Wort,,0,0,0,,Wie würdest {\c&H00FFFF&}du{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.01,0:00:04.07,Wort,,0,0,0,,{\c&H00FFFF&}denn{\c&HFFFFFF&} meine
+Dialogue: 0,0:00:04.07,0:00:04.23,Wort,,0,0,0,,denn {\c&H00FFFF&}meine{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.23,0:00:04.81,Wort,,0,0,0,,{\c&H00FFFF&}Perle{\c&HFFFFFF&} werden,
+Dialogue: 0,0:00:04.81,0:00:05.09,Wort,,0,0,0,,Perle {\c&H00FFFF&}werden,{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.09,0:00:05.19,Wort,,0,0,0,,{\c&H00FFFF&}wenn{\c&HFFFFFF&} du sowas
+Dialogue: 0,0:00:05.19,0:00:05.19,Wort,,0,0,0,,wenn {\c&H00FFFF&}du{\c&HFFFFFF&} sowas
+Dialogue: 0,0:00:05.19,0:00:05.47,Wort,,0,0,0,,wenn du {\c&H00FFFF&}sowas{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.47,0:00:05.69,Wort,,0,0,0,,{\c&H00FFFF&}machst{\c&HFFFFFF&} mit
+Dialogue: 0,0:00:05.69,0:00:05.75,Wort,,0,0,0,,machst {\c&H00FFFF&}mit{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.75,0:00:05.95,Wort,,0,0,0,,{\c&H00FFFF&}anderen{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.95,0:00:06.34,Wort,,0,0,0,,{\c&H00FFFF&}Männern?{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.35,0:00:06.43,Wort,,0,0,0,,{\c&H00FFFF&}Hör{\c&HFFFFFF&} mal auf
+Dialogue: 0,0:00:06.43,0:00:06.47,Wort,,0,0,0,,Hör {\c&H00FFFF&}mal{\c&HFFFFFF&} auf
+Dialogue: 0,0:00:06.47,0:00:06.67,Wort,,0,0,0,,Hör mal {\c&H00FFFF&}auf{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.67,0:00:07.14,Wort,,0,0,0,,{\c&H00FFFF&}damit.{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.17,0:00:07.25,Wort,,0,0,0,,{\c&H00FFFF&}Das{\c&HFFFFFF&} ist echt
+Dialogue: 0,0:00:07.25,0:00:07.39,Wort,,0,0,0,,Das {\c&H00FFFF&}ist{\c&HFFFFFF&} echt
+Dialogue: 0,0:00:07.39,0:00:08.77,Wort,,0,0,0,,Das ist {\c&H00FFFF&}echt{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.77,0:00:09.29,Wort,,0,0,0,,{\c&H00FFFF&}unangenehm{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.29,0:00:09.60,Wort,,0,0,0,,{\c&H00FFFF&}gerade.{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.65,0:00:09.73,Wort,,0,0,0,,{\c&H00FFFF&}Ey,{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.73,0:00:09.83,Wort,,0,0,0,,{\c&H00FFFF&}ich{\c&HFFFFFF&} schäme
+Dialogue: 0,0:00:09.83,0:00:10.03,Wort,,0,0,0,,ich {\c&H00FFFF&}schäme{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.03,0:00:10.19,Wort,,0,0,0,,{\c&H00FFFF&}mich,{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.19,0:00:10.41,Wort,,0,0,0,,{\c&H00FFFF&}Bruder.{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.41,0:00:10.47,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} glaube,
+Dialogue: 0,0:00:10.47,0:00:10.57,Wort,,0,0,0,,Ich {\c&H00FFFF&}glaube,{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.57,0:00:10.63,Wort,,0,0,0,,{\c&H00FFFF&}ich{\c&HFFFFFF&} mache
+Dialogue: 0,0:00:10.63,0:00:10.65,Wort,,0,0,0,,ich {\c&H00FFFF&}mache{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.65,0:00:10.95,Wort,,0,0,0,,{\c&H00FFFF&}Schluss,{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.95,0:00:11.20,Wort,,0,0,0,,{\c&H00FFFF&}ja?{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.61,0:00:11.89,Wort,,0,0,0,,{\c&H00FFFF&}Was{\c&HFFFFFF&} ist das,
+Dialogue: 0,0:00:11.89,0:00:12.01,Wort,,0,0,0,,Was {\c&H00FFFF&}ist{\c&HFFFFFF&} das,
+Dialogue: 0,0:00:12.01,0:00:12.19,Wort,,0,0,0,,Was ist {\c&H00FFFF&}das,{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.19,0:00:12.50,Wort,,0,0,0,,{\c&H00FFFF&}Bruder?{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.69,0:00:13.97,Wort,,0,0,0,,{\c&H00FFFF&}Digga,{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.97,0:00:14.25,Wort,,0,0,0,,{\c&H00FFFF&}erzieh{\c&HFFFFFF&} mal
+Dialogue: 0,0:00:14.25,0:00:14.37,Wort,,0,0,0,,erzieh {\c&H00FFFF&}mal{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.37,0:00:14.51,Wort,,0,0,0,,{\c&H00FFFF&}deine{\c&HFFFFFF&} Freundin
+Dialogue: 0,0:00:14.51,0:00:14.99,Wort,,0,0,0,,deine {\c&H00FFFF&}Freundin{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.99,0:00:15.32,Wort,,0,0,0,,{\c&H00FFFF&}lang.{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.67,0:00:16.03,Wort,,0,0,0,,{\c&H00FFFF&}Fuchsel,{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.03,0:00:16.17,Wort,,0,0,0,,{\c&H00FFFF&}sowas{\c&HFFFFFF&} kannst du
+Dialogue: 0,0:00:16.17,0:00:16.29,Wort,,0,0,0,,sowas {\c&H00FFFF&}kannst{\c&HFFFFFF&} du
+Dialogue: 0,0:00:16.29,0:00:16.39,Wort,,0,0,0,,sowas kannst {\c&H00FFFF&}du{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.39,0:00:16.45,Wort,,0,0,0,,{\c&H00FFFF&}nicht{\c&HFFFFFF&} machen
+Dialogue: 0,0:00:16.45,0:00:16.65,Wort,,0,0,0,,nicht {\c&H00FFFF&}machen{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.65,0:00:16.77,Wort,,0,0,0,,{\c&H00FFFF&}neben{\c&HFFFFFF&} anderen
+Dialogue: 0,0:00:16.77,0:00:16.97,Wort,,0,0,0,,neben {\c&H00FFFF&}anderen{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.97,0:00:17.31,Wort,,0,0,0,,{\c&H00FFFF&}Männern.{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.31,0:00:17.39,Wort,,0,0,0,,{\c&H00FFFF&}Was{\c&HFFFFFF&} machst du
+Dialogue: 0,0:00:17.39,0:00:17.55,Wort,,0,0,0,,Was {\c&H00FFFF&}machst{\c&HFFFFFF&} du
+Dialogue: 0,0:00:17.55,0:00:17.67,Wort,,0,0,0,,Was machst {\c&H00FFFF&}du{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.67,0:00:17.90,Wort,,0,0,0,,{\c&H00FFFF&}da?{\c&HFFFFFF&}

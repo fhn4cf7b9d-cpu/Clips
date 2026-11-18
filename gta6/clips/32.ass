@@ -1,0 +1,47 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Wort,DejaVu Sans,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,7,2,2,60,60,480,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.28,0:00:06.64,Wort,,0,0,0,,{\c&H00FFFF&}Oh{\c&HFFFFFF&} mein Gott,
+Dialogue: 0,0:00:06.64,0:00:06.76,Wort,,0,0,0,,Oh {\c&H00FFFF&}mein{\c&HFFFFFF&} Gott,
+Dialogue: 0,0:00:06.76,0:00:07.11,Wort,,0,0,0,,Oh mein {\c&H00FFFF&}Gott,{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.84,0:00:07.99,Wort,,0,0,0,,{\c&H00FFFF&}ey,{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.08,0:00:08.52,Wort,,0,0,0,,{\c&H00FFFF&}mein{\c&HFFFFFF&} kleiner
+Dialogue: 0,0:00:08.52,0:00:08.84,Wort,,0,0,0,,mein {\c&H00FFFF&}kleiner{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.84,0:00:09.24,Wort,,0,0,0,,{\c&H00FFFF&}Neffe,{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.24,0:00:09.48,Wort,,0,0,0,,{\c&H00FFFF&}dieser{\c&HFFFFFF&} B*stard
+Dialogue: 0,0:00:09.48,0:00:09.92,Wort,,0,0,0,,dieser {\c&H00FFFF&}B*stard{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.92,0:00:10.04,Wort,,0,0,0,,{\c&H00FFFF&}spielt{\c&HFFFFFF&} gerade,
+Dialogue: 0,0:00:10.04,0:00:10.45,Wort,,0,0,0,,spielt {\c&H00FFFF&}gerade,{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.46,0:00:10.54,Wort,,0,0,0,,{\c&H00FFFF&}ey,{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.54,0:00:10.80,Wort,,0,0,0,,{\c&H00FFFF&}verpiss{\c&HFFFFFF&} dich
+Dialogue: 0,0:00:10.80,0:00:10.86,Wort,,0,0,0,,verpiss {\c&H00FFFF&}dich{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.86,0:00:11.00,Wort,,0,0,0,,{\c&H00FFFF&}mal{\c&HFFFFFF&} hier,
+Dialogue: 0,0:00:11.00,0:00:11.28,Wort,,0,0,0,,mal {\c&H00FFFF&}hier,{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.28,0:00:11.98,Wort,,0,0,0,,{\c&H00FFFF&}verpiss{\c&HFFFFFF&} dich
+Dialogue: 0,0:00:11.98,0:00:12.06,Wort,,0,0,0,,verpiss {\c&H00FFFF&}dich{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.06,0:00:12.24,Wort,,0,0,0,,{\c&H00FFFF&}mal{\c&HFFFFFF&} hier.
+Dialogue: 0,0:00:12.24,0:00:12.57,Wort,,0,0,0,,mal {\c&H00FFFF&}hier.{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.76,0:00:14.12,Wort,,0,0,0,,{\c&H00FFFF&}Digga,{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.12,0:00:14.24,Wort,,0,0,0,,{\c&H00FFFF&}dieser{\c&HFFFFFF&} B*stard,
+Dialogue: 0,0:00:14.24,0:00:14.88,Wort,,0,0,0,,dieser {\c&H00FFFF&}B*stard,{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.88,0:00:15.00,Wort,,0,0,0,,{\c&H00FFFF&}er{\c&HFFFFFF&} fressen,
+Dialogue: 0,0:00:15.00,0:00:15.30,Wort,,0,0,0,,er {\c&H00FFFF&}fressen,{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.30,0:00:15.48,Wort,,0,0,0,,{\c&H00FFFF&}Mann,{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.48,0:00:15.62,Wort,,0,0,0,,{\c&H00FFFF&}ich{\c&HFFFFFF&} hasse das,
+Dialogue: 0,0:00:15.62,0:00:15.92,Wort,,0,0,0,,ich {\c&H00FFFF&}hasse{\c&HFFFFFF&} das,
+Dialogue: 0,0:00:15.92,0:00:16.06,Wort,,0,0,0,,ich hasse {\c&H00FFFF&}das,{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.06,0:00:16.18,Wort,,0,0,0,,{\c&H00FFFF&}wenn{\c&HFFFFFF&} Neffen zu
+Dialogue: 0,0:00:16.18,0:00:16.40,Wort,,0,0,0,,wenn {\c&H00FFFF&}Neffen{\c&HFFFFFF&} zu
+Dialogue: 0,0:00:16.40,0:00:16.62,Wort,,0,0,0,,wenn Neffen {\c&H00FFFF&}zu{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.62,0:00:16.96,Wort,,0,0,0,,{\c&H00FFFF&}Besuch{\c&HFFFFFF&} sind,
+Dialogue: 0,0:00:16.96,0:00:17.12,Wort,,0,0,0,,Besuch {\c&H00FFFF&}sind,{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.12,0:00:17.41,Wort,,0,0,0,,{\c&H00FFFF&}ja.{\c&HFFFFFF&}

@@ -1,0 +1,50 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Wort,DejaVu Sans,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,7,2,2,60,60,480,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.50,0:00:00.94,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} alleine,
+Dialogue: 0,0:00:00.94,0:00:01.37,Wort,,0,0,0,,Ich {\c&H00FFFF&}alleine,{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.50,0:00:01.92,Wort,,0,0,0,,{\c&H00FFFF&}das{\c&HFFFFFF&} ist der
+Dialogue: 0,0:00:01.92,0:00:02.12,Wort,,0,0,0,,das {\c&H00FFFF&}ist{\c&HFFFFFF&} der
+Dialogue: 0,0:00:02.12,0:00:02.28,Wort,,0,0,0,,das ist {\c&H00FFFF&}der{\c&HFFFFFF&}
+Dialogue: 0,0:00:02.28,0:00:02.66,Wort,,0,0,0,,{\c&H00FFFF&}Omen,{\c&HFFFFFF&}
+Dialogue: 0,0:00:02.66,0:00:02.82,Wort,,0,0,0,,{\c&H00FFFF&}meine{\c&HFFFFFF&} Damen und
+Dialogue: 0,0:00:02.82,0:00:03.02,Wort,,0,0,0,,meine {\c&H00FFFF&}Damen{\c&HFFFFFF&} und
+Dialogue: 0,0:00:03.02,0:00:03.22,Wort,,0,0,0,,meine Damen {\c&H00FFFF&}und{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.22,0:00:03.56,Wort,,0,0,0,,{\c&H00FFFF&}Herren,{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.56,0:00:03.81,Wort,,0,0,0,,{\c&H00FFFF&}ja?{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.96,0:00:04.40,Wort,,0,0,0,,{\c&H00FFFF&}Deswegen{\c&HFFFFFF&} nennt
+Dialogue: 0,0:00:04.40,0:00:04.72,Wort,,0,0,0,,Deswegen {\c&H00FFFF&}nennt{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.72,0:00:04.76,Wort,,0,0,0,,{\c&H00FFFF&}man{\c&HFFFFFF&} mich auch
+Dialogue: 0,0:00:04.76,0:00:04.96,Wort,,0,0,0,,man {\c&H00FFFF&}mich{\c&HFFFFFF&} auch
+Dialogue: 0,0:00:04.96,0:00:05.12,Wort,,0,0,0,,man mich {\c&H00FFFF&}auch{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.12,0:00:05.68,Wort,,0,0,0,,{\c&H00FFFF&}Gamesense{\c&HFFFFFF&} Abi
+Dialogue: 0,0:00:05.68,0:00:06.02,Wort,,0,0,0,,Gamesense {\c&H00FFFF&}Abi{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.02,0:00:06.41,Wort,,0,0,0,,{\c&H00FFFF&}Mula.{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.78,0:00:07.22,Wort,,0,0,0,,{\c&H00FFFF&}1{\c&HFFFFFF&} gegen 5,
+Dialogue: 0,0:00:07.22,0:00:07.44,Wort,,0,0,0,,1 {\c&H00FFFF&}gegen{\c&HFFFFFF&} 5,
+Dialogue: 0,0:00:07.44,0:00:07.99,Wort,,0,0,0,,1 gegen {\c&H00FFFF&}5,{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.04,0:00:08.29,Wort,,0,0,0,,{\c&H00FFFF&}ja?{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.94,0:00:09.38,Wort,,0,0,0,,{\c&H00FFFF&}Ah,{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.38,0:00:09.97,Wort,,0,0,0,,{\c&H00FFFF&}bravo.{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.02,0:00:10.46,Wort,,0,0,0,,{\c&H00FFFF&}Guck,{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.46,0:00:10.64,Wort,,0,0,0,,{\c&H00FFFF&}was{\c&HFFFFFF&} Papa macht.
+Dialogue: 0,0:00:10.64,0:00:10.84,Wort,,0,0,0,,was {\c&H00FFFF&}Papa{\c&HFFFFFF&} macht.
+Dialogue: 0,0:00:10.84,0:00:11.27,Wort,,0,0,0,,was Papa {\c&H00FFFF&}macht.{\c&HFFFFFF&}
+Dialogue: 0,0:00:32.11,0:00:32.55,Wort,,0,0,0,,{\c&H00FFFF&}Gamesense{\c&HFFFFFF&} Abi
+Dialogue: 0,0:00:32.55,0:00:32.99,Wort,,0,0,0,,Gamesense {\c&H00FFFF&}Abi{\c&HFFFFFF&}
+Dialogue: 0,0:00:32.99,0:00:33.62,Wort,,0,0,0,,{\c&H00FFFF&}Mula.{\c&HFFFFFF&}
+Dialogue: 0,0:00:33.83,0:00:34.27,Wort,,0,0,0,,{\c&H00FFFF&}Habt{\c&HFFFFFF&} ihr Angst
+Dialogue: 0,0:00:34.27,0:00:34.39,Wort,,0,0,0,,Habt {\c&H00FFFF&}ihr{\c&HFFFFFF&} Angst
+Dialogue: 0,0:00:34.39,0:00:34.65,Wort,,0,0,0,,Habt ihr {\c&H00FFFF&}Angst{\c&HFFFFFF&}
+Dialogue: 0,0:00:34.65,0:00:35.05,Wort,,0,0,0,,{\c&H00FFFF&}vor{\c&HFFFFFF&} Omen?
+Dialogue: 0,0:00:35.05,0:00:35.78,Wort,,0,0,0,,vor {\c&H00FFFF&}Omen?{\c&HFFFFFF&}
+Dialogue: 0,0:00:35.91,0:00:36.50,Wort,,0,0,0,,{\c&H00FFFF&}Ja.{\c&HFFFFFF&}
