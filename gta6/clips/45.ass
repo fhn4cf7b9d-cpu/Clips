@@ -1,0 +1,26 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Wort,DejaVu Sans,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,7,2,2,60,60,480,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.22,0:00:01.70,Wort,,0,0,0,,{\c&H00FFFF&}Guck{\c&HFFFFFF&} mal,
+Dialogue: 0,0:00:01.70,0:00:01.90,Wort,,0,0,0,,Guck {\c&H00FFFF&}mal,{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.90,0:00:05.12,Wort,,0,0,0,,{\c&H00FFFF&}Meister{\c&HFFFFFF&} Aura
+Dialogue: 0,0:00:05.12,0:00:05.52,Wort,,0,0,0,,Meister {\c&H00FFFF&}Aura{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.52,0:00:05.70,Wort,,0,0,0,,{\c&H00FFFF&}auf{\c&HFFFFFF&} Server,
+Dialogue: 0,0:00:05.70,0:00:06.17,Wort,,0,0,0,,auf {\c&H00FFFF&}Server,{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.22,0:00:08.20,Wort,,0,0,0,,{\c&H00FFFF&}Meister{\c&HFFFFFF&} Aura
+Dialogue: 0,0:00:08.20,0:00:08.44,Wort,,0,0,0,,Meister {\c&H00FFFF&}Aura{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.44,0:00:08.66,Wort,,0,0,0,,{\c&H00FFFF&}auf{\c&HFFFFFF&} Server,
+Dialogue: 0,0:00:08.66,0:00:09.02,Wort,,0,0,0,,auf {\c&H00FFFF&}Server,{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.02,0:00:09.34,Wort,,0,0,0,,{\c&H00FFFF&}Hände{\c&HFFFFFF&} kurz zur
+Dialogue: 0,0:00:09.34,0:00:09.56,Wort,,0,0,0,,Hände {\c&H00FFFF&}kurz{\c&HFFFFFF&} zur
+Dialogue: 0,0:00:09.56,0:00:09.80,Wort,,0,0,0,,Hände kurz {\c&H00FFFF&}zur{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.80,0:00:10.27,Wort,,0,0,0,,{\c&H00FFFF&}Seite.{\c&HFFFFFF&}

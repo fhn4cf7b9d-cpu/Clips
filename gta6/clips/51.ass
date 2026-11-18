@@ -1,0 +1,84 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Wort,DejaVu Sans,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,7,2,2,60,60,480,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.10,Wort,,0,0,0,,{\c&H00FFFF&}Oh{\c&HFFFFFF&} mein Gott.
+Dialogue: 0,0:00:00.10,0:00:00.26,Wort,,0,0,0,,Oh {\c&H00FFFF&}mein{\c&HFFFFFF&} Gott.
+Dialogue: 0,0:00:00.26,0:00:00.65,Wort,,0,0,0,,Oh mein {\c&H00FFFF&}Gott.{\c&HFFFFFF&}
+Dialogue: 0,0:00:00.92,0:00:01.36,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} bin
+Dialogue: 0,0:00:01.36,0:00:02.08,Wort,,0,0,0,,Ich {\c&H00FFFF&}bin{\c&HFFFFFF&}
+Dialogue: 0,0:00:02.08,0:00:02.63,Wort,,0,0,0,,{\c&H00FFFF&}geF*ckt.{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.10,0:00:03.62,Wort,,0,0,0,,{\c&H00FFFF&}Hey,{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.62,0:00:03.78,Wort,,0,0,0,,{\c&H00FFFF&}nein,{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.78,0:00:04.04,Wort,,0,0,0,,{\c&H00FFFF&}lauf{\c&HFFFFFF&} mal.
+Dialogue: 0,0:00:04.04,0:00:04.39,Wort,,0,0,0,,lauf {\c&H00FFFF&}mal.{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.52,0:00:04.86,Wort,,0,0,0,,{\c&H00FFFF&}Wo{\c&HFFFFFF&} soll ich
+Dialogue: 0,0:00:04.86,0:00:05.14,Wort,,0,0,0,,Wo {\c&H00FFFF&}soll{\c&HFFFFFF&} ich
+Dialogue: 0,0:00:05.14,0:00:05.28,Wort,,0,0,0,,Wo soll {\c&H00FFFF&}ich{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.28,0:00:05.38,Wort,,0,0,0,,{\c&H00FFFF&}denn{\c&HFFFFFF&} hinlaufen?
+Dialogue: 0,0:00:05.38,0:00:05.90,Wort,,0,0,0,,denn {\c&H00FFFF&}hinlaufen?{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.90,0:00:06.10,Wort,,0,0,0,,{\c&H00FFFF&}Guck{\c&HFFFFFF&} mal.
+Dialogue: 0,0:00:06.10,0:00:06.37,Wort,,0,0,0,,Guck {\c&H00FFFF&}mal.{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.70,0:00:07.06,Wort,,0,0,0,,{\c&H00FFFF&}Lauf{\c&HFFFFFF&} nach da,
+Dialogue: 0,0:00:07.06,0:00:07.24,Wort,,0,0,0,,Lauf {\c&H00FFFF&}nach{\c&HFFFFFF&} da,
+Dialogue: 0,0:00:07.24,0:00:07.48,Wort,,0,0,0,,Lauf nach {\c&H00FFFF&}da,{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.48,0:00:07.58,Wort,,0,0,0,,{\c&H00FFFF&}nach{\c&HFFFFFF&} da.
+Dialogue: 0,0:00:07.58,0:00:07.87,Wort,,0,0,0,,nach {\c&H00FFFF&}da.{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.56,0:00:10.00,Wort,,0,0,0,,{\c&H00FFFF&}Guck,{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.00,0:00:10.44,Wort,,0,0,0,,{\c&H00FFFF&}guck,{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.44,0:00:10.66,Wort,,0,0,0,,{\c&H00FFFF&}das{\c&HFFFFFF&} meine ich.
+Dialogue: 0,0:00:10.66,0:00:11.00,Wort,,0,0,0,,das {\c&H00FFFF&}meine{\c&HFFFFFF&} ich.
+Dialogue: 0,0:00:11.00,0:00:11.45,Wort,,0,0,0,,das meine {\c&H00FFFF&}ich.{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.99,0:00:16.43,Wort,,0,0,0,,{\c&H00FFFF&}Einfach{\c&HFFFFFF&} wie so
+Dialogue: 0,0:00:16.43,0:00:16.57,Wort,,0,0,0,,Einfach {\c&H00FFFF&}wie{\c&HFFFFFF&} so
+Dialogue: 0,0:00:16.57,0:00:16.71,Wort,,0,0,0,,Einfach wie {\c&H00FFFF&}so{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.71,0:00:16.83,Wort,,0,0,0,,{\c&H00FFFF&}ein{\c&HFFFFFF&} Penner mit
+Dialogue: 0,0:00:16.83,0:00:17.17,Wort,,0,0,0,,ein {\c&H00FFFF&}Penner{\c&HFFFFFF&} mit
+Dialogue: 0,0:00:17.17,0:00:17.27,Wort,,0,0,0,,ein Penner {\c&H00FFFF&}mit{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.27,0:00:17.73,Wort,,0,0,0,,{\c&H00FFFF&}Schaufel.{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.73,0:00:18.07,Wort,,0,0,0,,{\c&H00FFFF&}Wallah,{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.07,0:00:18.56,Wort,,0,0,0,,{\c&H00FFFF&}Bruder.{\c&HFFFFFF&}
+Dialogue: 0,0:00:29.40,0:00:29.86,Wort,,0,0,0,,{\c&H00FFFF&}Guck,{\c&HFFFFFF&}
+Dialogue: 0,0:00:29.86,0:00:30.00,Wort,,0,0,0,,{\c&H00FFFF&}die{\c&HFFFFFF&} sind
+Dialogue: 0,0:00:30.00,0:00:30.12,Wort,,0,0,0,,die {\c&H00FFFF&}sind{\c&HFFFFFF&}
+Dialogue: 0,0:00:30.12,0:00:30.34,Wort,,0,0,0,,{\c&H00FFFF&}einfach{\c&HFFFFFF&} wieder
+Dialogue: 0,0:00:30.34,0:00:30.54,Wort,,0,0,0,,einfach {\c&H00FFFF&}wieder{\c&HFFFFFF&}
+Dialogue: 0,0:00:30.54,0:00:30.87,Wort,,0,0,0,,{\c&H00FFFF&}da.{\c&HFFFFFF&}
+Dialogue: 0,0:00:31.70,0:00:32.14,Wort,,0,0,0,,{\c&H00FFFF&}Sind{\c&HFFFFFF&} einfach
+Dialogue: 0,0:00:32.14,0:00:32.38,Wort,,0,0,0,,Sind {\c&H00FFFF&}einfach{\c&HFFFFFF&}
+Dialogue: 0,0:00:32.38,0:00:32.64,Wort,,0,0,0,,{\c&H00FFFF&}wieder{\c&HFFFFFF&} da.
+Dialogue: 0,0:00:32.64,0:00:32.88,Wort,,0,0,0,,wieder {\c&H00FFFF&}da.{\c&HFFFFFF&}
+Dialogue: 0,0:00:32.88,0:00:33.06,Wort,,0,0,0,,{\c&H00FFFF&}Wieso{\c&HFFFFFF&} soll ich
+Dialogue: 0,0:00:33.06,0:00:33.16,Wort,,0,0,0,,Wieso {\c&H00FFFF&}soll{\c&HFFFFFF&} ich
+Dialogue: 0,0:00:33.16,0:00:33.22,Wort,,0,0,0,,Wieso soll {\c&H00FFFF&}ich{\c&HFFFFFF&}
+Dialogue: 0,0:00:33.22,0:00:33.26,Wort,,0,0,0,,{\c&H00FFFF&}das{\c&HFFFFFF&} jetzt
+Dialogue: 0,0:00:33.26,0:00:33.44,Wort,,0,0,0,,das {\c&H00FFFF&}jetzt{\c&HFFFFFF&}
+Dialogue: 0,0:00:33.44,0:00:33.81,Wort,,0,0,0,,{\c&H00FFFF&}machen?{\c&HFFFFFF&}
+Dialogue: 0,0:00:36.70,0:00:37.29,Wort,,0,0,0,,{\c&H00FFFF&}Guck.{\c&HFFFFFF&}
+Dialogue: 0,0:00:42.37,0:00:42.96,Wort,,0,0,0,,{\c&H00FFFF&}Hallo.{\c&HFFFFFF&}
+Dialogue: 0,0:00:43.97,0:00:44.56,Wort,,0,0,0,,{\c&H00FFFF&}Hallo.{\c&HFFFFFF&}
+Dialogue: 0,0:00:45.55,0:00:45.99,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} sterbe.
+Dialogue: 0,0:00:45.99,0:00:46.58,Wort,,0,0,0,,Ich {\c&H00FFFF&}sterbe.{\c&HFFFFFF&}
+Dialogue: 0,0:00:51.18,0:00:51.75,Wort,,0,0,0,,{\c&H00FFFF&}So,{\c&HFFFFFF&}
+Dialogue: 0,0:00:52.54,0:00:52.72,Wort,,0,0,0,,{\c&H00FFFF&}so,{\c&HFFFFFF&}
+Dialogue: 0,0:00:52.72,0:00:52.88,Wort,,0,0,0,,{\c&H00FFFF&}so,{\c&HFFFFFF&}
+Dialogue: 0,0:00:52.88,0:00:53.18,Wort,,0,0,0,,{\c&H00FFFF&}alles{\c&HFFFFFF&} gut,
+Dialogue: 0,0:00:53.18,0:00:53.44,Wort,,0,0,0,,alles {\c&H00FFFF&}gut,{\c&HFFFFFF&}
+Dialogue: 0,0:00:53.44,0:00:53.64,Wort,,0,0,0,,{\c&H00FFFF&}Bruder.{\c&HFFFFFF&}
+Dialogue: 0,0:00:53.64,0:00:53.86,Wort,,0,0,0,,{\c&H00FFFF&}Mach{\c&HFFFFFF&} mal
+Dialogue: 0,0:00:53.86,0:00:54.10,Wort,,0,0,0,,Mach {\c&H00FFFF&}mal{\c&HFFFFFF&}
+Dialogue: 0,0:00:54.10,0:00:54.32,Wort,,0,0,0,,{\c&H00FFFF&}locker,{\c&HFFFFFF&}
+Dialogue: 0,0:00:54.32,0:00:54.71,Wort,,0,0,0,,{\c&H00FFFF&}Bruder.{\c&HFFFFFF&}
+Dialogue: 0,0:00:54.92,0:00:55.44,Wort,,0,0,0,,{\c&H00FFFF&}Kinderspiel,{\c&HFFFFFF&}
+Dialogue: 0,0:00:55.44,0:00:55.69,Wort,,0,0,0,,{\c&H00FFFF&}Bruder.{\c&HFFFFFF&}
+Dialogue: 0,0:00:56.30,0:00:56.87,Wort,,0,0,0,,{\c&H00FFFF&}So,{\c&HFFFFFF&}
+Dialogue: 0,0:00:57.80,0:00:58.02,Wort,,0,0,0,,{\c&H00FFFF&}so,{\c&HFFFFFF&}
+Dialogue: 0,0:00:58.02,0:00:58.29,Wort,,0,0,0,,{\c&H00FFFF&}so.{\c&HFFFFFF&}

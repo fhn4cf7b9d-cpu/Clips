@@ -1,0 +1,21 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Wort,DejaVu Sans,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,7,2,2,60,60,480,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.19,0:00:02.27,Wort,,0,0,0,,{\c&H00FFFF&}den{\c&HFFFFFF&} knopf
+Dialogue: 0,0:00:02.27,0:00:02.71,Wort,,0,0,0,,den {\c&H00FFFF&}knopf{\c&HFFFFFF&}
+Dialogue: 0,0:00:02.71,0:00:03.11,Wort,,0,0,0,,{\c&H00FFFF&}mitgenommen{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.11,0:00:04.38,Wort,,0,0,0,,{\c&H00FFFF&}alles{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.39,0:00:16.89,Wort,,0,0,0,,{\c&H00FFFF&}kaputt{\c&HFFFFFF&} oh nein
+Dialogue: 0,0:00:16.89,0:00:17.01,Wort,,0,0,0,,kaputt {\c&H00FFFF&}oh{\c&HFFFFFF&} nein
+Dialogue: 0,0:00:17.01,0:00:17.23,Wort,,0,0,0,,kaputt oh {\c&H00FFFF&}nein{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.23,0:00:18.89,Wort,,0,0,0,,{\c&H00FFFF&}oh{\c&HFFFFFF&} nein
+Dialogue: 0,0:00:18.89,0:00:19.36,Wort,,0,0,0,,oh {\c&H00FFFF&}nein{\c&HFFFFFF&}

@@ -1,0 +1,68 @@
+[
+ {
+  "nr": "39",
+  "streamer": "niklaswilson",
+  "cam": "530:298:1368:700",
+  "inhalt": "806:960:350:0",
+  "start": 8,
+  "dauer": 22,
+  "hook1": "„Ich hab nur den Knopf mitgenommen“",
+  "hook2": "Jetzt ist alles kaputt",
+  "hook_sek": 4
+ },
+ {
+  "nr": "45",
+  "streamer": "niklaswilson",
+  "cam": "530:298:1368:700",
+  "inhalt": "806:960:350:0",
+  "start": 0,
+  "dauer": 21,
+  "hook1": "„Meister-Aura auf Server“",
+  "hook2": "Willi läuft ein wie ein Boss",
+  "hook_sek": 4
+ },
+ {
+  "nr": "47",
+  "streamer": "aymen",
+  "cam": "500:282:1418:790",
+  "inhalt": "806:960:500:0",
+  "start": 0,
+  "dauer": 20,
+  "hook1": "Aymen allein gegen alle",
+  "hook2": "Triplekill mit der Pistole",
+  "hook_sek": 4
+ },
+ {
+  "nr": "48",
+  "streamer": "aymen",
+  "cam": "550:310:1370:0",
+  "inhalt": "806:960:520:0",
+  "start": 0,
+  "dauer": 30,
+  "hook1": "„Eine KI bringt mich um?!“",
+  "hook2": "Aymen verliert gegen einen Bot",
+  "hook_sek": 4
+ },
+ {
+  "nr": "49",
+  "streamer": "aymen",
+  "cam": "550:314:690:766",
+  "inhalt": "720:760:600:0",
+  "start": 0,
+  "dauer": 27,
+  "hook1": "„Push, push, push!“",
+  "hook2": "Aymen holt die Runde mit Rezz",
+  "hook_sek": 4
+ },
+ {
+  "nr": "51",
+  "streamer": "aymen",
+  "cam": "530:320:0:760",
+  "inhalt": "806:960:600:0",
+  "start": 0,
+  "dauer": 20,
+  "hook1": "„Wie so ein Penner mit Schaufel“",
+  "hook2": "Aymen gegen die Monster",
+  "hook_sek": 4
+ }
+]

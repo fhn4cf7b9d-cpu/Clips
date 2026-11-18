@@ -66,6 +66,31 @@ Clip 28 endet bewusst vor einem vulgären Satz.
 
 **35:** 1 gegen 5, Gamesense-Abi Mula 🧠 Stream: twitch.tv/mertabimula @Mert Abi #mertabi #valorant #omen #twitchclips
 
+## Willi (twitch.tv/niklaswilson) und Aymen (twitch.tv/aymen), 18.11.2026
+
+| Nr | Datei | Länge | Quelle | Aufrufe auf Twitch (18.11.2026, 30 Tage) |
+|---|---|---|---|---|
+| 39 | 39-fertig.mp4 | 22 s | https://www.twitch.tv/niklaswilson/clip/SassyArtisticSproutPogChamp-8-KXFAn_zZ4FDqHC | 4.947 |
+| 45 | 45-fertig.mp4 | 21 s | https://www.twitch.tv/niklaswilson/clip/PatientColdbloodedSardineStoneLightning-PdaioZGgymdLIGl0 | 1.539 |
+| 47 | 47-fertig.mp4 | 20 s | https://www.twitch.tv/aymen/clip/DependablePerfectDugongPipeHype-uit0U7d7GmelYWja | 554 |
+| 48 | 48-fertig.mp4 | 30 s | https://www.twitch.tv/aymen/clip/SmellyFlaccidClipsdadPRChase-9mIfnXyJcr9W8I4j | 257 |
+| 49 | 49-fertig.mp4 | 27 s | https://www.twitch.tv/aymen/clip/GiftedHedonisticTitanHumbleLife-qW8vfHOi81UUhF7W | 255 |
+| 51 | 51-fertig.mp4 | 20 s | https://www.twitch.tv/aymen/clip/BlindingTriumphantDaikonResidentSleeper-_FNhJr-rCu13FcjZ | 209 |
+
+Ausgelassen: 38 (frauenfeindliche Beleidigungen), 40 (fremde TV-Show), 41 und 44 (Reaktion auf einen fremden Stream, zweiter Rechteinhaber), 42 (Gespräch über Tötungsdelikte), 43 und 46 (kaum Inhalt), 50 und 52 (sexuelle Anspielungen).
+
+**39:** Er hat nur den Knopf mitgenommen 😭 Jetzt ist alles kaputt Stream: twitch.tv/niklaswilson @Willi #willi #niklaswilson #minecraft #twitchclips
+
+**45:** Meister-Aura auf dem Server 😎 Stream: twitch.tv/niklaswilson @Willi #willi #niklaswilson #minecraft #twitchclips
+
+**47:** Aymen allein gegen alle 🔫 Stream: twitch.tv/aymen @Aymen #aymen #valorant #triplekill #twitchclips
+
+**48:** „Eine KI bringt mich um?!“ 🤖😤 Stream: twitch.tv/aymen @Aymen #aymen #minecraft #crashout #twitchclips
+
+**49:** Push, push, push 🔥 Aymen und Rezz holen die Runde Stream: twitch.tv/aymen @Aymen #aymen #valorant #twitchclips #deutschestreamer
+
+**51:** „Wie so ein Penner mit Schaufel“ ⛏️😂 Stream: twitch.tv/aymen @Aymen #aymen #minecraft #twitchclips #deutschestreamer
+
 ## TikTok-Captions
 
 **01:** Kleiner Jumpscare von der Seite und alle sind raus 😂 Stream: twitch.tv/coachlim @CoachLim #coachlim #jumpscare #twitchclips #horrorgame

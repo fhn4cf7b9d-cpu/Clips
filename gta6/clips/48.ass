@@ -1,0 +1,90 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Wort,DejaVu Sans,88,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,7,2,2,60,60,480,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.21,0:00:00.39,Wort,,0,0,0,,{\c&H00FFFF&}Du{\c&HFFFFFF&} hast es
+Dialogue: 0,0:00:00.39,0:00:00.63,Wort,,0,0,0,,Du {\c&H00FFFF&}hast{\c&HFFFFFF&} es
+Dialogue: 0,0:00:00.63,0:00:00.79,Wort,,0,0,0,,Du hast {\c&H00FFFF&}es{\c&HFFFFFF&}
+Dialogue: 0,0:00:00.79,0:00:00.95,Wort,,0,0,0,,{\c&H00FFFF&}ja{\c&HFFFFFF&} vorhin
+Dialogue: 0,0:00:00.95,0:00:01.43,Wort,,0,0,0,,ja {\c&H00FFFF&}vorhin{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.43,0:00:01.69,Wort,,0,0,0,,{\c&H00FFFF&}selbst{\c&HFFFFFF&} gesagt.
+Dialogue: 0,0:00:01.69,0:00:02.30,Wort,,0,0,0,,selbst {\c&H00FFFF&}gesagt.{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.99,0:00:04.47,Wort,,0,0,0,,{\c&H00FFFF&}Na{\c&HFFFFFF&} so,
+Dialogue: 0,0:00:04.47,0:00:05.05,Wort,,0,0,0,,Na {\c&H00FFFF&}so,{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.05,0:00:05.79,Wort,,0,0,0,,{\c&H00FFFF&}Eamon,{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.79,0:00:06.21,Wort,,0,0,0,,{\c&H00FFFF&}raus{\c&HFFFFFF&} aus dem
+Dialogue: 0,0:00:06.21,0:00:06.61,Wort,,0,0,0,,raus {\c&H00FFFF&}aus{\c&HFFFFFF&} dem
+Dialogue: 0,0:00:06.61,0:00:06.85,Wort,,0,0,0,,raus aus {\c&H00FFFF&}dem{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.85,0:00:07.61,Wort,,0,0,0,,{\c&H00FFFF&}Schweinestall{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.61,0:00:08.09,Wort,,0,0,0,,{\c&H00FFFF&}und{\c&HFFFFFF&} ganz ohne
+Dialogue: 0,0:00:08.09,0:00:08.45,Wort,,0,0,0,,und {\c&H00FFFF&}ganz{\c&HFFFFFF&} ohne
+Dialogue: 0,0:00:08.45,0:00:08.83,Wort,,0,0,0,,und ganz {\c&H00FFFF&}ohne{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.83,0:00:09.23,Wort,,0,0,0,,{\c&H00FFFF&}meine{\c&HFFFFFF&} Hilfe.
+Dialogue: 0,0:00:09.23,0:00:09.85,Wort,,0,0,0,,meine {\c&H00FFFF&}Hilfe.{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.85,0:00:10.01,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} mach
+Dialogue: 0,0:00:10.01,0:00:10.23,Wort,,0,0,0,,Ich {\c&H00FFFF&}mach{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.23,0:00:10.68,Wort,,0,0,0,,{\c&H00FFFF&}nichts,{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.71,0:00:10.81,Wort,,0,0,0,,{\c&H00FFFF&}ich{\c&HFFFFFF&} nehm nur
+Dialogue: 0,0:00:10.81,0:00:11.03,Wort,,0,0,0,,ich {\c&H00FFFF&}nehm{\c&HFFFFFF&} nur
+Dialogue: 0,0:00:11.03,0:00:11.09,Wort,,0,0,0,,ich nehm {\c&H00FFFF&}nur{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.09,0:00:11.31,Wort,,0,0,0,,{\c&H00FFFF&}meine{\c&HFFFFFF&} Sachen.
+Dialogue: 0,0:00:11.31,0:00:11.61,Wort,,0,0,0,,meine {\c&H00FFFF&}Sachen.{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.61,0:00:11.97,Wort,,0,0,0,,{\c&H00FFFF&}Du{\c&HFFFFFF&} helfen,
+Dialogue: 0,0:00:11.97,0:00:12.72,Wort,,0,0,0,,Du {\c&H00FFFF&}helfen,{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.77,0:00:12.95,Wort,,0,0,0,,{\c&H00FFFF&}statt{\c&HFFFFFF&} die Leute
+Dialogue: 0,0:00:12.95,0:00:13.47,Wort,,0,0,0,,statt {\c&H00FFFF&}die{\c&HFFFFFF&} Leute
+Dialogue: 0,0:00:13.47,0:00:13.67,Wort,,0,0,0,,statt die {\c&H00FFFF&}Leute{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.67,0:00:13.87,Wort,,0,0,0,,{\c&H00FFFF&}zu{\c&HFFFFFF&} beleidigen.
+Dialogue: 0,0:00:13.87,0:00:14.59,Wort,,0,0,0,,zu {\c&H00FFFF&}beleidigen.{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.59,0:00:15.01,Wort,,0,0,0,,{\c&H00FFFF&}Meine{\c&HFFFFFF&} Mutter
+Dialogue: 0,0:00:15.01,0:00:15.33,Wort,,0,0,0,,Meine {\c&H00FFFF&}Mutter{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.33,0:00:15.49,Wort,,0,0,0,,{\c&H00FFFF&}F*ckt{\c&HFFFFFF&} sich
+Dialogue: 0,0:00:15.49,0:00:15.57,Wort,,0,0,0,,F*ckt {\c&H00FFFF&}sich{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.57,0:00:15.71,Wort,,0,0,0,,{\c&H00FFFF&}seinen{\c&HFFFFFF&} Arsch,
+Dialogue: 0,0:00:15.71,0:00:16.01,Wort,,0,0,0,,seinen {\c&H00FFFF&}Arsch,{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.01,0:00:16.11,Wort,,0,0,0,,{\c&H00FFFF&}dieser{\c&HFFFFFF&} KI
+Dialogue: 0,0:00:16.11,0:00:16.31,Wort,,0,0,0,,dieser {\c&H00FFFF&}KI{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.31,0:00:16.69,Wort,,0,0,0,,{\c&H00FFFF&}Bruder,{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.69,0:00:16.94,Wort,,0,0,0,,{\c&H00FFFF&}ja?{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.95,0:00:17.19,Wort,,0,0,0,,{\c&H00FFFF&}Ich{\c&HFFFFFF&} F*ck seinen
+Dialogue: 0,0:00:17.19,0:00:17.35,Wort,,0,0,0,,Ich {\c&H00FFFF&}F*ck{\c&HFFFFFF&} seinen
+Dialogue: 0,0:00:17.35,0:00:17.47,Wort,,0,0,0,,Ich F*ck {\c&H00FFFF&}seinen{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.47,0:00:18.53,Wort,,0,0,0,,{\c&H00FFFF&}Arsch,{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.53,0:00:18.61,Wort,,0,0,0,,{\c&H00FFFF&}ich{\c&HFFFFFF&} bin
+Dialogue: 0,0:00:18.61,0:00:18.63,Wort,,0,0,0,,ich {\c&H00FFFF&}bin{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.63,0:00:19.15,Wort,,0,0,0,,{\c&H00FFFF&}abgefuckt,{\c&HFFFFFF&}
+Dialogue: 0,0:00:19.15,0:00:19.25,Wort,,0,0,0,,{\c&H00FFFF&}der{\c&HFFFFFF&} Junkie KI
+Dialogue: 0,0:00:19.25,0:00:19.67,Wort,,0,0,0,,der {\c&H00FFFF&}Junkie{\c&HFFFFFF&} KI
+Dialogue: 0,0:00:19.67,0:00:19.79,Wort,,0,0,0,,der Junkie {\c&H00FFFF&}KI{\c&HFFFFFF&}
+Dialogue: 0,0:00:19.79,0:00:20.26,Wort,,0,0,0,,{\c&H00FFFF&}Bruder.{\c&HFFFFFF&}
+Dialogue: 0,0:00:20.41,0:00:20.89,Wort,,0,0,0,,{\c&H00FFFF&}Was{\c&HFFFFFF&} ist das
+Dialogue: 0,0:00:20.89,0:00:21.01,Wort,,0,0,0,,Was {\c&H00FFFF&}ist{\c&HFFFFFF&} das
+Dialogue: 0,0:00:21.01,0:00:21.13,Wort,,0,0,0,,Was ist {\c&H00FFFF&}das{\c&HFFFFFF&}
+Dialogue: 0,0:00:21.13,0:00:21.46,Wort,,0,0,0,,{\c&H00FFFF&}denn?{\c&HFFFFFF&}
+Dialogue: 0,0:00:21.73,0:00:22.15,Wort,,0,0,0,,{\c&H00FFFF&}Was{\c&HFFFFFF&} ist das
+Dialogue: 0,0:00:22.15,0:00:22.27,Wort,,0,0,0,,Was {\c&H00FFFF&}ist{\c&HFFFFFF&} das
+Dialogue: 0,0:00:22.27,0:00:22.39,Wort,,0,0,0,,Was ist {\c&H00FFFF&}das{\c&HFFFFFF&}
+Dialogue: 0,0:00:22.39,0:00:22.76,Wort,,0,0,0,,{\c&H00FFFF&}denn?{\c&HFFFFFF&}
+Dialogue: 0,0:00:22.95,0:00:23.43,Wort,,0,0,0,,{\c&H00FFFF&}Willst{\c&HFFFFFF&} du mich
+Dialogue: 0,0:00:23.43,0:00:23.43,Wort,,0,0,0,,Willst {\c&H00FFFF&}du{\c&HFFFFFF&} mich
+Dialogue: 0,0:00:23.43,0:00:23.55,Wort,,0,0,0,,Willst du {\c&H00FFFF&}mich{\c&HFFFFFF&}
+Dialogue: 0,0:00:23.55,0:00:24.21,Wort,,0,0,0,,{\c&H00FFFF&}verarschen?{\c&HFFFFFF&}
+Dialogue: 0,0:00:24.21,0:00:24.59,Wort,,0,0,0,,{\c&H00FFFF&}Ein{\c&HFFFFFF&} KI bringt
+Dialogue: 0,0:00:24.59,0:00:24.83,Wort,,0,0,0,,Ein {\c&H00FFFF&}KI{\c&HFFFFFF&} bringt
+Dialogue: 0,0:00:24.83,0:00:25.11,Wort,,0,0,0,,Ein KI {\c&H00FFFF&}bringt{\c&HFFFFFF&}
+Dialogue: 0,0:00:25.11,0:00:25.33,Wort,,0,0,0,,{\c&H00FFFF&}mich{\c&HFFFFFF&} um?
+Dialogue: 0,0:00:25.33,0:00:25.68,Wort,,0,0,0,,mich {\c&H00FFFF&}um?{\c&HFFFFFF&}
+Dialogue: 0,0:00:25.77,0:00:26.25,Wort,,0,0,0,,{\c&H00FFFF&}Wegen{\c&HFFFFFF&} Mehdi?
+Dialogue: 0,0:00:26.25,0:00:26.70,Wort,,0,0,0,,Wegen {\c&H00FFFF&}Mehdi?{\c&HFFFFFF&}
+Dialogue: 0,0:00:27.09,0:00:27.57,Wort,,0,0,0,,{\c&H00FFFF&}Wegen{\c&HFFFFFF&} Mehdi?
+Dialogue: 0,0:00:27.57,0:00:28.14,Wort,,0,0,0,,Wegen {\c&H00FFFF&}Mehdi?{\c&HFFFFFF&}
+Dialogue: 0,0:00:28.63,0:00:29.11,Wort,,0,0,0,,{\c&H00FFFF&}Wegen{\c&HFFFFFF&} Mehdi?
+Dialogue: 0,0:00:29.11,0:00:29.62,Wort,,0,0,0,,Wegen {\c&H00FFFF&}Mehdi?{\c&HFFFFFF&}
